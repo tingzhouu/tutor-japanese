@@ -148,223 +148,7 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ## Session Log
 
-> Older sessions (2026-02-21 through 2026-03-08) archived in PROGRESS_ARCHIVE.md
-
----
-
-### 2026-03-09 — L08 Roleplay + Error Drill
-
-#### L08 Roleplay: Lunch break — inviting coworker to baseball
-
-**Scenario:** Lunch break at work, choosing where to eat, then inviting coworker to a weekend baseball game in Sapporo.
-
-**Patterns used:** V-に行きませんか, V-たことがありますか, Nの前に + んですが, Nのあとで, もう〜ましたか (implicit)
-
-**Assessment:** Good production under pressure. Multiple L08 patterns deployed in conversation. Errors mostly in particles and small structural pieces — grammar skeleton is forming.
-
-#### Roleplay Errors Identified (8)
-
-| # | Error | Correction | Category |
-|---|-------|-----------|----------|
-| 1 | 見**ることがある** | 見**たことがある** (need た-form) | Grammar |
-| 2 | 行き**ませんですか** | 行き**ませんか** | Grammar |
-| 3 | 野球**前に** / 野球**あとで** | 野球**の**前に / 野球**の**あとで | Grammar |
-| 4 | 新幹線**を**乗ります | 新幹線**に**乗ります | Particle |
-| 5 | ドム / モル | **ドーム** | Katakana |
-| 6 | ラメンー | **ラーメン** (ー after ラ, full katakana) | Katakana |
-| 7 | ラーメン**が**食べたい | ラーメン**を**食べたい | Particle |
-| 8 | 行きませんですか (double polite) | ませんか already polite — no です | Grammar |
-
-#### Error Drill Results
-
-| # | Target | Answer | Result |
-|---|--------|--------|--------|
-| 1 | V-たことがある | 野球を見たことがありますか | ✅ |
-| 2 | V-に行きませんか | 野球の試合を見に行きませんか | ✅ |
-| 3 | Nの前に + んですが | 試合の前に、ラーメンは食べたいんですが | ✅ (minor: は→を) |
-| 4 | Nのあとで + に乗る | 試合の後で、新幹線に乗ります | ✅✅ |
-| 5 | ドーム / ラーメン spelling | ドーム ✅ / ラーめん ❌ (メン not めん) | ✅ / 🟡 |
-
-**5.5/6.** All grammar errors corrected on first try. Katakana loanword rule (stay full katakana) still needs attention.
-
-#### What went well
-- First full roleplay completed — sustained conversation with multiple L08 patterns
-- の前に / のあとで corrected and applied correctly in drill
-- 新幹線**に**乗る corrected (に for boarding)
-- V-たことがある — た-form now correct
-
-#### Open items
-- V-方 ます-stem — needs more reps
-- V-るのは for verb topics in contrast — needs reps
-- な-adj past negative (じゃなかったです) — not drilled
-- から/まで — carried over, not yet drilled
-- で vs に particle choice — ongoing
-- Verb negative plain row shift — carried over
-- Katakana loanword spelling — ラーメン full katakana
-
----
-
----
-
-### 2026-03-10 — V-方 + な-adj Past Negative + から/まで
-
-#### Round 1: V-方（ます-stem） — 7/8
-
-| Prompt | Answer | Result |
-|---|---|---|
-| 使う | つかいかた | ✅ |
-| 作る | つくいかた → **つくりかた** | ❌ (る→り, not い) |
-| 遊ぶ | あそびかた | ✅ |
-| 書く | かきかた | ✅ |
-| 泳ぐ | およぎかた | ✅ |
-| 話す | はなしかた | ✅ |
-| Sentence: 読む | この漢字のよみかたがわかりません | ✅ |
-| Sentence: 話す | 日本語のはなしかたを教えてもらえませんか | ✅ |
-
-#### Round 2: な-adj Past Negative — 8/10
-
-| Prompt | Answer | Result |
-|---|---|---|
-| 有名 → past neg | じゃなかったです | ✅ |
-| 静か → past neg | じゃなかったです | ✅ |
-| 便利 → past neg | じゃなかったです | ✅ |
-| きれい → past (curveball) | きれいかったです → **きれいでした** | ❌ (な-adj past = でした) |
-| 退屈 → past neg | じゃなかったです | ✅ |
-| きれい → past neg | じゃなかったです | ✅ |
-| 難しい → past neg (curveball) | じゃなかったです → **くなかったです** | ❌ (い-adj, not な-adj) |
-| 危ない → past neg | 危なくなかったです | ✅ |
-| 簡単 → past neg | じゃなかったです | ✅ |
-| いい → past neg | よくなかったです | ✅ |
-
-#### Round 3: から/まで — 6/8
-
-| Prompt | Answer | Result |
-|---|---|---|
-| Monday to Friday | 月曜日から金曜日まで | ✅ |
-| House to station (walk) | 家から駅まで歩きます | ✅ |
-| What time from? | 何時からですか | ✅ |
-| What time until? | 何時までですか | ✅ |
-| 12:00–1:00 | 十三まで → **一時まで** | ❌ (missing 時, use 一時 not 十三時) |
-| Tokyo to Osaka by shinkansen | 東京から新幹線大阪まで → **東京から大阪まで新幹線で** | ❌ (word order: から…まで first, means で after) |
-| Since October | 十月から日本語を勉強 | ✅ |
-| How long house to station? | 家から駅までどのぐらいかかりますか | ✅ |
-
-#### Bonus Q&A
-- どうやって行きますか = "How do you get there?" — asks about transport method. Answer with [means]で行きます.
-- Caught: どうや**て** → どうや**って** (っ missing)
-
-#### What went well
-- V-方 ます-stem rule solid (7/8)
-- じゃなかったです correct every time when な-adj identified
-- から/まで picked up quickly — basic time/place usage clean
-- いい irregular still holding
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 作る → つくいかた | ます-stem: る→り (つくります→つくり方) | New — corrected |
-| きれい past: かったです | きれい is な-adj → past = でした | ⚠️ recurring (#17 area) |
-| 難しい past neg: じゃなかったです | い-adj past neg = くなかったです | New (adj type confusion) |
-| Time missing 時 | 十三 is a number, 一時 is a time | New |
-| から…まで + で word order | [from]から[to]まで [means]で | New |
-
-#### Open items
-- V-るのは for verb topics in contrast — not yet drilled
-- で vs に particle choice — ongoing
-- Verb negative plain row shift — carried over
-- Katakana loanword spelling — carried over
-- い-adj vs な-adj identification under pressure — needs reps
-- から…まで + で word order — needs reps
-
----
-
-### 2026-03-11 — V-るのは Contrast + い/な-adj Mixed + で vs に + から/まで Sentences
-
-#### Round 1: V-るのは Contrast — 3/5
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Speaking Japanese is fun | 日本語の話のは → 日本語**を話すのは** | ❌ | Use verb dictionary form, not noun |
-| 2 | Memorizing kanji is difficult | 漢字を覚えるのは難しいです | ✅ | |
-| 3 | Reading easy, writing difficult | 読むのは簡単です、でもかくのは難しいです | ✅ | |
-| 4 | Like listening, bad at singing | 好き**けど** → 好き**だけど** | ❌ | な-adj + だけど |
-| 5 | Writing hiragana easy, reading kanji difficult | 難し**です** → 難し**い**です | ❌ | い-adj: keep い |
-
-#### Round 2: い-adj vs な-adj Mixed — 8/10
-
-| # | Adjective | Form | Answer | Result | Note |
-|---|-----------|------|--------|--------|------|
-| 1 | 静か | て-form | て → **で** | ❌ | な-adj て-form = で |
-| 2 | 危ない | past | 危なかった | ✅ | |
-| 3 | きれい | て-form | きれいで | ✅ | |
-| 4 | 楽しい | past neg | 楽しくなかった | ✅ | |
-| 5 | 簡単 | past | 簡単でした | ✅ | |
-| 6 | 眠い | て-form | 眠くて | ✅ | |
-| 7 | 有名 | past neg | くなかった → **じゃなかったです** | ❌ | な-adj past neg |
-| 8 | 新しい | て-form | 新しくて | ✅ | |
-| 9 | 退屈 | negative | 退屈じゃない | ✅ | |
-| 10 | 暑い | past neg | 暑くなかった | ✅ | |
-
-#### Round 3: で vs に Particles — 8/10
-
-| # | Prompt | Result | Note |
-|---|--------|--------|------|
-| 1 | 図書館＿勉強 | ✅ | |
-| 2 | 京都＿行きたい | ✅ | |
-| 3 | 友達＿駅＿会う | ✅ | |
-| 4 | バス＿学校＿行く | ✅ | |
-| 5 | 公園＿写真＿撮り＿行く | ✅ | |
-| 6 | 山＿登る | ✅ | |
-| 7 | レストラン＿晩ごはん＿食べる | ✅ | |
-| 8 | 来月＿大阪＿新幹線＿行く | ❌ | 来月に → bare (time word) |
-| 9 | 家＿駅＿歩いて行く + から/まで | ✅ | |
-| 10 | デパート＿買い＿行きたい | ❌ | デパートで → に (destination of 行く) |
-
-#### Round 4: から/まで in Sentences — 6/8
-
-| # | Prompt | Result | Note |
-|---|--------|--------|------|
-| 1 | 7時～9時 毎日勉強 | ✅ | |
-| 2 | 東京→大阪 新幹線 どのぐらい | ✅ | word order fixed from last session |
-| 3 | 月～金 働く、土日 休み | ❌ | 働います→働きます, 休みの日→休みです |
-| 4 | 駅→レストラン 歩く | ✅ | |
-| 5 | 10月から 5ヶ月 | ✅ | |
-| 6 | 家→学校 バス 20分 | ✅ | |
-| 7 | 映画 何時から何時まで | ✅ | |
-| 8 | 札幌→東京 飛行機 2時間 | ❌ | past tense, 二時→二時間 |
-
-#### What went well
-- V-るのは structure — correct from prompt 2 onward
-- い-adj conjugation — solid across all forms
-- で vs に — major improvement, basic patterns automatic
-- から/まで — picked up fast, word order (から…まで + で) fixed
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| V-るのは: used noun not verb | V-る = dictionary form of verb + のは | New — corrected |
-| 好きけど → 好きだけど | な-adj before けど needs だ | ⚠️ recurring (#9) |
-| 難しです → 難しいです | い-adj: keep い before です | ⚠️ recurring (#4) |
-| 静かて → 静かで | な-adj て-form = で | ⚠️ recurring (#10) |
-| 有名くなかった → じゃなかったです | な-adj past neg = じゃなかったです | ⚠️ recurring (#21) |
-| 来月に → 来月 (bare) | Time words go bare | ⚠️ recurring |
-| デパートで行きたい → に | Destination of 行く = に | ⚠️ recurring |
-| 働います → 働きます | 働く is く-verb: 働きます | New |
-| 二時 → 二時間 | 時 = clock time, 時間 = duration | New |
-
-#### Open items
-- V-るのは for verb topics — introduced, needs more reps
-- な-adj identification under pressure — still the main adj issue
-- で vs に — improving but destination vs action location still slips
-- Time words bare — needs reps
-- 時 vs 時間 — new, needs reps
-- Verb negative plain row shift — carried over
-- Katakana loanword spelling — carried over
-- L08 roleplay — done (2026-03-09), no further roleplay pending
-
----
+> Older sessions (2026-02-21 through 2026-03-11) archived in PROGRESS_ARCHIVE.md
 
 ### 2026-03-12 — な-adj ID + V-るのは + Time Words + 時 vs 時間 + L09 Vocab
 
@@ -564,4 +348,102 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: Nは〜がVSV-るのが discrimination drill · V-るのは particle reps · L09 grammar (でも contrast) · い-adj under pressure drill · error review*
+### 2026-03-14 — Nは〜が vs V-るのが + V-るのは + でも + い-adj Pressure + Error Review
+
+#### Round 1: Nは〜が vs V-るのが Discrimination — 5/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Singing (verb) / 得意 | 歌うのが得意です | ✅ | |
+| 2 | Math (noun) / 苦手 | 数学のが苦手です | ❌ | Noun → が directly, no の |
+| 3 | Reading kanji (verb) / 得意 | 漢字を読むが得意です | ❌ | Verb → のが, missing の |
+| 4 | Cooking (noun) / 苦手 | 料理のが苦手です | ❌ | Noun → が directly |
+| 5 | Waking up early (verb) / 苦手 | 早く起きるのが苦手です | ✅ | |
+| 6 | Sports (noun) / 得意 | スポーツが得意です | ✅ | |
+| 7 | Writing documents (verb) / 苦手 | 書類を書くのが苦手です | ✅ | |
+| 8 | English (noun) / 得意 | 英語が得意です | ✅ | |
+
+#### Round 2: V-るのは Particle Reps — 5/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Speaking Japanese / fun | 日本語を話すのは楽しいです | ✅ | |
+| 2 | Memorizing kanji / difficult | 漢字を覚えるのは難しいです | ✅ | |
+| 3 | Exercising alone / boring | 一人で運動するのは退屈です | ✅ | |
+| 4 | Eating late at night / bad | 夜に遅くを食べるのは → 夜遅く食べるのは | ❌ | 夜遅く is set phrase, no に or を |
+| 5 | Writing emails in Japanese / tough | 日本語でメールを書くのは大変です | ✅ | |
+| 6 | Reading easy, writing difficult | 読むのは簡単だけど、書くのは難しいです | ✅ | だけど correct |
+
+#### Round 3: でも (Contrast / Soft Suggestion) — 3/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Study every day. But difficult. | でも、難しいです | ✅ | |
+| 2 | Tea or something? (soft) | お茶を飲みませんか | 🟡 | Missing でも — used を instead |
+| 3 | Japanese fun. But kanji difficult. | でも、漢字は難しいです | ✅ | |
+| 4 | Movie or something this weekend? | 映画でも見にませんか | 🟡 | でも correct, but 見にません→見ません |
+| 5 | Like cooking. But bad at cleaning. | 料理のが好き、掃除のは苦手 | 🟡 | Noun doesn't need の before が/は |
+| 6 | Cafe or something after class? | 授業の後でカフェにでも行きませんか | ✅ | |
+
+#### Round 4: い-adj Under Pressure — 7/10
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 楽しい + です | 楽しいです | ✅ |
+| 2 | 難しい → て-form | 難して | ❌ (難しくて) |
+| 3 | 危ない → past | 危ないかった | ❌ (危なかった) |
+| 4 | 新しい → negative | 新しくないです | ✅ |
+| 5 | 眠い → て-form | 眠くて | ✅ |
+| 6 | いい → past | よかった | ✅ |
+| 7 | 高い + です | 高いです | ✅ |
+| 8 | 暑い → past negative | 暑くなかったです | ✅ |
+| 9 | 楽しい → て-form | 楽しくて | ✅ |
+| 10 | 危ない + です | 危ないです | ✅ |
+
+#### Round 5: Error Review — 7/10
+
+| # | Target | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 数学 + が (noun) | 数学が | ✅ | |
+| 2 | 書く + のが (verb) | 書くのが苦手です | ✅ | |
+| 3 | 難しい て-form | 難しくて | ✅ | |
+| 4 | 危ない past | 危なかった | ✅ | |
+| 5 | ラーメン + でも | ラーメンをでも | ❌ | でも replaces を |
+| 6 | 文字 meaning | characters | ✅ | |
+| 7 | 料理する + のは (V-るのは) | 料理が楽しい | 🟡 | Used noun — target was verb form |
+| 8 | 泳ぐ + のが + 得意 | 泳ぐのが苦手 | ❌ | 得意/苦手 mix-up |
+| 9 | お茶 + でも | お茶でも飲みませんか | ✅ | |
+| 10 | 日本語を話す + のは | 日本語を話すのは難しいです | ✅ | |
+
+#### What went well
+- Noun vs verb discrimination improving (5/8 → corrections stick in review)
+- V-るのは with particles — を no longer dropped (5/6)
+- でも as "but" — solid
+- い-adj い before です — never missed
+- 文字 = characters — finally locked in
+- Error review corrections (難しくて, 危なかった) applied immediately
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Noun + のが → Noun + が | の is only for verbs, nouns attach が directly | ⚠️ recurring |
+| Verb + が → Verb + のが | Verbs need の to nominalize before が | ⚠️ recurring |
+| 難して → 難しくて | い-adj て-form: drop い, add くて | ⚠️ recurring (#7) |
+| 危ないかった → 危なかった | い-adj past: drop い, add かった | New |
+| をでも → でも | でも replaces を, they don't stack | New |
+| 見にませんか → 見ませんか | に is for V-に行く, not V alone | New |
+| 夜に遅く食べる → 夜遅く食べる | 夜遅く is a set adverb phrase | New |
+
+#### Open items
+- Noun が vs Verb のが — pattern known but still slips under pressure
+- い-adj conjugation: drop い first — て-form and past still trip up
+- でも replaces を — needs reps
+- L09 remaining grammar: 〜方 in L09 context
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana loanword spelling — carried over
+
+---
+
+*Next session: Noun が vs Verb のが mixed drill (more reps) · い-adj drop-い drill (て-form + past focus) · でも particle placement · L09 〜方 · error review*
