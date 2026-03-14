@@ -473,4 +473,95 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: L09 vocab gaps re-drill (得意/苦手/文字/会話/書類) · V-るのは focused reps · L09 grammar patterns (Nは〜が＿＿です, V-てもらえませんか) · error review drill*
+### 2026-03-13 — L09 Vocab Re-drill + V-るのは + Nは〜が＿＿です + V-てもらえませんか + Error Review
+
+#### Round 1: L09 Vocab Gap Re-drill — 4/5
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 得意 | good at | ✅ | |
+| 2 | 苦手 | not good at | ✅ | |
+| 3 | 文字 | words | ❌ | characters/letters |
+| 4 | 会話 | conversation | ✅ | |
+| 5 | 書類 | document | ✅ | |
+
+#### Round 2: V-るのは Focused Reps — 2/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Cooking is fun | 料理するのは楽しです | 🟡 | する correct, but 楽しい missing い |
+| 2 | Waking up early is hard | 早い起きるのは難しいです | ❌ | 早い→早く (adverb before verb) |
+| 3 | Speaking Japanese is enjoyable | 日本語話すのは楽しいです | 🟡 | Missing を particle |
+| 4 | Exercising every day is good | 毎日運動するのは良いです | ✅ | |
+| 5 | Memorizing kanji by yourself is difficult | 漢字を覚えるのは難しいです | 🟡 | Missing 一人で |
+| 6 | Reading easy but writing difficult | 簡単で、書くのは難しい | 🟡 | で (て-form) → だけど/ですが (contrast) |
+
+#### Round 3: Nは〜が＿＿です — 3/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | I'm bad at kanji | 私は漢字が苦手です | ✅ | |
+| 2 | My friend is good at cooking | 料理のは得意です | ❌ | Noun uses が, not のは |
+| 3 | Tanaka-san is good at Japanese | 田中さんは日本語が得意です | ✅ | |
+| 4 | I'm bad at speaking | 私は話すが苦手です | 🟡 | Verb needs の before が |
+| 5 | My brother is bad at swimming | 泳ぎのが苦手です | 🟡 | ます-stem → dictionary form (泳ぐのが) |
+| 6 | I like singing but I'm bad at it | 私は歌うのは好きだけど、苦手です | ✅ | |
+
+#### Round 4: V-てもらえませんか — 2/5
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Teach me the kanji reading | 漢字を読んでもらえませんか | 🟡 | Situation = teach → 読み方を教えてもらえませんか |
+| 2 | Show me the way to station | 駅にご案してもらえませんか | 🟡 | ご案して→案内して, に→まで |
+| 3 | Explain again | もう一度説明してもらえませんか | ✅ | |
+| 4 | Help with form | 書類を書きてもらえませんか | 🟡 | 書きて→書いて (く-verb て-form) |
+| 5 | Speak slowly | ゆっくり話してもらえませんか | ✅ | |
+
+#### Round 5: Error Review — 10/10
+
+| # | Target | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 楽しい＋です | 楽しいです | ✅ |
+| 2 | 早い＋起きる | 早く起きる | ✅ |
+| 3 | Speaking Japanese is difficult (V-るのは) | 日本語を話すのは難しいです | ✅ |
+| 4 | I'm bad at cooking (noun+が) | 私は料理が苦手です | ✅ |
+| 5 | I'm good at swimming (verb+のが) | 私は泳ぐのが得意です | ✅ |
+| 6 | 書く て-form | 書いて | ✅ |
+| 7 | 静か て-form | 静かで | ✅ |
+| 8 | 来月 bare or に | bare | ✅ |
+| 9 | 便利＋けど | 便利だけど | ✅ |
+| 10 | I'm bad at waking up early | 早く起きるのが苦手です | ✅ |
+
+#### What went well
+- 得意/苦手/会話/書類 — vocab gaps closing (文字 still sticky)
+- もらえませんか — pattern locked in, zero structural errors
+- Error review 10/10 — all corrections stick same-session
+- な-adj conjugation (で, だけど) — correct in review
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 楽しです → 楽しいです | い-adj: keep い before です | ⚠️ recurring (#4) |
+| 早い起きる → 早く起きる | Adverb form before verbs: い→く | New |
+| 日本語話す → 日本語を話す | Keep particles (を) before のは | ⚠️ recurring |
+| 料理のは → 料理が | Noun + が (not のは) for Nは〜が pattern | New |
+| 話すが → 話すのが | Verb needs の to nominalize before が | New |
+| 泳ぎのが → 泳ぐのが | Dictionary form before の, not ます-stem | New |
+| 書きて → 書いて | く-verb て-form: く→いて | New (conjugation slip) |
+| 文字 = characters/letters | Not "words" (words = 言葉) | ⚠️ recurring vocab gap |
+
+#### Open items
+- V-るのは — particles and verb form still need reps
+- Nは〜が vs V-るのが distinction — new, needs reps
+- い-adj い before です — still recurring under pressure
+- Adverb form (い→く) before verbs — new point
+- L09 remaining grammar: でも (contrast), 〜方 in L09 context
+- L09 vocab: 文字 still not locked
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana loanword spelling — carried over
+
+---
+
+*Next session: Nは〜がVSV-るのが discrimination drill · V-るのは particle reps · L09 grammar (でも contrast) · い-adj under pressure drill · error review*
