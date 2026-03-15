@@ -446,4 +446,150 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: Noun が vs Verb のが mixed drill (more reps) · い-adj drop-い drill (て-form + past focus) · でも particle placement · L09 〜方 · error review*
+### 2026-03-14 (Session 2) — Noun/Verb が · い-adj Drop-い · でも · L09 〜方
+
+#### Round 1: Noun が vs Verb のが — 7/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | ダンス (noun) / 得意 | ダンスが得意 | ✅ | (卓偉→得意 kanji) |
+| 2 | 漢字を読む (verb) / 苦手 | 読むのが苦手 | ✅ | |
+| 3 | サッカー (noun) / 得意 | サッカーが得意 | ✅ | |
+| 4 | 一人で料理する (verb) / 苦手 | 料理が苦手 | 🟡 | Used noun, target was verb する→するのが |
+| 5 | 発音 (noun) / 得意 | 発音が得意 | ✅ | |
+| 6 | 早く起きる (verb) / 苦手 | 起きるのが苦手 | ✅ | |
+| 7 | 文法 (noun) / 得意 | 文法が苦手 | 🟡 | 得意/苦手 mix-up |
+| 8 | 文字を覚える (verb) / 苦手 | 文字を覚えるのが苦手 | ✅ | (お→を typo) |
+| 9 | 会話 (noun) / 得意 | 会話が得意 | ✅ | |
+| 10 | 早くメールを書く (verb) / 苦手 | 書くのが苦手 | ✅ | |
+
+#### Round 2: い-adj Drop-い (て-form + past) — 9/10
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 難しい → past | 難しかった | ✅ |
+| 2 | 危ない → て-form | 危なくて | ✅ |
+| 3 | 楽しい → past | 楽しかった | ✅ |
+| 4 | 新しい → て-form | 新しくて | ✅ |
+| 5 | 暑い → past | 暑かった | ✅ |
+| 6 | 眠い → past | 眠いかった | ❌ (眠かった) |
+| 7 | 高い → て-form | 高くて | ✅ |
+| 8 | 嬉しい → past | 嬉しかった | ✅ |
+| 9 | 危ない → past | 危なかった | ✅ |
+| 10 | 難しい → て-form | 難しくて | ✅ |
+
+#### Round 3: でも Particle Placement — 7/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Sushi or something / eat | 寿司でも食べませんか | ✅ | |
+| 2 | Coffee or something / drink | コーヒーでも飲みませんか | ✅ | |
+| 3 | Like kanji. But bad at writing. | でも書くのは苦手です | ✅ | |
+| 4 | Game or something / play | ゲームでもしませんか | ✅ | |
+| 5 | Japanese fun. But grammar difficult. | でも文法が難しいです | ✅ | |
+| 6 | Park or something this weekend | 公園でも行きませんか | ✅ | |
+| 7 | Present or something / buy | プレゼントでも買いませんか | ✅ | |
+| 8 | Like reading. But memorizing difficult. | 読みのが好き | 🟡 | ます-stem→dictionary form (読むのが) |
+
+#### Round 4: L09 〜方 in Context — 2/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Don't know how to read this kanji | 読み方わかりません | 🟡 | Missing が (読み方**が**わかりません) |
+| 2 | Teach me how to use this app | アプリが使い方を | 🟡 | が→**の** (アプリ**の**使い方) |
+| 3 | How to write this character is difficult | 文字を書き方 | 🟡 | を→**の** (文字**の**書き方) |
+| 4 | Learned how to make sushi | つくかた | ❌ | つくりかた (る→り ます-stem) |
+| 5 | Explain how to play this game | 遊び方を説めして | 🟡 | 遊び方 ✅, 説明して spelling off |
+| 6 | Forgot how to go to station | 駅の行き方を忘れました | ✅ | |
+
+#### What went well
+- Noun が vs Verb のが — major improvement, no の added to nouns
+- い-adj drop-い — 9/10, nearly automatic now
+- でも — をでも stacking error gone, placement solid
+- 〜方 ます-stem mostly correct (遊び方, 読み方, 書き方, 行き方)
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 眠いかった → 眠かった | い-adj past: drop い, add かった | ⚠️ recurring |
+| 読みのが → 読むのが | Dictionary form before の, not ます-stem | ⚠️ recurring |
+| Nが〜方 → Nの〜方 | の connects noun to 方 | New |
+| 作る → つくかた → つくりかた | ます-stem: る→り | ⚠️ recurring |
+| 得意/苦手 mix-up | 得意 = good at, 苦手 = bad at | ⚠️ recurring |
+
+#### Open items
+- Nの〜方 pattern — needs reps (の not が or を before 方)
+- 作る ます-stem (つくり) — still not automatic
+- 読むのが not 読みのが — dictionary form before の
+- い-adj drop-い — nearly there, 眠い still trips
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana loanword spelling — carried over
+
+---
+
+### 2026-03-15 — Nの〜方 Drill + L09 Roleplay
+
+#### Round 1: Nの〜方 Drill — 5/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 漢字 / 読む | 漢字の読む方 | ❌ | Dictionary form → ます-stem (読み方) |
+| 2 | 箸 / 使う | 箸を使い方 | 🟡 | を→の |
+| 3 | 名前 / 書く | 名前を書き方 | 🟡 | を→の |
+| 4 | ラーメン / 作る | ラーメンの作り方 | ✅ | |
+| 5 | このゲーム / 遊ぶ | このゲームの遊び方 | ✅ | |
+| 6 | 駅 / 行く | 駅の行き方 | ✅ | |
+| 7 | この機械 / 使う (sentence) | この機械の使い方がわかりません | ✅ | |
+| 8 | この文字 / 書く (sentence) | この文字の書くかた | 🟡 | 書く→書き (ます-stem) |
+| 9 | 寿司 / 食べる (sentence) | 寿司の食べ方が簡単です | ✅ | |
+| 10 | これ / 作る (sentence) | これの使い方を忘れました | 🟡 | Wrong verb (使う→作る) |
+
+**Progress within drill:** Started with を, switched to の by prompt 4 and kept it. 作り方 correct.
+
+#### Round 2: L09 Roleplay — Japanese study, asking classmate + teacher for help
+
+**Scenario:** At Japanese language school, struggling with kanji. Talked to classmate, then asked teacher for help.
+
+**Patterns used successfully:**
+- V-るのが + adj ✅ (漢字を読むのが難しい)
+- Nの〜方 ✅ × 3 (読み方、書き方、使い方 — all with の)
+- V-てもらえませんか ✅ × 2
+- でも (contrast) ✅ (漢字は面白いです。でも、苦手です)
+
+**Roleplay errors (2):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 難しい**かった** | 難し**かった** (drop い) | い-adj past |
+| 2 | 3時間**を**見ます | 3時間見ます (duration — no を) | Particle |
+
+#### What went well
+- Nの〜方 — landed 3 times in roleplay with の, zero mistakes
+- 作り方 — finally correct (つくり not つくか)
+- てもらえませんか — natural, well-placed
+- でも contrast — clean
+- Roleplay sustained naturally
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 難しいかった → 難しかった | い-adj past: drop い first | ⚠️ recurring |
+| 3時間を見ます → 3時間見ます | Duration is bare, no を | New |
+| Nを〜方 → Nの〜方 | の connects noun to 方 | ⚠️ recurring (fixed mid-drill) |
+| 読む方 → 読み方 / 書くかた → 書きかた | ます-stem before 方 | ⚠️ recurring (fixed mid-drill) |
+
+#### Open items
+- い-adj drop-い (past form) — still the #1 persistent error
+- Duration words bare (no を) — new
+- Nの〜方 — improving, needs consolidation
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana loanword spelling — carried over
+- **L09 complete — ready for L10**
+
+---
+
+*Next session: Start L10 · Read L10 PDF · Vocab recognition · い-adj drop-い error drill*
