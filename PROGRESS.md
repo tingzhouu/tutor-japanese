@@ -146,6 +146,46 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
+## L10 Preview — 日本語教室に参加したいんですが…
+
+**Topic:** 日本語学習 (Learning Japanese — continued)
+**Core scenario:** Joining community classes — asking about schedules, costs, signing up, talking about learning background
+
+### Grammar patterns
+
+| Pattern | Status |
+|---------|--------|
+| V-てみたいんですが… | ✅ Done (watch する-verb して) |
+| [期間]に〜回 | ✅ Done (watch 週 vs 月) |
+| V-ましょうか？ | ✅ Done |
+| 〜はどういう意味ですか？ | Introduced (not drilled) |
+| Nのとき / な-adjなとき / い-adjいとき | ✅ Done (watch な-adj なとき) |
+
+### Key vocabulary (from PDF)
+
+| Word | Reading | Meaning |
+|------|---------|---------|
+| 参加する | さんかする | to join/participate |
+| 教室 | きょうしつ | classroom/class |
+| 公民館 | こうみんかん | community center |
+| 費用 | ひよう | cost |
+| 必要 | ひつよう | necessary |
+| 用意する | よういする | to prepare |
+| 全部 | ぜんぶ | all/everything |
+| 〜回 | 〜かい | ~ times (counter) |
+| 週 | しゅう | week |
+| ただ | — | free of charge |
+| チラシ | — | flyer |
+| 道具 | どうぐ | tools/equipment |
+| 意味 | いみ | meaning |
+| 母語 | ぼご | mother tongue |
+| 申し込み | もうしこみ | application |
+| 空いている | あいている | available/open |
+| もういっぱい | — | already full |
+| 体験教室 | たいけんきょうしつ | trial lesson |
+
+---
+
 ## Session Log
 
 > Older sessions (2026-02-21 through 2026-03-11) archived in PROGRESS_ARCHIVE.md
@@ -592,4 +632,131 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: Start L10 · Read L10 PDF · Vocab recognition · い-adj drop-い error drill*
+### 2026-03-15 (Session 2) — L10 Summary + Vocab + Grammar Drills
+
+#### L10 Summary Given
+
+**Topic:** 日本語教室に参加したいんですが… (Joining community classes)
+**Patterns:** V-てみたいんですが, 期間に〜回, V-ましょうか, 〜はどういう意味ですか, Nのとき/な-adjなとき/い-adjいとき
+
+#### Round 1: L10 Vocab Recognition — 12/15
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 参加する | participate | ✅ | |
+| 2 | 費用 | fees | ✅ | |
+| 3 | 公民館 | community center | ✅ | |
+| 4 | 道具 | tools | ✅ | |
+| 5 | 必要 | necessary | ✅ | |
+| 6 | 用意する | purpose | ❌ | = to prepare |
+| 7 | ただ | but | ❌ | = free of charge |
+| 8 | 全部 | everything | ✅ | |
+| 9 | 母語 | mother tongue | ✅ | |
+| 10 | 意味 | purpose | ❌ | = meaning |
+| 11 | 申し込み | application | ✅ | |
+| 12 | 空いている | vacancy | ✅ | |
+| 13 | 体験教室 | trial class | ✅ | |
+| 14 | もういっぱい | didn't know | ❌ | = already full |
+| 15 | チラシ | flyer | ✅ | |
+
+#### Round 2: V-てみたいんですが — 4/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 合気道をやる | やってみたいんですが | ✅ | |
+| 2 | 書道教室に参加する | さんがして | 🟡 | さんか not さんが |
+| 3 | 日本料理を食べる | 食べてみたいんですが | ✅ | |
+| 4 | 富士山に登る | 登りてみたい | ❌ | 登って (て-form from dict form) |
+| 5 | 書道を習う | 習ってみたいんですが | ✅ | |
+| 6 | このアプリを使う | 使ってみたいんですが | ✅ | |
+
+#### Round 3: 期間に〜回 — 5/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Once a week | 週に一回 | ✅ | |
+| 2 | Twice a month | 週に2回 | ❌ | 週→月 |
+| 3 | Three times a year | 年に3回 | ✅ | |
+| 4 | Japanese class 1x/week, Tuesdays | 週に一回、火曜日です | ✅ | |
+| 5 | Gym twice a week | ジムは週に2回 | 🟡 | Missing verb (行きます) |
+| 6 | Cooking class 4x/month | 月に4回 | 🟡 | Missing です |
+| 7 | How many times a week? | 週に何回ですか | ✅ | |
+| 8 | Olympics every 4 years | 四年に一回 | ✅ | |
+
+#### Round 4: V-ましょうか — 5/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Bring flyer | チラシを持ってきましょうか | ✅ | |
+| 2 | Teach kanji | 漢字を教えましょうか | ✅ | |
+| 3 | Go together | 一緒に行きましょうか | ✅ | |
+| 4 | Help carry bags | てつだましょうか | ❌ | 手伝いましょうか (い missing) |
+| 5 | Bring application form | 申込書を持ってきましょうか | ✅ | |
+| 6 | Introduce teacher | 先生を紹介しましょうか | ✅ | |
+
+#### Round 5: のとき — 5/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | High school / studied Japanese | 高校のとき | ✅ | |
+| 2 | Bored / watch dramas | 暇なとき | ✅ | |
+| 3 | At work / speak Japanese | 仕事のとき | ✅ | |
+| 4 | Young / lived in America | 若いとき | 🟡 | 住んでいでした→住んでいました |
+| 5 | Shopping / use Japanese | 買い物のとき | ✅ | |
+| 6 | Child / liked swimming | 子どものとき | 🟡 | 好きです→好きでした (past) |
+| 7 | Quiet / can study | 静かなとき | ✅ | |
+| 8 | Free / read books | 暇のとき | ❌ | な-adj: 暇なとき not のとき |
+
+#### Round 6: Error Review — 8/10
+
+| # | Target | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 用意する meaning | couldn't recall | ❌ | = to prepare (recalled on retry) |
+| 2 | ただ meaning | free of charge | ✅ | |
+| 3 | 意味 meaning | meaning | ✅ | |
+| 4 | 登る + てみたいんですが | 登ってみたいんですが | ✅ | |
+| 5 | 手伝う + ましょうか | 手伝いましょうか | ✅ | |
+| 6 | 暇 + とき | 暇なとき | ✅ | |
+| 7 | Twice a month | 月に2回 | ✅ | |
+| 8 | Cooking class + 参加してみたい | 参加みたい | ❌ | 参加してみたい (need て-form) |
+| 9 | Child / liked singing (past) | 好きでした | ✅ | |
+| 10 | 用意する meaning | to prepare | ✅ | |
+
+#### What went well
+- All 5 L10 grammar patterns introduced and drilled in one session
+- V-てみたいんですが — structure understood, て-form mostly correct
+- V-ましょうか — offering pattern solid (5/6)
+- のとき — noun and い-adj forms correct, な-adj corrected in review
+- 期間に〜回 — pattern clear, 何回 for questions correct
+- Error review: 登って, 手伝い, 暇な all corrected and held
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 登りて → 登って | て-form from dictionary form, not ます-stem | ⚠️ recurring |
+| 手伝ましょうか → 手伝いましょうか | ます-stem needs い (手伝います) | New |
+| 週 vs 月 mix-up | 週 = week, 月 = month | New |
+| 暇のとき → 暇なとき | な-adj uses な before とき | New |
+| 参加みたい → 参加してみたい | する-verb needs して before みたい | New |
+| 住んでいでした → 住んでいました | ていました = past progressive | New |
+| 用意する ≠ purpose | 用意する = to prepare | Vocab gap |
+| ただ ≠ but | ただ = free of charge | Vocab gap |
+| 意味 ≠ purpose | 意味 = meaning | Vocab gap |
+| もういっぱい | = already full | Vocab gap |
+
+#### Open items
+- L10 vocab gaps: 用意する, ただ, 意味, もういっぱい — need Anki
+- V-てみたいんですが — する-verb needs して before みたい
+- て-form from dictionary form (not ます-stem) — recurring
+- な-adj + なとき — new, needs reps
+- 期間に〜回 — 週 vs 月 distinction
+- い-adj drop-い — carried over
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana loanword spelling — carried over
+- L10 grammar drills done — needs: vocab consolidation, roleplay
+
+---
+
+*Next session: L10 vocab re-drill (用意する, ただ, 意味, もういっぱい) · V-てみたいんですが + して reps · な-adjなとき drill · L10 roleplay (signing up for community class) · error review*
