@@ -109,53 +109,47 @@ Check PROGRESS.md for the full tracker. Key recurring patterns as of 2026-03-03:
 
 ---
 
-## Current Chapter: L08 — 野球、したことありますか？
+## Current Chapter: L11 — 肉と野菜は私が買って行きます
 
 ### Grammar patterns to drill
 
-1. **もうV-ましたか？** — "Have you already...?"
-2. **V-たことがあります** — "Have you ever...?" (experience)
-3. **V-に行きませんか？** — "Want to go [do something]?" (invitation with purpose)
-4. **Nの前に〜 / Nのあとで〜** — "Before N / After N" (sequencing)
-5. **V-たいんですが…** — "I'd like to..." (soft wish — already known from L06)
+1. **V-て行きます / V-て来ます** — Do V then go/come (bring/take)
+2. **N1とN2、どっちがいいですか？ / どれがいいですか？** — Which do you prefer? (2 = どっち, 3+ = どれ)
+3. **Nのほうがいいです** — I prefer N (choosing one of two)
+4. **[interrogative]でもいいです** — Anything/either is fine (何でも, どっちでも, etc.)
 
-### Key vocabulary for L08
+### Key vocabulary for L11
 
-| Word         | Reading        | Meaning             |
-| ------------ | -------------- | ------------------- |
-| 誘う         | さそう         | to invite           |
-| 経験         | けいけん       | experience          |
-| 興味         | きょうみ       | interest            |
-| 試合         | しあい         | match/game          |
-| 足りない     | たりない       | not enough          |
-| 無理         | むり           | impossible          |
-| 動物園       | どうぶつえん   | zoo                 |
-| 博物館       | はくぶつかん   | museum              |
-| お城         | おしろ         | castle              |
-| 感想         | かんそう       | impression/thoughts |
-| 感動する     | かんどうする   | to be moved/touched |
-| 楽しい       | たのしい       | fun/enjoyable       |
-| 難しい       | むずかしい     | difficult           |
-| 登る         | のぼる         | to climb            |
-| お金をおろす | おかねをおろす | to withdraw money   |
-| 退屈         | たいくつ       | boring              |
-
-### た-form status
-
-- nasi has done a て→た conversion drill (9/10)
-- Key rule: て→た, で→だ
-- Error to watch: mixing った and っだ (e.g. 迷っだ instead of 迷った)
+| Word | Reading | Meaning |
+|------|---------|---------|
+| 肉 | にく | meat |
+| 野菜 | やさい | vegetables |
+| 牛肉 | ぎゅうにく | beef |
+| 豚肉 | ぶたにく | pork |
+| 鶏肉 | とりにく | chicken |
+| 飲み物 | のみもの | beverages |
+| 材料 | ざいりょう | ingredients |
+| 売る | うる | to sell |
+| 持って行く | もっていく | to bring |
+| 消費期限 | しょうひきげん | expiration date |
+| 卵 | たまご | egg |
+| 小麦 | こむぎ | wheat |
 
 ---
 
-## Session Handoff (as of 2026-03-03)
+## Session Handoff (as of 2026-03-17)
 
-Last session was mid-L08. Completed:
+Last session completed L11 grammar drills + roleplay. All 4 patterns drilled and used in roleplay.
 
-- L08 summary given
-- Vocab recognition: not yet done
-- て→た conversion drill: 9/10 (one error: 飲んで→飲んた instead of 飲んだ, one error: 迷って→迷っだ instead of 迷った)
-- V-たことがあります: introduced, nasi answered 3 experience questions correctly
-- Remaining: L08 vocab recognition, grammar pattern drills (もうV-ましたか, V-に行きませんか, Nの前に/あとで), roleplay
+**Completed:**
+- L11 summary, vocab recognition (13/15), all 4 grammar pattern drills, roleplay, katakana drill
+- Error review: 空いている, い-adj drop-い, な-adj なとき — all clean (5/5)
 
-**Start next session by:** asking nasi what they want to work on, or suggest continuing L08 drills from vocab recognition.
+**Open items:**
+- V-て行く vs 来る direction — needs more reps
+- でも must match question word (どっちでも not 何でも)
+- Katakana long vowels (ー) — main katakana weakness
+- L11 vocab gaps: 消費期限 (expiration date), 小麦 (wheat)
+- い-adj drop-い — nearing closure (consecutive correct across 3 sessions)
+
+**Start next session by:** 行く/来る direction drill, L11 vocab gap review, then consider starting L12.
