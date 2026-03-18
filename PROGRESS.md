@@ -591,4 +591,52 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: 行く vs 来る direction drill · L11 vocab gaps (消費期限, 小麦) · katakana long vowel reps · consider L12*
+### 2026-03-18 — 行く/来る Direction Drill + Vocab Gap Review
+
+#### Vocab Gap Review — 1/2
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 消費期限 | expiry date | ✅ | |
+| 2 | 小麦 | flour | 🟡 | = wheat (小麦粉 = flour) |
+
+#### 行く vs 来る Direction Drill — 5/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Home → party (cake/作る) | 作って行きます | ✅ | |
+| 2 | Friend arrived, bought drinks | 買って来ました | ✅ | |
+| 3 | Office, go withdraw money, come back | おろして行きます | ❌ | 来ます (coming back here) |
+| 4 | Friend bringing snacks to you | 持って行きます | ❌ | 来ます (toward listener) |
+| 5 | BBQ, forgot plates, buy and come back | 買って来ます | ✅ | |
+| 6 | Home → potluck (onigiri/作る) | 作って行きます | ✅ | |
+| 7 | Classmate arrived with cookies | 作って来ます | 🟡 | 来ました (past — already arrived) |
+| 8 | Restaurant, get drinks, come back | とって来ます | ✅ | |
+
+#### What went well
+- 消費期限 meaning locked in
+- 行く/来る "come back" pattern (来ます) clicked in Q5 and Q8
+- Improvement from last session overall
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 小麦 ≠ flour | 小麦 = wheat, 小麦粉 = flour | ⚠️ recurring |
+| 来る for "coming back here" | Leave and return = 来る not 行く | ⚠️ recurring |
+| 来る toward listener | Speaking to someone, going to them = 来る | ⚠️ recurring |
+| Past tense for completed actions | Already arrived → 来ました not 来ます | New |
+
+#### Open items
+- 行く vs 来る — "coming back" and "toward listener" need more reps
+- 小麦 = wheat — still not locked
+- L11 ingredient/allergy patterns (使ってますか, 入ってますか) — not yet drilled
+- い-adj drop-い — nearing closure
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana long vowels — carried over
+- **L11 mostly complete — remaining: ingredient patterns, 行く/来る consolidation**
+
+---
+
+*Next session: L11 ingredient/allergy asking patterns · 行く/来る reps · 小麦 review · consider L12 if PDF available*
