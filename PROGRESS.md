@@ -225,236 +225,7 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ## Session Log
 
-> Older sessions (2026-02-21 through 2026-03-15) archived in PROGRESS_ARCHIVE.md
-
-### 2026-03-15 (Session 2) — L10 Summary + Vocab + Grammar Drills
-
-#### L10 Summary Given
-
-**Topic:** 日本語教室に参加したいんですが… (Joining community classes)
-**Patterns:** V-てみたいんですが, 期間に〜回, V-ましょうか, 〜はどういう意味ですか, Nのとき/な-adjなとき/い-adjいとき
-
-#### Round 1: L10 Vocab Recognition — 12/15
-
-| # | Word | Answer | Result | Note |
-|---|------|--------|--------|------|
-| 1 | 参加する | participate | ✅ | |
-| 2 | 費用 | fees | ✅ | |
-| 3 | 公民館 | community center | ✅ | |
-| 4 | 道具 | tools | ✅ | |
-| 5 | 必要 | necessary | ✅ | |
-| 6 | 用意する | purpose | ❌ | = to prepare |
-| 7 | ただ | but | ❌ | = free of charge |
-| 8 | 全部 | everything | ✅ | |
-| 9 | 母語 | mother tongue | ✅ | |
-| 10 | 意味 | purpose | ❌ | = meaning |
-| 11 | 申し込み | application | ✅ | |
-| 12 | 空いている | vacancy | ✅ | |
-| 13 | 体験教室 | trial class | ✅ | |
-| 14 | もういっぱい | didn't know | ❌ | = already full |
-| 15 | チラシ | flyer | ✅ | |
-
-#### Round 2: V-てみたいんですが — 4/6
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 合気道をやる | やってみたいんですが | ✅ | |
-| 2 | 書道教室に参加する | さんがして | 🟡 | さんか not さんが |
-| 3 | 日本料理を食べる | 食べてみたいんですが | ✅ | |
-| 4 | 富士山に登る | 登りてみたい | ❌ | 登って (て-form from dict form) |
-| 5 | 書道を習う | 習ってみたいんですが | ✅ | |
-| 6 | このアプリを使う | 使ってみたいんですが | ✅ | |
-
-#### Round 3: 期間に〜回 — 5/8
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Once a week | 週に一回 | ✅ | |
-| 2 | Twice a month | 週に2回 | ❌ | 週→月 |
-| 3 | Three times a year | 年に3回 | ✅ | |
-| 4 | Japanese class 1x/week, Tuesdays | 週に一回、火曜日です | ✅ | |
-| 5 | Gym twice a week | ジムは週に2回 | 🟡 | Missing verb (行きます) |
-| 6 | Cooking class 4x/month | 月に4回 | 🟡 | Missing です |
-| 7 | How many times a week? | 週に何回ですか | ✅ | |
-| 8 | Olympics every 4 years | 四年に一回 | ✅ | |
-
-#### Round 4: V-ましょうか — 5/6
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Bring flyer | チラシを持ってきましょうか | ✅ | |
-| 2 | Teach kanji | 漢字を教えましょうか | ✅ | |
-| 3 | Go together | 一緒に行きましょうか | ✅ | |
-| 4 | Help carry bags | てつだましょうか | ❌ | 手伝いましょうか (い missing) |
-| 5 | Bring application form | 申込書を持ってきましょうか | ✅ | |
-| 6 | Introduce teacher | 先生を紹介しましょうか | ✅ | |
-
-#### Round 5: のとき — 5/8
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | High school / studied Japanese | 高校のとき | ✅ | |
-| 2 | Bored / watch dramas | 暇なとき | ✅ | |
-| 3 | At work / speak Japanese | 仕事のとき | ✅ | |
-| 4 | Young / lived in America | 若いとき | 🟡 | 住んでいでした→住んでいました |
-| 5 | Shopping / use Japanese | 買い物のとき | ✅ | |
-| 6 | Child / liked swimming | 子どものとき | 🟡 | 好きです→好きでした (past) |
-| 7 | Quiet / can study | 静かなとき | ✅ | |
-| 8 | Free / read books | 暇のとき | ❌ | な-adj: 暇なとき not のとき |
-
-#### Round 6: Error Review — 8/10
-
-| # | Target | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 用意する meaning | couldn't recall | ❌ | = to prepare (recalled on retry) |
-| 2 | ただ meaning | free of charge | ✅ | |
-| 3 | 意味 meaning | meaning | ✅ | |
-| 4 | 登る + てみたいんですが | 登ってみたいんですが | ✅ | |
-| 5 | 手伝う + ましょうか | 手伝いましょうか | ✅ | |
-| 6 | 暇 + とき | 暇なとき | ✅ | |
-| 7 | Twice a month | 月に2回 | ✅ | |
-| 8 | Cooking class + 参加してみたい | 参加みたい | ❌ | 参加してみたい (need て-form) |
-| 9 | Child / liked singing (past) | 好きでした | ✅ | |
-| 10 | 用意する meaning | to prepare | ✅ | |
-
-#### What went well
-- All 5 L10 grammar patterns introduced and drilled in one session
-- V-てみたいんですが — structure understood, て-form mostly correct
-- V-ましょうか — offering pattern solid (5/6)
-- のとき — noun and い-adj forms correct, な-adj corrected in review
-- 期間に〜回 — pattern clear, 何回 for questions correct
-- Error review: 登って, 手伝い, 暇な all corrected and held
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 登りて → 登って | て-form from dictionary form, not ます-stem | ⚠️ recurring |
-| 手伝ましょうか → 手伝いましょうか | ます-stem needs い (手伝います) | New |
-| 週 vs 月 mix-up | 週 = week, 月 = month | New |
-| 暇のとき → 暇なとき | な-adj uses な before とき | New |
-| 参加みたい → 参加してみたい | する-verb needs して before みたい | New |
-| 住んでいでした → 住んでいました | ていました = past progressive | New |
-| 用意する ≠ purpose | 用意する = to prepare | Vocab gap |
-| ただ ≠ but | ただ = free of charge | Vocab gap |
-| 意味 ≠ purpose | 意味 = meaning | Vocab gap |
-| もういっぱい | = already full | Vocab gap |
-
-#### Open items
-- L10 vocab gaps: 用意する, ただ, 意味, もういっぱい — need Anki
-- V-てみたいんですが — する-verb needs して before みたい
-- て-form from dictionary form (not ます-stem) — recurring
-- な-adj + なとき — new, needs reps
-- 期間に〜回 — 週 vs 月 distinction
-- い-adj drop-い — carried over
-- で vs に — ongoing
-- Verb negative plain row shift — carried over
-- Katakana loanword spelling — carried over
-- L10 grammar drills done — needs: vocab consolidation, roleplay
-
----
-
-### 2026-03-16 — L10 Vocab Re-drill + V-てみたい + なとき + L10 Roleplay + Error Review
-
-#### Round 1: L10 Vocab Re-drill — 10/10
-
-| # | Word | Answer | Result |
-|---|------|--------|--------|
-| 1 | 用意する | prepare | ✅ |
-| 2 | もういっぱい | already filled | ✅ |
-| 3 | 意味 | definition | ✅ |
-| 4 | ただ | free of charge | ✅ |
-| 5 | 空いている | vacancy | ✅ |
-| 6 | 費用 | fees | ✅ |
-| 7 | 道具 | equipment | ✅ |
-| 8 | 必要 | necessary | ✅ |
-| 9 | 申し込み | application | ✅ |
-| 10 | 体験教室 | trial class | ✅ |
-
-#### Round 2: V-てみたいんですが (する-verb focus) — 6/6
-
-| # | Prompt | Answer | Result |
-|---|--------|--------|--------|
-| 1 | 日本語教室に参加する | 参加してみたいんですが | ✅ |
-| 2 | 書道を勉強する | 勉強してみたいんですが | ✅ |
-| 3 | 富士山に登る | 登ってみたいんですが | ✅ |
-| 4 | ジムで運動する | 運動してみたいんですが | ✅ |
-| 5 | 日本料理を作る | 作ってみたいんですが | ✅ |
-| 6 | 合気道に申し込む | 申し込んでみたいんですが | ✅ |
-
-#### Round 3: な-adj + なとき — 5/8
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 暇 / watch anime | 暇なとき | ✅ | |
-| 2 | 静か / concentrate | 静かなとき | ✅ | |
-| 3 | 学生 / studied a lot | 学生のとき | ✅ | Noun = のとき |
-| 4 | 退屈 / read manga | 退屈なとき | ✅ | |
-| 5 | 暇 / please call | 暇なとき | ✅ | Missing してください (します→してください) |
-| 6 | 若い / was healthy | 若いとき、元気でした | ✅ | |
-| 7 | 危ない / don't go | 危ないとき | 🟡 | 生きないで→行かないで (live vs go) |
-| 8 | 必要 / go to supermarket | 必要のとき | ❌ | 必要**な**とき (な-adj) |
-
-#### Round 4: L10 Roleplay — Signing up for cooking class at community center
-
-**Patterns used successfully:**
-- V-てみたいんですが ✅ (参加してみたいんですが)
-- 費用はいくらですか ✅
-- 道具は用意しますか ✅ (after correction)
-
-**Roleplay errors (6):**
-
-| # | Error | Correction | Category |
-|---|-------|-----------|----------|
-| 1 | チラシ**が**見ました | チラシ**を**見ました (direct object = を) | Particle |
-| 2 | 愛していますか | **空いて**いますか (love vs available) | Vocab |
-| 3 | なんドグ | **道具（どうぐ）** | Vocab/spelling |
-| 4 | 用意しまか | 用意し**ます**か | Conjugation |
-| 5 | ですえ | です**ね** | Spelling |
-| 6 | 申し込みますか | **どうやって**申し込みますか (need "how") | Grammar |
-
-#### Round 5: Error Review — 8/10
-
-| # | Target | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | チラシ + 見る (particle) | チラシを見ます | ✅ | |
-| 2 | まだ空いていますか | 会いていますか | ❌ | 空く not 会う |
-| 3 | 必要 + とき | 必要なとき | ✅ | |
-| 4 | How to sign up | どうやって申し込みますか | ✅ | |
-| 5 | 用意する meaning | prepare | ✅ | |
-| 6 | Class twice a week | 週に2回 | ✅ | |
-| 7 | 登る + てみたいんですが | 登ってみたいんですが | ✅ | |
-| 8 | 暇 + とき | 暇なとき | ✅ | |
-| 9 | 合気道教室に参加してみたい | 参加してみたいんですが | ✅ | |
-| 10 | まだ空いていますか (retry) | forgot | ❌ | Need to memorize 空いている |
-
-#### What went well
-- L10 vocab — all gaps closed (10/10)
-- V-てみたいんですが — perfect 6/6, する-verb して locked in
-- な-adj なとき — 暇, 静か, 退屈 all correct
-- Roleplay — natural conversation flow, correct patterns deployed
-- 必要なとき — corrected and held in review
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 空いている confused with 会いている/愛している | 空く = available, 会う = meet, 愛する = love | ⚠️ recurring — add to Anki |
-| 必要のとき → 必要なとき | 必要 is な-adj | New — corrected in review |
-| チラシが見ました → チラシを見ました | Direct object = を | New |
-| 生きないで → 行かないで | 生きる = live, 行く = go | New |
-| どうやって for "how" questions | 申し込みますか alone = "will you sign up?" | New |
-
-#### Open items
-- 空いている — must memorize (空く not 会う/愛する)
-- な-adj なとき — 必要 still slipped, needs reps
-- い-adj drop-い — carried over
-- で vs に — ongoing
-- Verb negative plain row shift — carried over
-- Katakana loanword spelling — carried over
-- **L10 complete — vocab, grammar, roleplay all done**
-
----
+> Older sessions (2026-02-21 through 2026-03-16) archived in PROGRESS_ARCHIVE.md
 
 ### 2026-03-17 — Error Review + L11 Summary + Vocab + Grammar Drills + Roleplay + Katakana Drill
 
@@ -639,4 +410,77 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: L11 ingredient/allergy asking patterns · 行く/来る reps · 小麦 review · consider L12 if PDF available*
+### 2026-03-19 — 行く/来る Reps + L11 Ingredient/Allergy Patterns + Mixed Review
+
+#### Vocab Gap Review — 2/2
+
+| # | Word | Answer | Result |
+|---|------|--------|--------|
+| 1 | 小麦 | wheat | ✅ |
+| 2 | 消費期限 | (not re-tested) | — |
+
+#### 行く vs 来る Reps — 5/5
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Home, buy milk, come back | 買って来ます | ✅ | |
+| 2 | Friend bringing beer to you | 持って来ます | ✅ | Toward listener |
+| 3 | Made gyoza, brought to party (past) | 作って来ました | ✅ | |
+| 4 | Take documents to client (leaving) | 持って行きます | ✅ | |
+| 5 | Friend arrived, bought cake (past) | 買って来ました | ✅ | |
+
+#### L11 Ingredient/Allergy Patterns — 6/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
+| 2 | ピザ / エビ / contains? | エビを作ってますか | ❌ | 入ってますか + が not を |
+| 3 | ラーメン / ハラル? | ハラルですか | ✅ | |
+| 4 | 刺身 / 明日まで lasts? | 明日までもちますか | ✅ | |
+| 5 | パン / 小麦 / uses? | 小麦を作ってですか | ❌ | 使ってますか |
+| 6 | ケーキ / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
+| 7 | チョコレート / how long? | どのぐらい持ちますか | ✅ | |
+| 8 | カレー / ピーナッツ / uses? | ピーナッツを使ってますか | ✅ | |
+
+#### Mixed Review — 8/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
+| 2 | ピザ / エビ / contains? | エビが入ってますか | ✅ | Fixed |
+| 3 | Bring fruit to friend | 持って来ます | ✅ | |
+| 4 | チョコレート / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
+| 5 | 弁当 / 小麦 / uses? | 小麦を使ってますか | ✅ | |
+| 6 | 眠い → past | 眠くって | ❌ | 眠かった (drop い + かった) |
+| 7 | 刺身 / 明日まで lasts? | 明日まで持ちますか | ✅ | |
+| 8 | たれ prefer | たれのほがいいです | 🟡 | ほうが (missing う) |
+| 9 | スープ / ピーナッツ / contains? | ピーナッツが入ってますか | ✅ | |
+| 10 | Anything is fine | 何でもいいです | ✅ | |
+
+#### What went well
+- 行く vs 来る — **5/5 perfect!** Direction finally locked in
+- 小麦 = wheat — correct
+- 使ってますか vs 入ってますか — fixed after correction, held in review
+- Ingredient/allergy patterns understood
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う vs 作る mix-up | 使う = use, 作る = make — different verbs! | New (corrected mid-drill) |
+| 眠くって → 眠かった | い-adj past: drop い + かった, not くって | ⚠️ recurring |
+| ほが → ほうが | ほう needs う | New (spelling) |
+
+#### Open items
+- 使う vs 作る — don't mix up in ingredient questions
+- 眠かった — い-adj drop-い slipped again after 2 clean sessions
+- ほうが spelling — minor
+- L11 listening exercises — nasi will do recordings (11-01 to 11-26) independently
+- Katakana long vowels — carried over
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L11 complete — all grammar, vocab, ingredient patterns done. Listening self-study remains.**
+
+---
+
+*Next session: L11 consolidation check after listening · start L12 if PDF available · 眠かった review*
