@@ -483,4 +483,68 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: L11 consolidation check after listening · start L12 if PDF available · 眠かった review*
+### 2026-03-20 — い-adj Past Review + L11 Consolidation Mix + 使う/入っている Mini-drill
+
+#### Round 0: い-adj Past Form — 5/5
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 眠い → past | 眠かった | ✅ |
+| 2 | 暑い → past | 暑かった | ✅ |
+| 3 | おいしい → past | おいしかった | ✅ |
+| 4 | いい → past | よかった | ✅ |
+| 5 | 高い → past negative | 高くなかった | ✅ |
+
+#### Round 1: L11 Consolidation Mix — 7/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 飲み物 / 買って＿ (toward you) | 来ます | ✅ | |
+| 2 | 牛肉 vs 豚肉 / prefer beef | 牛肉のほうがいいです | ✅ | |
+| 3 | カレー / 小麦 / contains? | 小麦が入ってますか | ✅ | |
+| 4 | 3 drinks / any is fine | どれでもいいです | ✅ | |
+| 5 | ケーキ / 作って＿ (leaving) | 行きます | ✅ | |
+| 6 | 料理 / 卵 / uses? | 作ってますか | ❌ | 使ってますか |
+| 7 | コーヒー vs 紅茶 / either | どちでもいいです | 🟡 | どちらでも (missing ら) |
+| 8 | 友達が菓子を買って来た | 買って来ました | ✅ | |
+| 9 | ピザ / エビ / contains? | ありますか | ❌ | 入ってますか |
+| 10 | 消費期限 meaning | expiry date | ✅ | |
+
+#### Round 2: 使う vs 入っている Mini-drill — 5/5
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | パン / 小麦 / contains? | 小麦が入ってますか | ✅ |
+| 2 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ |
+| 3 | チョコ / 乳製品 / contains? | 乳製品が入ってますか | ✅ |
+| 4 | ラーメン / ピーナッツ / uses? | ピーナッツを使ってますか | ✅ |
+| 5 | ケーキ / バター / contains? | バターが入ってますか | ✅ |
+
+#### What went well
+- い-adj past — 5/5, including irregular いい→よかった and past negative
+- 行く/来る direction — all correct again (2nd consecutive perfect session)
+- どっち/どれ/のほう — solid
+- 消費期限, 小麦 — vocab locked
+- 使う vs 入っている — fixed after correction, then 5/5 in mini-drill
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う vs 作る mix-up | 使う = use, 作る = make | ⚠️ recurring (2nd session) |
+| 入っている vs ある for ingredients | Inside food = 入っている, not ある | New (corrected, then 5/5) |
+| どちら not どち | どちら needs ら | New (spelling) |
+
+#### Open items
+- 使う vs 作る — recurring, needs more reps
+- い-adj past — **5/5 clean** (back on track after last session's slip)
+- 行く/来る — 2 consecutive perfect sessions, nearing closure
+- L11 listening exercises — self-study (11-01 to 11-26)
+- Katakana long vowels (ー) — carried over, not drilled today
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- No L12 PDF yet
+
+---
+
+*Next session: 使う vs 作る targeted reps · start L12 if PDF available · katakana long vowels if time*
