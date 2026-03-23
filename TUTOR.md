@@ -109,47 +109,60 @@ Check PROGRESS.md for the full tracker. Key recurring patterns as of 2026-03-03:
 
 ---
 
-## Current Chapter: L11 — 肉と野菜は私が買って行きます
+## Current Chapter: L12 — お弁当、おいしそうですね
 
 ### Grammar patterns to drill
 
-1. **V-て行きます / V-て来ます** — Do V then go/come (bring/take)
-2. **N1とN2、どっちがいいですか？ / どれがいいですか？** — Which do you prefer? (2 = どっち, 3+ = どれ)
-3. **Nのほうがいいです** — I prefer N (choosing one of two)
-4. **[interrogative]でもいいです** — Anything/either is fine (何でも, どっちでも, etc.)
+1. **〜そうです** — "It looks ~" (appearance judgment: drop い + そうです)
+2. **〜そうなN** — "N that looks ~" (before noun: drop い + そうな + N)
+3. **い-adj くて、〜 / くなくて、〜** — Linking adjectives as reason
+4. **V-てみます** — "Try doing V" (てみてください for offering)
+5. **入る vs 入れる** — contain (intransitive, が) vs put in (transitive, を)
+6. **い-adj くないですか？** — "Isn't it too ~?" (expressing concern)
 
-### Key vocabulary for L11
+### Key vocabulary for L12
 
 | Word | Reading | Meaning |
 |------|---------|---------|
-| 肉 | にく | meat |
-| 野菜 | やさい | vegetables |
-| 牛肉 | ぎゅうにく | beef |
-| 豚肉 | ぶたにく | pork |
-| 鶏肉 | とりにく | chicken |
-| 飲み物 | のみもの | beverages |
-| 材料 | ざいりょう | ingredients |
-| 売る | うる | to sell |
-| 持って行く | もっていく | to bring |
-| 消費期限 | しょうひきげん | expiration date |
-| 卵 | たまご | egg |
-| 小麦 | こむぎ | wheat |
+| 甘い | あまい | sweet |
+| 辛い | からい | spicy |
+| すっぱい | — | sour |
+| しょっぱい | — | salty |
+| 苦い | にがい | bitter |
+| 味 | あじ | taste/flavor |
+| 味がこい | あじがこい | strong flavor |
+| 味がうすい | あじがうすい | mild/bland flavor |
+| まずい | — | bad-tasting |
+| 苦手（な） | にがて | not good with |
+| 卵焼き | たまごやき | Japanese rolled omelet |
+| お好み焼き | おこのみやき | savory pancake |
+| 梅干し | うめぼし | pickled plum |
+| すき焼き | すきやき | sukiyaki |
+| 茶碗蒸し | ちゃわんむし | savory egg custard |
+| 生 | なま | raw |
+| だし | — | Japanese soup stock |
+| お腹がいっぱい | おなかがいっぱい | full (stomach) |
+| 焼く | やく | to grill |
+| 焼ける | やける | done grilling (intransitive) |
 
 ---
 
-## Session Handoff (as of 2026-03-17)
+## Session Handoff (as of 2026-03-22)
 
-Last session completed L11 grammar drills + roleplay. All 4 patterns drilled and used in roleplay.
+L12 grammar + roleplay complete. 〜そう い-drop fixed (massive improvement). Roleplay went well.
 
 **Completed:**
-- L11 summary, vocab recognition (13/15), all 4 grammar pattern drills, roleplay, katakana drill
-- Error review: 空いている, い-adj drop-い, な-adj なとき — all clean (5/5)
+- L12 summary, vocab (11/15), all 6 grammar drills, 〜そう mini-drill (10/12), roleplay
+- 〜そう い-drop — fixed (all taste adjectives correct in drill)
+- 〜そうな + noun — clicking
+- 食べてみます — used naturally in roleplay
 
 **Open items:**
-- V-て行く vs 来る direction — needs more reps
-- でも must match question word (どっちでも not 何でも)
-- Katakana long vowels (ー) — main katakana weakness
-- L11 vocab gaps: 消費期限 (expiration date), 小麦 (wheat)
-- い-adj drop-い — nearing closure (consecutive correct across 3 sessions)
+- まずい meaning — still not locked (2 sessions)
+- 苦い(にがい) vs 苦手(にがて) — confusing the pair
+- 苦手 is な-adj (じゃないです, not ません)
+- 味がこい conjugation — こくて not こて
+- 使う vs 作る — carried over, not drilled
+- Katakana long vowels — carried over
 
-**Start next session by:** 行く/来る direction drill, L11 vocab gap review, then consider starting L12.
+**Start next session by:** まずい/苦い/苦手 vocab review, 使う vs 作る reps, then start L13 if PDF available.

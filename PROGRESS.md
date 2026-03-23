@@ -2,7 +2,7 @@
 **Learner:** nasi
 **Started:** October 2025 (approx.)
 **Current level:** A2 (~5 months in)
-**Textbook:** Irodori 初級1 — completed up to Ch.10, working on Ch.11 (L11: food, BBQ planning, preferences)
+**Textbook:** Irodori 初級1 — completed up to Ch.11, working on Ch.12 (L12: food impressions, taste, offering food)
 **Weekly lessons:** 1 hour with teacher
 **Anki:** Active (vocabulary)
 **Skills profile:** Reading > Listening > Speaking (speaking weakest — tends to overthink grammar mid-sentence)
@@ -225,263 +225,7 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ## Session Log
 
-> Older sessions (2026-02-21 through 2026-03-16) archived in PROGRESS_ARCHIVE.md
-
-### 2026-03-17 — Error Review + L11 Summary + Vocab + Grammar Drills + Roleplay + Katakana Drill
-
-#### Round 0: Error Review — 5/5
-
-| # | Target | Answer | Result |
-|---|--------|--------|--------|
-| 1 | 空いていますか | 空いていますか | ✅ |
-| 2 | 難しい → past | 難しかった | ✅ |
-| 3 | 眠い → past | 眠かった | ✅ |
-| 4 | 必要 + とき | 必要なとき | ✅ |
-| 5 | 空いていますか (retry) | 空いていますか | ✅ |
-
-#### L11 Summary Given
-
-**Topic:** おいしい料理 (Delicious food)
-**Title:** 肉と野菜は私が買って行きます
-**Patterns:** V-て行きます/来ます, N1とN2どっちがいいですか/どれがいいですか, Nのほうがいいです, [interrogative]でもいいです
-
-#### Round 1: L11 Vocab Recognition — 13/15
-
-| # | Word | Answer | Result | Note |
-|---|------|--------|--------|------|
-| 1 | 野菜 | vegetable | ✅ | |
-| 2 | 鶏肉 | chicken | ✅ | |
-| 3 | 飲み物 | drinks | ✅ | |
-| 4 | 材料 | ingredients | ✅ | |
-| 5 | 消費期限 | spending period | 🟡 | = expiration date |
-| 6 | お皿 | plate | ✅ | |
-| 7 | 売る | sell | ✅ | |
-| 8 | お菓子 | sweets | ✅ | |
-| 9 | 豚肉 | pork | ✅ | |
-| 10 | 商品 | products | ✅ | |
-| 11 | 焼き鳥 | grilled chicken | ✅ | |
-| 12 | 持って行く | to bring | ✅ | |
-| 13 | アレルギー | allergy | ✅ | From German |
-| 14 | 卵 | egg | ✅ | |
-| 15 | 小麦 | millet | ❌ | = wheat |
-
-#### Round 2: V-て行きます/来ます — 8/10
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 肉 / 買う → go | 肉を買って行きます | ✅ | |
-| 2 | おにぎり / 作る → go | おにぎりを作って行きます | ✅ | |
-| 3 | バナナ / 持つ → go | バナナを持って行きます | ✅ | |
-| 4 | 国の料理 / 作る → here | 作って行きました | ❌ | 来ました (toward here) |
-| 5 | 飲み物 / 買う → here | 買ってきました | ✅ | |
-| 6 | 明日のパーティー / お皿 / 持つ | 持って来ます | ❌ | 行きます (going there) + パーチー→パーティー |
-| 7 | ビール / 買う → here | ビルを買って来ました | 🟡 | ビル→ビール (katakana) |
-| 8 | 焼きそば / 作る → go | 焼きそばを作って行きます | ✅ | |
-| 9 | 野菜 / 買う → go | 野菜を買って行きます | ✅ | |
-| 10 | お菓子 / 持つ → here, past | 持って来ます | 🟡 | 来ました (past tense) |
-
-#### Round 3: どっち/どれ/のほう/でも — 9/10
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Ask: choco vs cheese cake | どっちがいいですか | ✅ | |
-| 2 | Answer: prefer cheese cake | チーズケーキのほうがいいです | ✅ | |
-| 3 | Ask: 塩 vs たれ | どっちがいいですか | ✅ | |
-| 4 | Answer: prefer 塩 | 塩のほうがいいです | ✅ | |
-| 5 | No preference (anything) | 何でもいいです | ✅ | |
-| 6 | 3 types of tea — ask which | どれがいいですか | ✅ | |
-| 7 | Beer vs wine — either is fine | 何でもいいです | 🟡 | どっちでもいいです (match question) |
-| 8 | How many — don't mind | いくつでもいいです | ✅ | |
-| 9 | Ask beer vs wine + answer | どっちがいいです？/ どっちでもいいです | 🟡 | Missing か on question |
-| 10 | Many juices — ask which | どれがいいですか | ✅ | |
-
-#### Round 4: L11 Roleplay — BBQ planning with coworkers
-
-**Patterns used successfully:**
-- V-て行きます ✅ (買って行きます)
-- どっちがいいですか ✅ (ケーキ choice)
-- どれがいいですか ✅ (drinks, meat)
-- どれでもいいです ✅
-
-**Roleplay errors (4):**
-
-| # | Error | Correction | Category |
-|---|-------|-----------|----------|
-| 1 | デザト | デザート (long vowel) | Katakana |
-| 2 | チョコレト / チズー | チョコレート / チーズ | Katakana |
-| 3 | ソフトヅリンク | ソフトドリンク (ヅ→ド) | Katakana |
-| 4 | ウロン茶 | ウーロン茶 (long vowel) | Katakana |
-
-#### Round 5: Katakana Loanword Drill — 7/10
-
-| # | English | Answer | Result | Note |
-|---|---------|--------|--------|------|
-| 1 | dessert | デザート | ✅ | |
-| 2 | chocolate | チョコレート | ✅ | |
-| 3 | cheese | チーズ | ✅ | |
-| 4 | soft drink | ソフトドリンク | ✅ | |
-| 5 | oolong | ウーロン茶 | ✅ | |
-| 6 | beer | ビール | ✅ | |
-| 7 | allergy | アレギ | ❌ | アレルギー (missing ル and ー) |
-| 8 | barbecue | バベキュー | 🟡 | バーベキュー (missing ー after バ) |
-| 9 | sauce | ソス | ❌ | ソース (missing ー after ソ) |
-| 10 | cake | ケーキ | ✅ | |
-
-#### What went well
-- Error review 5/5 — 空いている, い-adj drop-い, な-adj なとき all clean
-- L11 vocab strong (13/15)
-- V-て行きます て-form construction solid
-- どっち vs どれ distinction understood
-- のほうがいいです — natural
-- でもいいです — pattern clicked (何でも, いくつでも, どれでも)
-- Roleplay grammar was clean — all 4 errors were katakana only
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 行く vs 来る confusion | 行く = away from here, 来る = toward here | New |
-| ビル vs ビール | ビル = building, ビール = beer (long vowel) | Katakana |
-| パーチー → パーティー | Need small ィ | Katakana |
-| でも must match question word | どっち→どっちでも, not 何でも | New |
-| 消費期限 ≠ spending period | = expiration date | Vocab gap |
-| 小麦 ≠ millet | = wheat | Vocab gap |
-| アレルギー spelling | ア・レ・ル・ギ・ー (from German) | Katakana |
-| Long vowel ー drops in katakana | バーベキュー, ソース — don't skip ー | ⚠️ recurring |
-
-#### Open items
-- V-て行く vs 来る — direction needs reps
-- でも matching question word — どっちでも not 何でも for 2 choices
-- Katakana long vowels (ー) — #1 katakana issue, needs ongoing reps
-- アレルギー spelling — memorize
-- L11 vocab gaps: 消費期限, 小麦
-- い-adj drop-い — **CLOSING** (5 consecutive correct across 3 sessions)
-- で vs に — ongoing
-- Verb negative plain row shift — carried over
-- **L11 grammar drills + roleplay done — needs: vocab consolidation, 行く/来る direction drill**
-
----
-
-### 2026-03-18 — 行く/来る Direction Drill + Vocab Gap Review
-
-#### Vocab Gap Review — 1/2
-
-| # | Word | Answer | Result | Note |
-|---|------|--------|--------|------|
-| 1 | 消費期限 | expiry date | ✅ | |
-| 2 | 小麦 | flour | 🟡 | = wheat (小麦粉 = flour) |
-
-#### 行く vs 来る Direction Drill — 5/8
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Home → party (cake/作る) | 作って行きます | ✅ | |
-| 2 | Friend arrived, bought drinks | 買って来ました | ✅ | |
-| 3 | Office, go withdraw money, come back | おろして行きます | ❌ | 来ます (coming back here) |
-| 4 | Friend bringing snacks to you | 持って行きます | ❌ | 来ます (toward listener) |
-| 5 | BBQ, forgot plates, buy and come back | 買って来ます | ✅ | |
-| 6 | Home → potluck (onigiri/作る) | 作って行きます | ✅ | |
-| 7 | Classmate arrived with cookies | 作って来ます | 🟡 | 来ました (past — already arrived) |
-| 8 | Restaurant, get drinks, come back | とって来ます | ✅ | |
-
-#### What went well
-- 消費期限 meaning locked in
-- 行く/来る "come back" pattern (来ます) clicked in Q5 and Q8
-- Improvement from last session overall
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 小麦 ≠ flour | 小麦 = wheat, 小麦粉 = flour | ⚠️ recurring |
-| 来る for "coming back here" | Leave and return = 来る not 行く | ⚠️ recurring |
-| 来る toward listener | Speaking to someone, going to them = 来る | ⚠️ recurring |
-| Past tense for completed actions | Already arrived → 来ました not 来ます | New |
-
-#### Open items
-- 行く vs 来る — "coming back" and "toward listener" need more reps
-- 小麦 = wheat — still not locked
-- L11 ingredient/allergy patterns (使ってますか, 入ってますか) — not yet drilled
-- い-adj drop-い — nearing closure
-- で vs に — ongoing
-- Verb negative plain row shift — carried over
-- Katakana long vowels — carried over
-- **L11 mostly complete — remaining: ingredient patterns, 行く/来る consolidation**
-
----
-
-### 2026-03-19 — 行く/来る Reps + L11 Ingredient/Allergy Patterns + Mixed Review
-
-#### Vocab Gap Review — 2/2
-
-| # | Word | Answer | Result |
-|---|------|--------|--------|
-| 1 | 小麦 | wheat | ✅ |
-| 2 | 消費期限 | (not re-tested) | — |
-
-#### 行く vs 来る Reps — 5/5
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | Home, buy milk, come back | 買って来ます | ✅ | |
-| 2 | Friend bringing beer to you | 持って来ます | ✅ | Toward listener |
-| 3 | Made gyoza, brought to party (past) | 作って来ました | ✅ | |
-| 4 | Take documents to client (leaving) | 持って行きます | ✅ | |
-| 5 | Friend arrived, bought cake (past) | 買って来ました | ✅ | |
-
-#### L11 Ingredient/Allergy Patterns — 6/8
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
-| 2 | ピザ / エビ / contains? | エビを作ってますか | ❌ | 入ってますか + が not を |
-| 3 | ラーメン / ハラル? | ハラルですか | ✅ | |
-| 4 | 刺身 / 明日まで lasts? | 明日までもちますか | ✅ | |
-| 5 | パン / 小麦 / uses? | 小麦を作ってですか | ❌ | 使ってますか |
-| 6 | ケーキ / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
-| 7 | チョコレート / how long? | どのぐらい持ちますか | ✅ | |
-| 8 | カレー / ピーナッツ / uses? | ピーナッツを使ってますか | ✅ | |
-
-#### Mixed Review — 8/10
-
-| # | Prompt | Answer | Result | Note |
-|---|--------|--------|--------|------|
-| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
-| 2 | ピザ / エビ / contains? | エビが入ってますか | ✅ | Fixed |
-| 3 | Bring fruit to friend | 持って来ます | ✅ | |
-| 4 | チョコレート / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
-| 5 | 弁当 / 小麦 / uses? | 小麦を使ってますか | ✅ | |
-| 6 | 眠い → past | 眠くって | ❌ | 眠かった (drop い + かった) |
-| 7 | 刺身 / 明日まで lasts? | 明日まで持ちますか | ✅ | |
-| 8 | たれ prefer | たれのほがいいです | 🟡 | ほうが (missing う) |
-| 9 | スープ / ピーナッツ / contains? | ピーナッツが入ってますか | ✅ | |
-| 10 | Anything is fine | 何でもいいです | ✅ | |
-
-#### What went well
-- 行く vs 来る — **5/5 perfect!** Direction finally locked in
-- 小麦 = wheat — correct
-- 使ってますか vs 入ってますか — fixed after correction, held in review
-- Ingredient/allergy patterns understood
-
-#### Errors this session
-
-| Error | Rule | Status |
-|---|---|---|
-| 使う vs 作る mix-up | 使う = use, 作る = make — different verbs! | New (corrected mid-drill) |
-| 眠くって → 眠かった | い-adj past: drop い + かった, not くって | ⚠️ recurring |
-| ほが → ほうが | ほう needs う | New (spelling) |
-
-#### Open items
-- 使う vs 作る — don't mix up in ingredient questions
-- 眠かった — い-adj drop-い slipped again after 2 clean sessions
-- ほうが spelling — minor
-- L11 listening exercises — nasi will do recordings (11-01 to 11-26) independently
-- Katakana long vowels — carried over
-- で vs に — ongoing
-- Verb negative plain row shift — carried over
-- **L11 complete — all grammar, vocab, ingredient patterns done. Listening self-study remains.**
-
----
+> Older sessions (2026-02-21 through 2026-03-19) archived in PROGRESS_ARCHIVE.md
 
 ### 2026-03-20 — い-adj Past Review + L11 Consolidation Mix + 使う/入っている Mini-drill
 
@@ -547,4 +291,202 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: 使う vs 作る targeted reps · start L12 if PDF available · katakana long vowels if time*
+### 2026-03-21 — L12 Summary + Vocab + Grammar Drills (〜そう, くて linking, V-てみます, 入る/入れる, くないですか)
+
+#### L12 Summary Given
+
+**Topic:** おいしい料理 (Delicious food — continued)
+**Title:** お弁当、おいしそうですね
+**Patterns:** 〜そうです, 〜そうなN, い-adjくて〜/くなくて〜, V-てみます, 入る vs 入れる, い-adjくないですか？
+
+#### Round 1: L12 Vocab Recognition — 11/15
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 甘い | sweet | ✅ | |
+| 2 | 辛い | spicy | ✅ | |
+| 3 | すっぱい | sour | ✅ | |
+| 4 | 苦い | bitter | ✅ | |
+| 5 | しょっぱい | salty | ✅ | |
+| 6 | 味 | savoury | ❌ | = taste/flavor (general) |
+| 7 | まずい | no idea | ❌ | = bad-tasting (↔ おいしい) |
+| 8 | 苦手 | not good at | ✅ | |
+| 9 | 卵焼き | fried egg | 🟡 | = Japanese rolled omelet |
+| 10 | 梅干し | preserved plum | ✅ | |
+| 11 | 茶碗蒸し | steamed egg | 🟡 | = savory egg custard |
+| 12 | 生 | fresh | 🟡 | = raw |
+| 13 | お腹がいっぱい | I'm full | ✅ | |
+| 14 | 味がこい | no idea | ❌ | = strong/rich flavor |
+| 15 | 味がうすい | taste is thin | ✅ | |
+
+#### Round 2: 〜そうです Grammar — 5/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | カレー / 辛い looks | 見に辛いです | ❌ | 辛そうです (no 見に) |
+| 2 | ケーキ / おいしい looks | そうおいしいです | ❌ | おいしそうです (そう after stem) |
+| 3 | みかん / すっぱい looks | すっぱいそうです | 🟡 | Drop い → すっぱそうです |
+| 4 | 弁当 / おいしい looks | おいしそうです | ✅ | |
+| 5 | 辛い + 料理 (noun) | からそうです | 🟡 | 辛そうな料理 (な before noun) |
+| 6 | 甘い + ケーキ (noun) | 甘いそうなケーキ | ❌ | Drop い → 甘そうな |
+| 7 | おいしい + 弁当 (noun) | おいしそうなお弁当 | ✅ | |
+| 8 | 卵焼き / 甘い looks | 甘そうです | ✅ | |
+| 9 | すっぱい + みかん (noun) | すっぱいそうな | ❌ | Drop い → すっぱそうな |
+| 10 | 茶碗蒸し / おいしい looks | おいしそうです | ✅ | |
+
+#### Round 3: い-adj くて linking (reason) — 5/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 卵焼き / 甘い + おいしい | 甘くておいしいです | ✅ | |
+| 2 | 茶碗蒸し / 甘くない + おいしい | 甘くなくておいしいです | ✅ | |
+| 3 | 梅干し / すっぱい + 苦手 | すっぱくて苦手です | ✅ | |
+| 4 | カレー / 辛くない + 子ども食べられる | 辛くなくて子どもも食べます | 🟡 | 食べられる preferred |
+| 5 | 料理 / しょっぱい + まずい | すっぱくてまずいです | ❌ | しょっぱい not すっぱい |
+| 6 | みかん / すっぱくない + 甘い | すっぱくなくて甘いです | ✅ | |
+
+#### Round 4: V-てみます — 4/7
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Offer 卵焼き / try eating | 食べてみてください | ✅ | |
+| 2 | Bento / try buying next time | 買ってみたいんですが | 🟡 | 買ってみます simpler |
+| 3 | 茶碗蒸し / I'll try it | 見に食べています | ❌ | 食べてみます |
+| 4 | Ramen shop / try going | 行ってみます | ✅ | |
+| 5 | Offer curry / よかったら | 食べてみます | 🟡 | てみてください (offering) |
+| 6 | Accept 梅干し offer | にしてみます | ❌ | 食べてみます |
+| 7 | お好み焼き / try making | 作ってみます | ✅ | |
+
+#### Round 5: 入る vs 入れる — 5.5/6
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | カレー / 鶏肉 / contained | 入っています | ✅ | |
+| 2 | 銀杏 / put in sometimes | 入れます | ✅ | |
+| 3 | 料理 / 卵 / contained? (particle) | 卵が入ってますか | ✅ | |
+| 4 | すき焼き / 生の卵 / put in? | 入れますか | ✅ | |
+| 5 | 茶碗蒸し / エビ / contained? | エビが入ってますか | ✅ | |
+| 6 | いつもしいたけ / put in | しいたけいれます | 🟡 | Missing を particle |
+
+#### Round 6: くないですか？ — 5/5
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | わさび / spicy? | 辛くないですか | ✅ |
+| 2 | 味 / bland? | うすくないですか | ✅ |
+| 3 | Cold? | 寒くないですか | ✅ |
+| 4 | 梅干し / sour? | すっぱくないですか | ✅ |
+| 5 | ケーキ / sweet? | 甘くないですか | ✅ |
+
+#### What went well
+- くて linking (reason) — solid, including negative くなくて
+- 入る vs 入れる — pair understood, particles correct
+- くないですか — 5/5, natural
+- Taste vocab mostly locked (甘い, 辛い, すっぱい, 苦い, しょっぱい)
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 〜そう: keeping い before そう | Drop い, then add そう (すっぱそう not すっぱいそう) | ⚠️ recurring (×3 in drill) |
+| 〜そうな before noun | そう acts like な-adj → そうな + N | New |
+| V-てみる vs 見に | てみる is one pattern, not 見に + verb | New |
+| てみます vs てみてください | てみます = I'll try / てみてください = please try (offering) | New |
+| すっぱい vs しょっぱい confusion | すっぱい = sour, しょっぱい = salty | New |
+| Vocab gaps: 味, まずい, 味がこい | 味 = taste, まずい = bad-tasting, 味がこい = strong flavor | New |
+
+#### Open items
+- 〜そう い-drop — needs targeted reps (especially すっぱい, しょっぱい)
+- 〜そうな + noun — needs more practice
+- V-てみます vs てみてください — self vs offering
+- Vocab gaps: 味, まずい, 味がこい
+- 使う vs 作る — not drilled today, carried over
+- Katakana long vowels — carried over
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L12 grammar introduced (all 6 patterns) — needs: 〜そう consolidation, roleplay**
+
+---
+
+### 2026-03-22 — L12 Vocab Gap Review + 〜そう Mini-drill + L12 Roleplay
+
+#### Round 0: Vocab Gap Review — 2/3
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 味 | taste | ✅ | |
+| 2 | まずい | thin | ❌ | = bad-tasting (↔ おいしい) |
+| 3 | 味がこい | thick flavoring | ✅ | |
+
+#### Round 1: 〜そう い-drop Mini-drill — 10/12
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | おいしい → そう | おいしそう | ✅ | |
+| 2 | 甘い → そう | 甘そう | ✅ | |
+| 3 | すっぱい → そう | すっぱそう | ✅ | Fixed from last session |
+| 4 | しょっぱい → そう | しょっぱそう | ✅ | |
+| 5 | 辛い → そう | からそう | ✅ | |
+| 6 | 苦い → そう | 苦手そう | ❌ | にがそう (苦い ≠ 苦手) |
+| 7 | まずい → そう | むずそう | ❌ | まずそう (≠ むずかしい) |
+| 8 | 辛い + カレー (noun) | 辛いなカレー | ❌ | 辛そうなカレー |
+| 9 | おいしい + 弁当 (noun) | おいしそうなお弁当 | ✅ | |
+| 10 | すっぱい + みかん (noun) | すっぱそうなみかん | ✅ | Fixed from last session |
+| 11 | 甘い + ケーキ (noun) | 甘そうなケーキ | ✅ | |
+| 12 | しょっぱい + ラーメン (noun) | しょっぱそうなラーメン | ✅ | |
+
+#### Round 2: L12 Roleplay — Lunch at a Japanese restaurant with 森さん
+
+**Patterns used successfully:**
+- 〜そう ✅ (すごそう — natural, though おいしそう more typical for food)
+- 食べてみます ✅ (×3, accepting offers)
+- くなくて linking ✅ (辛くなくておいしい)
+- が入ってますか ✅ (エビ)
+- を使ってますか ✅ (塩)
+- すっぱいです ✅ (梅干し reaction)
+- お腹がすいています ✅ (self-corrected)
+
+**Roleplay errors (6):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 苦手ません | 苦手じゃないです (な-adj, not verb) | な-adj negative |
+| 2 | 食べみます (missing て) | 食べてみます | V-てみる |
+| 3 | 食べてみません for declining | すみません / ちょっと… | Natural expression |
+| 4 | お腹がすきです | お腹がすいています (ている) | Verb form |
+| 5 | こて → こくて | 味がこい → こくて (い-adj くて) | Adjective conjugation |
+| 6 | 入ってまか (typo) | 入ってますか | Typo |
+
+#### What went well
+- 〜そう い-drop — **massive improvement** from last session (all taste adj correct)
+- 〜そうな + noun — clicking now (4/5 correct)
+- 食べてみます — used naturally in roleplay (×3)
+- くなくて linking — used unprompted in roleplay
+- Ingredient patterns (入っている, 使っている) — solid in roleplay context
+- 味 meaning locked in
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 苦い vs 苦手 confusion | 苦い(にがい) = bitter taste, 苦手(にがて) = not good with | New |
+| まずい vs むずかしい | まずい = bad-tasting, むずかしい = difficult | New |
+| 苦手 + ません | 苦手 is な-adj → じゃないです, not verb ません | New |
+| お腹がすきです → すいています | すく is a verb → state = すいています | New |
+| 味がこくて (not こて) | こい is い-adj → drop い + くて = こくて | New |
+| まずい meaning | = bad-tasting (↔ おいしい) — still not locked | ⚠️ recurring |
+
+#### Open items
+- まずい meaning — still not locked (2 sessions)
+- 苦い vs 苦手 — different words, same kanji
+- 苦手 is な-adj (じゃないです, not ません)
+- 味がこい conjugation — こくて
+- 使う vs 作る — not drilled, carried over
+- Katakana long vowels — carried over
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L12 grammar + roleplay done — needs: まずい/苦い vocab consolidation, L12 listening self-study**
+
+---
+
+*Next session: まずい/苦い/苦手 vocab review · 使う vs 作る reps · consider starting L13 if PDF available · L12 listening self-study (12-01 to 12-20)*

@@ -1,6 +1,6 @@
 # Japanese Learning Progress — Archived Session Logs
 
-Archived sessions moved here from PROGRESS.md. Last updated 2026-03-19.
+Archived sessions moved here from PROGRESS.md. Last updated 2026-03-23.
 
 ---
 
@@ -1625,3 +1625,260 @@ Archived sessions moved here from PROGRESS.md. Last updated 2026-03-19.
 - で vs に — ongoing
 - Verb negative plain row shift — carried over
 - Katakana loanword spelling — carried over
+
+---
+
+### 2026-03-17 — Error Review + L11 Summary + Vocab + Grammar Drills + Roleplay + Katakana Drill
+
+#### Round 0: Error Review — 5/5
+
+| # | Target | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 空いていますか | 空いていますか | ✅ |
+| 2 | 難しい → past | 難しかった | ✅ |
+| 3 | 眠い → past | 眠かった | ✅ |
+| 4 | 必要 + とき | 必要なとき | ✅ |
+| 5 | 空いていますか (retry) | 空いていますか | ✅ |
+
+#### L11 Summary Given
+
+**Topic:** おいしい料理 (Delicious food)
+**Title:** 肉と野菜は私が買って行きます
+**Patterns:** V-て行きます/来ます, N1とN2どっちがいいですか/どれがいいですか, Nのほうがいいです, [interrogative]でもいいです
+
+#### Round 1: L11 Vocab Recognition — 13/15
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 野菜 | vegetable | ✅ | |
+| 2 | 鶏肉 | chicken | ✅ | |
+| 3 | 飲み物 | drinks | ✅ | |
+| 4 | 材料 | ingredients | ✅ | |
+| 5 | 消費期限 | spending period | 🟡 | = expiration date |
+| 6 | お皿 | plate | ✅ | |
+| 7 | 売る | sell | ✅ | |
+| 8 | お菓子 | sweets | ✅ | |
+| 9 | 豚肉 | pork | ✅ | |
+| 10 | 商品 | products | ✅ | |
+| 11 | 焼き鳥 | grilled chicken | ✅ | |
+| 12 | 持って行く | to bring | ✅ | |
+| 13 | アレルギー | allergy | ✅ | From German |
+| 14 | 卵 | egg | ✅ | |
+| 15 | 小麦 | millet | ❌ | = wheat |
+
+#### Round 2: V-て行きます/来ます — 8/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 肉 / 買う → go | 肉を買って行きます | ✅ | |
+| 2 | おにぎり / 作る → go | おにぎりを作って行きます | ✅ | |
+| 3 | バナナ / 持つ → go | バナナを持って行きます | ✅ | |
+| 4 | 国の料理 / 作る → here | 作って行きました | ❌ | 来ました (toward here) |
+| 5 | 飲み物 / 買う → here | 買ってきました | ✅ | |
+| 6 | 明日のパーティー / お皿 / 持つ | 持って来ます | ❌ | 行きます (going there) + パーチー→パーティー |
+| 7 | ビール / 買う → here | ビルを買って来ました | 🟡 | ビル→ビール (katakana) |
+| 8 | 焼きそば / 作る → go | 焼きそばを作って行きます | ✅ | |
+| 9 | 野菜 / 買う → go | 野菜を買って行きます | ✅ | |
+| 10 | お菓子 / 持つ → here, past | 持って来ます | 🟡 | 来ました (past tense) |
+
+#### Round 3: どっち/どれ/のほう/でも — 9/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Ask: choco vs cheese cake | どっちがいいですか | ✅ | |
+| 2 | Answer: prefer cheese cake | チーズケーキのほうがいいです | ✅ | |
+| 3 | Ask: 塩 vs たれ | どっちがいいですか | ✅ | |
+| 4 | Answer: prefer 塩 | 塩のほうがいいです | ✅ | |
+| 5 | No preference (anything) | 何でもいいです | ✅ | |
+| 6 | 3 types of tea — ask which | どれがいいですか | ✅ | |
+| 7 | Beer vs wine — either is fine | 何でもいいです | 🟡 | どっちでもいいです (match question) |
+| 8 | How many — don't mind | いくつでもいいです | ✅ | |
+| 9 | Ask beer vs wine + answer | どっちがいいです？/ どっちでもいいです | 🟡 | Missing か on question |
+| 10 | Many juices — ask which | どれがいいですか | ✅ | |
+
+#### Round 4: L11 Roleplay — BBQ planning with coworkers
+
+**Patterns used successfully:**
+- V-て行きます ✅ (買って行きます)
+- どっちがいいですか ✅ (ケーキ choice)
+- どれがいいですか ✅ (drinks, meat)
+- どれでもいいです ✅
+
+**Roleplay errors (4):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | デザト | デザート (long vowel) | Katakana |
+| 2 | チョコレト / チズー | チョコレート / チーズ | Katakana |
+| 3 | ソフトヅリンク | ソフトドリンク (ヅ→ド) | Katakana |
+| 4 | ウロン茶 | ウーロン茶 (long vowel) | Katakana |
+
+#### Round 5: Katakana Loanword Drill — 7/10
+
+| # | English | Answer | Result | Note |
+|---|---------|--------|--------|------|
+| 1 | dessert | デザート | ✅ | |
+| 2 | chocolate | チョコレート | ✅ | |
+| 3 | cheese | チーズ | ✅ | |
+| 4 | soft drink | ソフトドリンク | ✅ | |
+| 5 | oolong | ウーロン茶 | ✅ | |
+| 6 | beer | ビール | ✅ | |
+| 7 | allergy | アレギ | ❌ | アレルギー (missing ル and ー) |
+| 8 | barbecue | バベキュー | 🟡 | バーベキュー (missing ー after バ) |
+| 9 | sauce | ソス | ❌ | ソース (missing ー after ソ) |
+| 10 | cake | ケーキ | ✅ | |
+
+#### What went well
+- Error review 5/5 — 空いている, い-adj drop-い, な-adj なとき all clean
+- L11 vocab strong (13/15)
+- V-て行きます て-form construction solid
+- どっち vs どれ distinction understood
+- のほうがいいです — natural
+- でもいいです — pattern clicked (何でも, いくつでも, どれでも)
+- Roleplay grammar was clean — all 4 errors were katakana only
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 行く vs 来る confusion | 行く = away from here, 来る = toward here | New |
+| ビル vs ビール | ビル = building, ビール = beer (long vowel) | Katakana |
+| パーチー → パーティー | Need small ィ | Katakana |
+| でも must match question word | どっち→どっちでも, not 何でも | New |
+| 消費期限 ≠ spending period | = expiration date | Vocab gap |
+| 小麦 ≠ millet | = wheat | Vocab gap |
+| アレルギー spelling | ア・レ・ル・ギ・ー (from German) | Katakana |
+| Long vowel ー drops in katakana | バーベキュー, ソース — don't skip ー | ⚠️ recurring |
+
+#### Open items
+- V-て行く vs 来る — direction needs reps
+- でも matching question word — どっちでも not 何でも for 2 choices
+- Katakana long vowels (ー) — #1 katakana issue, needs ongoing reps
+- アレルギー spelling — memorize
+- L11 vocab gaps: 消費期限, 小麦
+- い-adj drop-い — **CLOSING** (5 consecutive correct across 3 sessions)
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L11 grammar drills + roleplay done — needs: vocab consolidation, 行く/来る direction drill**
+
+---
+
+### 2026-03-18 — 行く/来る Direction Drill + Vocab Gap Review
+
+#### Vocab Gap Review — 1/2
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 消費期限 | expiry date | ✅ | |
+| 2 | 小麦 | flour | 🟡 | = wheat (小麦粉 = flour) |
+
+#### 行く vs 来る Direction Drill — 5/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Home → party (cake/作る) | 作って行きます | ✅ | |
+| 2 | Friend arrived, bought drinks | 買って来ました | ✅ | |
+| 3 | Office, go withdraw money, come back | おろして行きます | ❌ | 来ます (coming back here) |
+| 4 | Friend bringing snacks to you | 持って行きます | ❌ | 来ます (toward listener) |
+| 5 | BBQ, forgot plates, buy and come back | 買って来ます | ✅ | |
+| 6 | Home → potluck (onigiri/作る) | 作って行きます | ✅ | |
+| 7 | Classmate arrived with cookies | 作って来ます | 🟡 | 来ました (past — already arrived) |
+| 8 | Restaurant, get drinks, come back | とって来ます | ✅ | |
+
+#### What went well
+- 消費期限 meaning locked in
+- 行く/来る "come back" pattern (来ます) clicked in Q5 and Q8
+- Improvement from last session overall
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 小麦 ≠ flour | 小麦 = wheat, 小麦粉 = flour | ⚠️ recurring |
+| 来る for "coming back here" | Leave and return = 来る not 行く | ⚠️ recurring |
+| 来る toward listener | Speaking to someone, going to them = 来る | ⚠️ recurring |
+| Past tense for completed actions | Already arrived → 来ました not 来ます | New |
+
+#### Open items
+- 行く vs 来る — "coming back" and "toward listener" need more reps
+- 小麦 = wheat — still not locked
+- L11 ingredient/allergy patterns (使ってますか, 入ってますか) — not yet drilled
+- い-adj drop-い — nearing closure
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- Katakana long vowels — carried over
+- **L11 mostly complete — remaining: ingredient patterns, 行く/来る consolidation**
+
+---
+
+### 2026-03-19 — 行く/来る Reps + L11 Ingredient/Allergy Patterns + Mixed Review
+
+#### Vocab Gap Review — 2/2
+
+| # | Word | Answer | Result |
+|---|------|--------|--------|
+| 1 | 小麦 | wheat | ✅ |
+| 2 | 消費期限 | (not re-tested) | — |
+
+#### 行く vs 来る Reps — 5/5
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Home, buy milk, come back | 買って来ます | ✅ | |
+| 2 | Friend bringing beer to you | 持って来ます | ✅ | Toward listener |
+| 3 | Made gyoza, brought to party (past) | 作って来ました | ✅ | |
+| 4 | Take documents to client (leaving) | 持って行きます | ✅ | |
+| 5 | Friend arrived, bought cake (past) | 買って来ました | ✅ | |
+
+#### L11 Ingredient/Allergy Patterns — 6/8
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
+| 2 | ピザ / エビ / contains? | エビを作ってますか | ❌ | 入ってますか + が not を |
+| 3 | ラーメン / ハラル? | ハラルですか | ✅ | |
+| 4 | 刺身 / 明日まで lasts? | 明日までもちますか | ✅ | |
+| 5 | パン / 小麦 / uses? | 小麦を作ってですか | ❌ | 使ってますか |
+| 6 | ケーキ / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
+| 7 | チョコレート / how long? | どのぐらい持ちますか | ✅ | |
+| 8 | カレー / ピーナッツ / uses? | ピーナッツを使ってますか | ✅ | |
+
+#### Mixed Review — 8/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ | |
+| 2 | ピザ / エビ / contains? | エビが入ってますか | ✅ | Fixed |
+| 3 | Bring fruit to friend | 持って来ます | ✅ | |
+| 4 | チョコレート / 乳製品 / contains? | 乳製品が入ってますか | ✅ | |
+| 5 | 弁当 / 小麦 / uses? | 小麦を使ってますか | ✅ | |
+| 6 | 眠い → past | 眠くって | ❌ | 眠かった (drop い + かった) |
+| 7 | 刺身 / 明日まで lasts? | 明日まで持ちますか | ✅ | |
+| 8 | たれ prefer | たれのほがいいです | 🟡 | ほうが (missing う) |
+| 9 | スープ / ピーナッツ / contains? | ピーナッツが入ってますか | ✅ | |
+| 10 | Anything is fine | 何でもいいです | ✅ | |
+
+#### What went well
+- 行く vs 来る — **5/5 perfect!** Direction finally locked in
+- 小麦 = wheat — correct
+- 使ってますか vs 入ってますか — fixed after correction, held in review
+- Ingredient/allergy patterns understood
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う vs 作る mix-up | 使う = use, 作る = make — different verbs! | New (corrected mid-drill) |
+| 眠くって → 眠かった | い-adj past: drop い + かった, not くって | ⚠️ recurring |
+| ほが → ほうが | ほう needs う | New (spelling) |
+
+#### Open items
+- 使う vs 作る — don't mix up in ingredient questions
+- 眠かった — い-adj drop-い slipped again after 2 clean sessions
+- ほうが spelling — minor
+- L11 listening exercises — nasi will do recordings (11-01 to 11-26) independently
+- Katakana long vowels — carried over
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L11 complete — all grammar, vocab, ingredient patterns done. Listening self-study remains.**
+
