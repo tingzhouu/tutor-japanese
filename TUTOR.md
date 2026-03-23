@@ -147,22 +147,24 @@ Check PROGRESS.md for the full tracker. Key recurring patterns as of 2026-03-03:
 
 ---
 
-## Session Handoff (as of 2026-03-22)
+## Session Handoff (as of 2026-03-23)
 
-L12 grammar + roleplay complete. 〜そう い-drop fixed (massive improvement). Roleplay went well.
+L12 fully consolidated — grammar, vocab, two roleplays done. 使う vs 作る closed (7/7). まずい finally locked.
 
 **Completed:**
-- L12 summary, vocab (11/15), all 6 grammar drills, 〜そう mini-drill (10/12), roleplay
-- 〜そう い-drop — fixed (all taste adjectives correct in drill)
-- 〜そうな + noun — clicking
-- 食べてみます — used naturally in roleplay
+- L12 all grammar patterns drilled + 2 roleplays
+- 使う vs 作る — **closed** (7/7, no mix-ups)
+- まずい — **locked** (3rd session)
+- 〜そう い-drop — mostly automatic
+- All 5 taste words locked both directions
+- 苦い vs 苦手 — clear
 
 **Open items:**
-- まずい meaning — still not locked (2 sessions)
-- 苦い(にがい) vs 苦手(にがて) — confusing the pair
-- 苦手 is な-adj (じゃないです, not ません)
-- 味がこい conjugation — こくて not こて
-- 使う vs 作る — carried over, not drilled
-- Katakana long vowels — carried over
+- 味がこい / うすい — can't recall from English
+- すっぱいのが苦手 — の nominalization new
+- Katakana long vowels — still recurring
+- ちょっと spelling
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
 
-**Start next session by:** まずい/苦い/苦手 vocab review, 使う vs 作る reps, then start L13 if PDF available.
+**Start next session by:** 味がこい/うすい review, L12 final check, then start L13 when ready.

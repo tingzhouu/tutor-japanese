@@ -489,4 +489,126 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: まずい/苦い/苦手 vocab review · 使う vs 作る reps · consider starting L13 if PDF available · L12 listening self-study (12-01 to 12-20)*
+### 2026-03-23 — L12 Consolidation: Vocab Review + Reverse Vocab + 使う/作る + 〜そう Sentences + てみます/てみてください + Roleplay
+
+#### Round 0: Vocab Gap Review — 5/5
+
+| # | Word | Answer | Result |
+|---|------|--------|--------|
+| 1 | まずい | not nice | ✅ |
+| 2 | 苦い | bitter | ✅ |
+| 3 | 苦手 | not good at | ✅ |
+| 4 | 苦手 negative? | 苦手じゃない | ✅ |
+| 5 | 味がこい → くて | こくて | ✅ |
+
+#### Round 0b: L12 Vocab Reverse (English → Japanese) — 13/15
+
+| # | English | Answer | Result | Note |
+|---|---------|--------|--------|------|
+| 1 | sweet | 甘い | ✅ | |
+| 2 | sour | すっぱい | ✅ | |
+| 3 | salty | しょっぱい | ✅ | |
+| 4 | bitter | 苦い | ✅ | |
+| 5 | spicy | からい | ✅ | |
+| 6 | bad-tasting | まずい | ✅ | Finally locked! |
+| 7 | strong flavor | つくい | ❌ | 味がこい |
+| 8 | mild/bland flavor | うい | ❌ | 味がうすい |
+| 9 | raw | なま | ✅ | |
+| 10 | not good with | にがて | ✅ | |
+| 11 | taste | 味 | ✅ | |
+| 12 | I'm full | お腹がいっぱい | ✅ | |
+| 13 | pickled plum | 梅干し | ✅ | |
+| 14 | Japanese omelet | たまごやき | ✅ | |
+| 15 | savory egg custard | 茶碗蒸し | ✅ | |
+
+#### Round 1: 使う vs 作る — 7/7
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 料理 / 卵 / uses? | 使ってますか | ✅ | |
+| 2 | カレー / make | 作ります | ✅ | |
+| 3 | パン / 小麦 / uses? | 使ってますか | ✅ | |
+| 4 | ケーキ / made for friend | 作りました | ✅ | Missing に particle |
+| 5 | ラーメン / バター / uses? | 使ってますか | ✅ | |
+| 6 | お好み焼き / let's make | 作りましょう | ✅ | |
+| 7 | Mixed: uses + made | 使ってます / 作りました | ✅ | |
+
+#### Round 2: 〜そう Full Sentences — 6.5/7
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Bento / looks delicious | おいしいそう → おいしそうな弁当 | 🟡 | First attempt kept い, self-corrected |
+| 2 | Curry / looks spicy | からそうです | ✅ | |
+| 3 | みかん / looks sour | すっぱそうなみかん | ✅ | |
+| 4 | Dark dish / strong flavor | 味がこそうです | ✅ | |
+| 5 | Bad-looking food | まずそうですね | ✅ | |
+| 6 | Creamy cake / sweet | 甘そうなケーキ | ✅ | |
+| 7 | 梅干し / looks bitter | にがそうです | ✅ | |
+
+#### Round 3: てみます vs てみてください — 5/7
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Offer 卵焼き | 食べ物ら、食べてみてください | 🟡 | よかったら not 食べ物ら |
+| 2 | Try going to ramen shop | 食べみてます | ❌ | 行ってみます |
+| 3 | Offer curry | 食べてみてください | ✅ | |
+| 4 | Try 茶碗蒸し (yourself) | 食べてみます | ✅ | |
+| 5 | Offer 梅干し | 食べてみてください | ✅ | |
+| 6 | Try buying next time | 買ってみてみます | 🟡 | 買ってみます (double てみ) |
+| 7 | Accept お好み焼き | 食べてみます | ✅ | |
+
+#### Round 4: Roleplay — Potluck lunch at the office
+
+**Patterns used successfully:**
+- 〜そう ✅ (すっぱそう, 味がこそうな)
+- 食べてみます ✅ (×3)
+- 食べてみてください ✅ (offering)
+- くて linking ✅ (味がこくて)
+- けど contrast ✅ (甘いですけど)
+- が入ってますか ✅ (小麦粉)
+- を使ってます ✅ (塩)
+- お腹がいっぱい ✅
+
+**Roleplay errors (6):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 私の国は鶏ご飯 | 私の国**の**鶏ご飯 (possessive の) | Particle |
+| 2 | うすくて、でもおいしい | うすいですけど、おいしい (くて+でも don't combine) | Linking |
+| 3 | すっぱいが苦手 | すっぱい**の**が苦手 (の to nominalize) | Grammar |
+| 4 | ちょっしょっぱい | ちょっ**と**しょっぱい | Spelling |
+| 5 | アレルギ | アレルギ**ー** (long vowel) | Katakana |
+| 6 | ちょと | ちょっと (missing っ) | Spelling |
+
+#### What went well
+- まずい — **finally locked** (3rd session)
+- 使う vs 作る — **7/7, closed** (no mix-ups)
+- 〜そう — strong in full sentences, い-drop mostly automatic now
+- てみます vs てみてください — distinction understood
+- Roleplay patterns all used correctly
+- All 5 basic taste words locked in both directions
+- 苦い vs 苦手 — distinction clear now
+- 苦手じゃない (な-adj negative) — correct
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 味がこい / うすい not recallable from English | こい = strong, うすい = bland — memorize as pair | New |
+| くて + でも combination | Use くて (reason) OR けど (contrast), not both | New |
+| すっぱいのが苦手 | い-adj + の + が for "~ things" | New |
+| アレルギー long vowel | Katakana long vowel ー | ⚠️ recurring |
+| ちょっと spelling | Need both っ and と | New |
+
+#### Open items
+- 味がこい / うすい — can't recall from English yet
+- すっぱいのが苦手 — の nominalization
+- Katakana long vowels — still recurring (アレルギー)
+- ちょっと spelling
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- **L12 consolidation strong — grammar, vocab, roleplay all done. Ready for L13 when solid.**
+
+---
+
+*Next session: 味がこい/うすい review · L12 final check · start L13 if ready*
