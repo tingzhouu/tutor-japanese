@@ -66,21 +66,68 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-## Verb Negative Plain Form Reference
+## Verb Conjugation Master Reference
 
-| う-row (dictionary ending) | あ-row + ない | Example |
+### The 3 groups
+
+| Group | Name | How it works | Example verbs |
+|---|---|---|---|
+| Group 1 | 五段 godan | Ending shifts across 5 vowel rows | 行く、話す、待つ、飲む、遊ぶ、泳ぐ、登る、買う |
+| Group 2 | 一段 ichidan | Drop る, one stem for everything | 食べる、見る、開ける、入れる |
+| Group 3 | 変格 irregular | Memorize | する、来る |
+
+### System 1: Vowel row shift (godan only)
+
+| Row | Used for | く | す | つ | む | ぶ | ぐ | る | う |
+|---|---|---|---|---|---|---|---|---|---|
+| あ + ない | negative | か | さ | た | ま | ば | が | ら | **わ** |
+| い + ます | polite | き | し | ち | み | び | ぎ | り | い |
+| う | dictionary | く | す | つ | む | ぶ | ぐ | る | う |
+| え + る | potential | け | せ | て | め | べ | げ | れ | え |
+| お + う | volitional | こ | そ | と | も | ぼ | ご | ろ | お |
+
+> ⚠️ Only exception: う → **わ**ない (not あない)
+
+### System 2: て-form (godan only — separate rules, not vowel rows)
+
+| Ending | て-form | Example |
 |---|---|---|
-| く | かない | 行く → 行かない |
-| す | さない | 話す → 話さない |
-| つ | たない | 待つ → 待たない |
-| む | まない | 飲む → 飲まない |
-| る | らない | 登る → 登らない |
-| ぐ | がない | 泳ぐ → 泳がない |
-| ぶ | ばない | 遊ぶ → 遊ばない |
-| **う** | **わない** (exception) | 買う → 買わない |
+| く | いて | 書く → 書いて |
+| ぐ | いで | 泳ぐ → 泳いで |
+| す | して | 話す → 話して |
+| つ、る、う | って | 待つ → 待って、登る → 登って、買う → 買って |
+| む、ぶ、ぬ | んで | 飲む → 飲んで、遊ぶ → 遊んで |
 
-> Group 2 (る-verbs): drop る, add ない (食べる → 食べない, 見る → 見ない)
-> Group 3: する → しない, 来る → 来ない（こない）
+> ⚠️ Exception: 行く → 行**って** (not 行いて)
+
+### System 3: Ichidan (Group 2) — always just drop る
+
+| Form | 食べる | 見る |
+|---|---|---|
+| ない | 食べない | 見ない |
+| ます | 食べます | 見ます |
+| て-form | 食べて | 見て |
+| potential | 食べられる | 見られる |
+| volitional | 食べよう | 見よう |
+
+### System 4: Irregular (Group 3)
+
+| Form | する | 来（く）る |
+|---|---|---|
+| ない | しない | こない |
+| ます | します | きます |
+| て-form | して | きて |
+| た (past) | した | きた |
+| potential | できる | こられる |
+| volitional | しよう | こよう |
+
+### What nasi has drilled ✅ / needs work 🔲
+
+- ✅ あ-row + ない (negative) — 10/10 on 2026-03-26
+- ✅ い-row + ます (polite) — solid
+- ✅ て-form — solid from earlier lessons
+- 🔲 え-row + る (potential) — not yet introduced
+- 🔲 お-row + う (volitional) — not yet introduced
 
 ---
 
@@ -611,4 +658,257 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: 味がこい/うすい review · L12 final check · start L13 if ready*
+### 2026-03-24 — L12 Final Check + L13 Summary + Vocab + Grammar Intro
+
+#### Round 0: Quick Review — 2/2
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | strong flavor (English → Japanese) | こい | ✅ |
+| 2 | mild/bland (English → Japanese) | うすい | ✅ |
+
+#### Round 1: L12 Mixed Drill — 7/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Lunch looks delicious | おいしそうな昼ご飯 | ✅ | |
+| 2 | ケーキ / 卵 / particle | 卵が入ってますか | ✅ | |
+| 3 | 茶碗蒸し / not sweet + delicious | 甘くなくておいしい | ✅ | |
+| 4 | Worried too salty | たくさんしょっぱい | 🟡 | しょっぱくないですか |
+| 5 | Salty-looking ramen | しょっぱそうなラーメン | ✅ | |
+| 6 | 梅干し / sour + 苦手 | すっぱくて苦手ですから | 🟡 | Drop から |
+| 7 | Curry / chicken + mushroom inside | カーレ、こじき | ❌ | カレー、きのこ |
+| 8 | Try going to bakery | 今度行ってみます | ✅ | |
+| 9 | Choco cake / strong + delicious | 味がこくておいしい | ✅ | |
+| 10 | Not very salty | ちょっとしょっぱくない | 🟡 | あまりしょっぱくない |
+
+#### L13 Summary Given
+
+**Topic:** 仕事の連絡 (Work communication)
+**Title:** あと10分ぐらいで終わりそうです
+**Patterns:** 〜んですが (expanded), V-そうです (prediction), V-たいとき どうすればいいですか, V-ると〜
+
+#### Round 2: L13 Vocab Recognition — 12/18
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 電気 | no idea | ❌ | electricity / lights |
+| 2 | 動く | work | ✅ | |
+| 3 | 困る | stuck | 🟡 | to be troubled |
+| 4 | 業者 | operator | 🟡 | service company |
+| 5 | 倉庫 | storeroom | ✅ | |
+| 6 | 押す | push | ✅ | |
+| 7 | 資料 | files | ✅ | |
+| 8 | 棚 | a stand | ❌ | shelf |
+| 9 | 机 | table | ✅ | |
+| 10 | 並べる | arrange | ✅ | |
+| 11 | 会議 | meeting | ✅ | |
+| 12 | 準備 | preparation | ✅ | |
+| 13 | 変更 | change | ✅ | |
+| 14 | 都合が悪い | something very bad | 🟡 | inconvenient / not available |
+| 15 | 戻す | no idea | ❌ | to return / put back |
+| 16 | 終わる | end | ✅ | |
+| 17 | 変な音 | weird sound | ✅ | |
+| 18 | お知らせ | no idea | ❌ | notification |
+
+#### Round 3: L13 Grammar Intro (partial — stopped early)
+
+**〜んですが (expanded):** 4/4
+- パソコンが動かないんですが ✅
+- 電気がつかないんですが ✅
+- トイレットペーパーがなくなったんですが ✅
+- 変な音がするんですが ✅
+
+**V-そうです (prediction):** 3/4
+- 終わりそうです ✅
+- できそうです ✅
+- 明日で終わりそうです 🟡 (で → までに for deadlines)
+
+**V-たいとき、どうすればいいですか:** 0/2
+- Couldn't produce the pattern — hit absorption limit
+
+#### What went well
+- L12 final check — solid (7/10), こい/うすい locked
+- L13 〜んですが expanded — 4/4, all verb forms correct
+- V-そうです prediction — clicked quickly
+- Kanji guessing working well for workplace vocab
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| きのこ reversed to こじき | きのこ = mushroom | ⚠️ recurring |
+| カーレ → カレー | Long vowel ー after レ not カ | Katakana |
+| くないですか for concern | Use くないですか not たくさん〜 | Review |
+| あまり + negative for "not very" | あまり〜ない = not very | Review |
+| 明日で → 明日までに | で = within time range, までに = by deadline | New |
+| つく vs 使う | つく = turn on (light), 使う = use | New |
+
+#### Open items
+- L13 grammar patterns 3 and 4 not yet drilled (V-たいとき, V-ると)
+- L13 vocab gaps: 電気, 棚, 戻す, お知らせ, 都合が悪い
+- きのこ — keeps getting confused
+- Katakana long vowels — カレー
+- L12 listening self-study (12-01 to 12-20) — carried over
+- で vs に / までに — ongoing
+- Verb negative plain row shift — carried over
+- **L13 intro started — needs: vocab consolidation, grammar patterns 3+4, roleplay**
+- **Nasi hit absorption limit — start next session with slower L13 review, don't rush**
+
+---
+
+### 2026-03-25 — L13 Vocab Gap Re-drill + Grammar Patterns 3 & 4 + Mixed Drill (session 1)
+
+*Note: session continued on 2026-03-26 below*
+
+#### Round 0: Vocab Gap Review — 3/5
+
+| # | Word | Answer | Result | Note |
+|---|------|--------|--------|------|
+| 1 | 電気 | electricity | ✅ | |
+| 2 | 棚 | shelf | ✅ | |
+| 3 | 戻す | forgot | ❌ | = to put back |
+| 4 | お知らせ | forgot | ❌ | = notification |
+| 5 | 都合が悪い | forgot | ❌ | = inconvenient / not available |
+
+#### Round 0b: Reverse Re-drill (English → Japanese) — 1/3
+
+| # | English | Answer | Result | Note |
+|---|---------|--------|--------|------|
+| 1 | notification | forgot | ❌ | お知らせ |
+| 2 | to put back | おぐる | ❌ | 戻す |
+| 3 | inconvenient | forgot | ❌ | 都合が悪い |
+
+#### Round 0c: Context Sentences — 3/3
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Saturday doesn't work → 都合が悪い | 都合が悪いです | ✅ | |
+| 2 | Put book back → 戻す + てください | 戻すください | 🟡 | 戻してください (て-form) |
+| 3 | Meeting change notification | お知らせ | ✅ | |
+
+#### Round 1: V-たいとき、どうすればいいですか — 4/4
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Borrow projector | 借りたいとき、どうすればいいですか | ✅ | そう→どう slip corrected |
+| 2 | Order supplies | 備品を注文したいとき、どうすればいいですか | ✅ | |
+| 3 | Take day off | 休みを取りたいとき、どうすればいいですか | ✅ | |
+| 4 | Park car | 車を止めたいとき、どうすればいいですか | ✅ | |
+
+#### Round 2: V-ると〜 — 5/5
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | Press button → door opens | 押すと、ドアが開きます | ✅ | ボタン→ブタン typo |
+| 2 | Turn left → see conbini | 曲がると、コンビニが見えます | ✅ | |
+| 3 | Press switch → AC on | 押すと、エアコンがつきます | ✅ | |
+| 4 | Open lid → see inside | 開けると、中が見えます | ✅ | |
+| 5 | Go straight → meeting room on right | 行くと、右に会議室があります | ✅ | |
+
+#### Round 3: L13 Mixed Grammar — 2/6
+
+| # | Prompt | Expected Pattern | Answer | Result | Note |
+|---|--------|-----------------|--------|--------|------|
+| 1 | Printer not working (report) | 〜んですが | 使いませんとき… | ❌ | 動かないんですが |
+| 2 | Work finishing soon (predict) | V-そうです | もうすぐそうです | ❌ | 終わりそうです |
+| 3 | Book meeting room (ask how) | V-たいとき | 予約時… | 🟡 | 予約したいとき (missing したい) |
+| 4 | Go straight → elevator left | V-ると | 行くと…みます | 🟡 | 見えます not 見ます |
+| 5 | AC weird sound (report) | 〜んですが | エアコンか変おん | ❌ | 変な音がするんですが |
+| 6 | Can do alone (predict) | V-そうです | したいんそうです | ❌ | できそうです |
+
+#### What went well
+- V-たいとき、どうすればいいですか — 4/4 when isolated
+- V-ると — 5/5 when isolated
+- 電気, 棚 — locked
+- 都合が悪い — got it in context sentence
+- 戻す て-form rule understood (す → して)
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 戻す, お知らせ, 都合が悪い not recalled | Abstract workplace vocab — needs more exposure | ⚠️ recurring |
+| 戻すください → 戻してください | て-form before ください (す → して) | New |
+| どう vs そう | どう = question (how), そう = answer (like that) | New |
+| ボタン → ブタン | ボ not ブ | New |
+| 見ます vs 見えます | 見る = look (intentional), 見える = visible (automatic) | New |
+| Pattern selection in mixed drill | Can't yet pick the right pattern for the situation | Key issue |
+
+#### Open items
+- **L13 vocab still weak** — 戻す, お知らせ, 都合が悪い need more reps; general L13 vocab needs audio exposure
+- **Pattern selection** — each pattern is fine in isolation but mixing them is hard; needs more reps after vocab solidifies
+- きのこ — carried over
+- Katakana long vowels — carried over
+- で vs に / までに — ongoing
+- Verb negative plain row shift — carried over
+- **Nasi will listen to L13 audio before next session**
+
+---
+
+### 2026-03-26 — L13 Text Comprehension + Verb Conjugation Deep Dive
+
+#### Focus: Reading L13 dialogue lines + understanding grammar in context
+
+Nasi worked through L13 textbook sentences, asking about unfamiliar grammar and vocab as they appeared. This was a comprehension-focused session, not a drill session.
+
+#### Key items covered
+
+| Topic | Detail | Status |
+|---|---|---|
+| なくなる | なく + なる = become not → run out | Understood |
+| adj + なる | い-adj くなる (甘くなる, 大きくなる) | Understood |
+| から (reason) | Clause + から = because (vs noun + から = from) | Understood |
+| V-てくれる | て-form + くれる = do for me (くれる is a verb) | Understood |
+| てください origin | て + くださる (polite form of くれる) | Understood |
+| する = make a sound | 音がする、変な音がするんですが | Understood |
+| つく / つかない | つく = turn on (light), つかない = doesn't turn on | Understood |
+| よく + negative | よくわからない = don't really understand (≠ often) | Understood |
+| よく + positive | よくわかります = understand well | Understood |
+| これでいいですか | で = "with this" (condition), は = "this one" (topic) | Understood |
+| できた？ | Casual past of できる = is it done? | Understood |
+| まだです / ちょっとまだです | Not yet / not quite yet (ちょっと softens) | Understood |
+| もうすぐ終わります | Almost done (or 終わりそうです for softer prediction) | Understood |
+| とりあえず | Set phrase = for now / first of all | Understood |
+| やり方 | やる + 方（かた）= way of doing | Understood |
+
+#### Round: Godan Negative Row Shift Drill — 10/10
+
+| # | Verb | Answer | Result |
+|---|------|--------|--------|
+| 1 | 飲む → ない | 飲まない | ✅ |
+| 2 | 泳ぐ → ます | 泳ぎます | ✅ |
+| 3 | 買う → ない | 買わない | ✅ |
+| 4 | 待つ → ます | 待ちます | ✅ |
+| 5 | 登る → ない | 登らない | ✅ |
+| 6 | 話す → ます | 話します | ✅ |
+| 7 | 遊ぶ → ない | 遊ばない | ✅ |
+| 8 | 押す → ない | 押さない | ✅ |
+| 9 | 戻す → ます | 戻します | ✅ |
+| 10 | 動く → ない | 動かない | ✅ |
+
+#### What went well
+- **Godan row shift — 10/10**, including 買う → 買わない exception
+- Text comprehension strong — nasi is actively reading L13 dialogue and pulling out grammar questions
+- Good instinct for breaking down compound forms (なくなる, やり方)
+- Verb conjugation master reference added to PROGRESS.md
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Group numbering mix-up | Group 1 = godan, Group 2 = ichidan (not the other way) | Corrected |
+
+#### Open items
+- **L13 vocab still weak** — 戻す, お知らせ, 都合が悪い need more reps
+- **Pattern selection in mixed drill** — still needs work after vocab solidifies
+- **Nasi will listen to L13 audio**
+- Verb conjugation: え-row (potential) and お-row (volitional) not yet introduced
+- きのこ — carried over
+- Katakana long vowels — carried over
+- で vs に / までに — ongoing
+- Verb negative plain row shift — **CLOSED** (10/10)
+
+---
+
+*Next session: L13 vocab re-check after audio · mixed grammar drill (slower, with pattern hints) · roleplay if ready*

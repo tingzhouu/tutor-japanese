@@ -167,4 +167,4 @@ L12 fully consolidated — grammar, vocab, two roleplays done. 使う vs 作る 
 - で vs に — ongoing
 - Verb negative plain row shift — carried over
 
-**Start next session by:** 味がこい/うすい review, L12 final check, then start L13 when ready.
+**Start next session by:** L13 vocab review (gaps: 電気, 棚, 戻す, お知らせ), finish grammar patterns 3+4 at slow pace. Nasi hit absorption limit — don't overload.
