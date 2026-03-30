@@ -911,4 +911,332 @@ Nasi worked through L13 textbook sentences, asking about unfamiliar grammar and 
 
 ---
 
-*Next session: L13 vocab re-check after audio · mixed grammar drill (slower, with pattern hints) · roleplay if ready*
+### 2026-03-28 — L13 Vocab Re-drill + Mixed Grammar Drills (pattern selection focus)
+
+#### Round 0: Vocab Gap Review — 0/3 (recall) → 3/3 (context)
+
+| # | Word | Recall | Context drill |
+|---|------|--------|---------------|
+| 1 | 戻す | ❌ | ✅ (棚に戻してください) |
+| 2 | お知らせ | ❌ | ✅ (お知らせを見てください) |
+| 3 | 都合が悪い | ❌ | ✅ (金曜日は都合が悪いです) |
+
+Reverse check: お知らせ ✅, 戻す 🟡 (said 戻する — added る), 都合が悪い ✅
+
+#### Round 1: L13 Mixed Grammar (with pattern hints) — 0/6 clean
+
+| # | Pattern | Result | Note |
+|---|---------|--------|------|
+| 1 | 〜んですが | 🟡 | Knew つく but couldn't recall つかない |
+| 2 | V-そうです | 🟡 | Missing あと, forgot 終わる |
+| 3 | V-たいとき | ❌ | Couldn't produce |
+| 4 | V-ると | 🟡 | 行きと→行くと (ます-stem not dictionary), エレベター→エレベーター |
+| 5 | 〜んですが | 🟡 | 変音する→変な音がする, コピ→コピー |
+| 6 | V-そうです | ❌ | Couldn't produce できそうです |
+
+#### Round 2: V-そうです + V-たいとき (focused reps) — 3/7 clean
+
+| # | Pattern | Result | Note |
+|---|---------|--------|------|
+| 1 | V-そうです | ✅ | 止まりそうです |
+| 2 | V-そうです | 🟡 | 終わるそう→終わりそう (dictionary→ます-stem) |
+| 3 | V-たいとき | 🟡 | Mixed in ん, どうすれば not recalled |
+| 4 | V-そうです | ✅ | 降りそうです |
+| 5 | V-たいとき | 🟡 | プリン→プリンター, used different pattern |
+| 6 | V-そうです | ✅ | できそうです — remembered |
+| 7 | V-たいとき | 🟡 | Framework correct, couldn't recall 止める |
+
+#### Round 3: Mixed Grammar (no hints) — 2/6 clean, 6/6 pattern selection correct
+
+| # | Pattern | Result | Note |
+|---|---------|--------|------|
+| 1 | 〜んですが | ✅ | エアコンつかないんですが |
+| 2 | V-そうです | 🟡 | 明日に→明日までに |
+| 3 | V-ると | 🟡 | お風呂→トイレ, を→に |
+| 4 | V-たいとき | 🟡 | パケジー→荷物, grammar perfect |
+| 5 | 〜んですが | 🟡 | プリンター spelling, 音がする missing が |
+| 6 | V-そうです | ✅ | すぐに終わりそうです |
+
+#### What went well
+- **Pattern selection — 6/6 in unhinted round** (biggest win: can now pick the right pattern for the situation)
+- V-そうです — clicking (ます-stem rule mostly automatic)
+- V-たいとき structure — understood by end of session
+- Vocab in context — 3/3 after context drill (戻す, お知らせ, 都合が悪い)
+- できそうです — locked after one correction
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 戻する (added る) | 戻す is already dictionary form (す-verb) | New |
+| V-ると: 行きと | V-ると uses dictionary form, not ます-stem | ⚠️ recurring |
+| V-そう: 終わるそう | V-そう uses ます-stem, not dictionary form | ⚠️ recurring |
+| 変な音がする — missing が | 音がする is the set phrase | ⚠️ recurring (2nd session) |
+| までに for deadlines | 明日に→明日までに | ⚠️ recurring |
+| Katakana: プリンター, エレベーター, コピー | Long vowels ー | ⚠️ recurring |
+| 戻す, お知らせ, 都合が悪い | Still can't recall from cold — need context | ⚠️ recurring (3rd session) |
+
+#### Open items
+- **L13 roleplay** — not done yet (nasi was tired)
+- **L13 vocab** — 戻す, お知らせ, 都合が悪い work in context but cold recall still weak
+- **V-ると vs V-そう stem rules** — dictionary form + と, ます-stem + そう (keep drilling)
+- **音がする** — が keeps dropping
+- **までに for deadlines** — needs more reps
+- **Katakana long vowels** — プリンター, エレベーター, コピー (ongoing)
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+### 2026-03-29 — L13 Cold Vocab + Katakana Drill + Workplace Roleplay
+
+#### Round 0: Cold Vocab Check — 1/3
+
+| # | English | Answer | Result |
+|---|---------|--------|--------|
+| 1 | notification | お知らせ | ✅ |
+| 2 | to put back | 戻す | ✅ (no extra る!) |
+| 3 | inconvenient | forgot | ❌ (都合が悪い) |
+
+#### Round 1: Katakana Long Vowel Drill — 3/3
+
+| # | Word | Answer | Result |
+|---|------|--------|--------|
+| 1 | printer | プリンター | ✅ |
+| 2 | elevator | エレベーター | ✅ |
+| 3 | copier | コピー機 | ✅ |
+
+#### Round 2: L13 Roleplay — New employee office tour with 山田さん
+
+**Patterns used successfully:**
+- 〜んですが ✅ (電気, コピー機 — ×2)
+- V-たいとき、どうすればいいですか ✅ (アメリカーノの作り方)
+- V-そうです ✅ (×2: かかりそう, 終わりそう)
+- 都合が悪い ✅ (declining Friday — first natural use!)
+- お知らせ ✅ (understood in context)
+- 戻してください ✅ (understood in context)
+
+**Roleplay errors (3):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 電気がつくない | つ**かない** (godan: く→か+ない) | Verb conjugation |
+| 2 | 変な音**を**する | 変な音**が**する (set phrase) | Particle |
+| 3 | ミチング | ミーティング | Katakana |
+
+Also: 素晴らし → 素晴らし**い** (need final い on い-adj)
+
+#### What went well
+- **都合が悪い — used naturally in roleplay** (first time!)
+- **Pattern selection — all correct, no hints needed** (2nd consecutive session)
+- 戻す, お知らせ — cold recall improving (2/3, up from 0/3)
+- Katakana long vowels — 3/3 in isolation drill (プリンター, エレベーター, コピー)
+- V-そうです — ます-stem correct both times (かかりそう, 終わりそう)
+- Roleplay felt natural — creative questions, good flow
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| つくない → つかない | Godan く-verb: く→か+ない | ⚠️ recurring (row shift applied inconsistently) |
+| 音をする → 音がする | Set phrase: 音がする | ⚠️ recurring (3rd session) |
+| ミチング → ミーティング | Katakana: ミー + ティ + ング | New |
+| 都合が悪い cold recall | Can use it but can't recall from English | ⚠️ recurring (4th session — but used in roleplay!) |
+| 素晴らし → 素晴らしい | い-adj needs final い | New |
+
+#### Open items
+- **音がする** — が keeps becoming を (3 sessions now, needs focused drill)
+- **都合が悪い** — can produce in context but cold recall still weak
+- **つかない** — godan negative row shift known in isolation but missed under pressure
+- **Katakana in roleplay** — ミーティング (isolated drill was clean, but production still shaky)
+- きのこ — carried over
+- で vs に — ongoing
+- **L13 grammar + roleplay done — needs: 音がする mini-drill, one more mixed drill, then ready for L14**
+
+---
+
+### 2026-03-29 (session 2) — 音がする Drill + L13 Mixed Review ×2
+
+#### Round 0: 音がする Mini-drill — 4/5
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 変な音＿するんですが (particle) | ✅ | が |
+| 2 | エアコンから変な音＿します (particle) | ❌ | Missing が — even with から, 音がする stays |
+| 3 | 隣の部屋から大きい音＿しました (particle) | ✅ | が |
+| 4 | Printer weird sound (full sentence) | ✅ | プリンターが変な音がするんですが |
+| 5 | Fridge loud sound (full sentence) | 🟡 | Used 変な instead of 大きい, but 音がする correct |
+
+#### Round 1: L13 Mixed Review (no hints) — 2/6 clean
+
+| # | Prompt | Pattern | Result | Note |
+|---|--------|---------|--------|------|
+| 1 | Copier not working (report) | んですが | 🟡 | つかない→動かない for machines |
+| 2 | Prep finishing soon | V-そう | ✅ | 終わりそうです |
+| 3 | Change meeting time (ask how) | V-たいとき | 🟡 | ミーティング spelling, used んですが instead |
+| 4 | Press button → door opens | V-ると | 🟡 | バタン→ボタン, didn't know 開きます |
+| 5 | Weird smell from kitchen | んですが | 🟡 | においがする new, 台所が→台所から |
+| 6 | Can finish alone | V-そう | ✅ | 一人でできそうです |
+
+#### Round 2: Rapid Fire Mix — 1/8 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Straight → storage room on right | 🟡 | Missing と in V-ると |
+| 2 | Elevator weird sound | ✅ | 音がする with が! |
+| 3 | Order supplies (ask how) | 🟡 | Structure perfect, vocab gaps: 備品/注文 |
+| 4 | Rain this afternoon | 🟡 | 昼→午後, V-そう correct |
+| 5 | Smell from copier | 🟡 | は→から, においがする missing が |
+| 6 | Tuesday unavailable | 🟡 | 水曜日→火曜日, unnecessary ね |
+| 7 | Press switch → AC on | 🟡 | スイッチ spelling, つかう→つく |
+| 8 | Put docs back on shelf | 🟡 | を/に swapped, ます→てください |
+
+#### New vocab learned this session
+
+| Word | Reading | Meaning |
+|---|---|---|
+| 動かない | うごかない | won't work (machines) |
+| 開く | あく | opens (intransitive) |
+| においがする | — | there's a smell (set phrase, like 音がする) |
+| つく / つける | — | turn on (intrans) / turn on (trans) |
+| 備品 | びひん | supplies |
+| 注文する | ちゅうもんする | to order |
+| 午後 | ごご | afternoon |
+
+#### What went well
+- **音がする — got が right in drill** (big improvement, 3 sessions to fix)
+- **Pattern selection — 8/8 in Round 2** (3rd consecutive session of correct selection)
+- V-そうです — ます-stem consistently correct now
+- できそうです — locked
+- Grammar framework is solid across all 4 patterns
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| においがする — missing が | Same set phrase as 音がする: [X]がする | New (but same pattern as 音がする) |
+| つく vs 使う | つく = turn on, 使う = use — different verbs | New |
+| 開く/開ける pair | 開く = opens (itself), 開ける = open (it) | New |
+| バタン→ボタン | ボ not バ | ⚠️ recurring |
+| 火曜日 vs 水曜日 | 火 = Tue, 水 = Wed | New |
+| を/に swap (資料に棚を→資料を棚に) | を = what moves, に = destination | New |
+| V-ると missing と | 行く**と** — don't drop と | ⚠️ recurring |
+
+#### Open items
+- **においがする** — が still dropping (same issue as 音がする, needs same treatment)
+- **つく/つける vs 使う** — new pair to memorize
+- **開く/開ける** — intransitive/transitive pair
+- **ボタン** — keeps becoming バタン
+- **Days of the week** — review 火/水/木
+- **都合が悪い** — cold recall still weak
+- きのこ — carried over
+- で vs に — ongoing
+- **L13: grammar framework solid, vocab/particles still need work. One more consolidation session before L14.**
+
+---
+
+### 2026-03-30 — [X]がする Drill + Days of Week + L13 Final Consolidation + Supported Drill
+
+#### Round 0: [X]がする Set Phrase Drill — 3/5
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Curry smells good | 🟡 | Need いいにおい, んですが not needed for good things |
+| 2 | Milk tastes weird | ✅ | 変な味がする perfect |
+| 3 | Loud sound from upstairs | ✅ | 上から大きな音がする perfect |
+| 4 | Cake tastes sweet | ❌ | 甘い味がします — need 味, or just say 甘いです |
+| 5 | Burnt smell from kitchen | 🟡 | Structure right, vocab gap (焦げた) |
+
+#### Round 0b: Days of the Week — 4/5
+
+| # | Day | Answer | Result |
+|---|-----|--------|--------|
+| 1 | Monday | げつようび | ✅ |
+| 2 | Tuesday | すいようび | ❌ (= Wed! Tue = 火曜日) |
+| 3 | Thursday | もくようび | ✅ |
+| 4 | Friday | きんようび | ✅ |
+| 5 | Saturday | どようび | ✅ |
+
+#### Round 1: L13 Mixed Review (no hints) — 2/8 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Printer not working | 🟡 | 動くない→動かない (く→か+ない) |
+| 2 | Delivery by 3pm | 🟡 | Missing verb 届く, までに |
+| 3 | Turn left → meeting room | ✅ | Perfect |
+| 4 | Use parking lot (ask how) | 🟡 | 使って→使いたいとき, どいれば→どうすれば |
+| 5 | Microwave weird sound | 🟡 | 変あ→変な, 音がする correct |
+| 6 | Wed unavailable, Thu? | 🟡 | です→んですが connector, 都合が悪い correct |
+| 7 | Button → coffee comes out | 🟡 | ボタン correct! 出ます not known |
+| 8 | Coffee tastes strange | ✅ | 変な味がする perfect |
+
+#### Round 2: Supported Drill (vocab provided) — 3/10 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Copier not working | ✅ | 動かない perfect |
+| 2 | Package arrive by noon | 🟡 | 届くそう→届きそう (ます-stem) |
+| 3 | Weird smell from meeting room | ✅ | においがする perfect |
+| 4 | Switch → lights on | 🟡 | つくます→つきます (く→き+ます) |
+| 5 | Return book to shelf (ask how) | 🟡 | Missing とき, どすれば→どうすれば |
+| 6 | Tea tastes bitter | 🟡 | 味がする + adjective combined |
+| 7 | Thu unavailable, Fri? | 🟡 | です→んですが, 都合が悪い correct |
+| 8 | Door won't open | 🟡 | 開きない→開かない (く→か+ない) |
+| 9 | Finish today | 🟡 | 今日に→今日 (no particle needed) |
+| 10 | Stairs → cafeteria | ✅ | Perfect |
+
+#### Key rule identified: Godan く-verb stem changes
+
+| Form | Change | Examples |
+|---|---|---|
+| ます-form | く→**き**+ます | つきます, 開きます, 届きます |
+| ない-form | く→**か**+ない | つかない, 開かない, 動かない |
+
+Never く+ます or き+ない.
+
+#### New vocab learned this session
+
+| Word | Reading | Meaning |
+|---|---|---|
+| 焦げた | こげた | burnt |
+| 届く | とどく | to arrive (delivery) |
+| 出る | でる | to come out |
+| 機械 | きかい | machine |
+| 階段 | かいだん | stairs |
+| 降りる | おりる | to go down |
+
+#### What went well
+- **音がする / 味がする — が locked** (correct every time today)
+- **においがする — が correct 2/3 times** (big improvement)
+- **動かない — correct when vocab provided** (godan negative clicking)
+- **ボタン — correct** (was バタン, now fixed)
+- **都合が悪い — produced correctly ×2**
+- **V-ると — と present every time**
+- **Pattern selection still strong**
+- With vocab support, sentence structure is solid
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Godan く-verb ます: つくます, 届くそう | く→き+ます (not く+ます) | ⚠️ recurring |
+| Godan く-verb ない: 動くない, 開きない | く→か+ない (not く+ない or き+ない) | ⚠️ recurring |
+| 味がする + adjective combined | Use set phrase OR adjective, not both | ⚠️ recurring (2nd session) |
+| 火曜日 vs 水曜日 | 火(fire) = Tue, 水(water) = Wed | ⚠️ recurring |
+| V-たいとき missing とき | Pattern: V-たい**とき**、どうすればいいですか | ⚠️ recurring |
+| どうすれば spelling | どう + すれば (not どすれば/どいれば) | ⚠️ recurring |
+| においがする missing が (×1) | [X]がする — always が | ⚠️ recurring (improving) |
+
+#### Open items
+- **Godan く-verb stem changes** — key weakness, needs focused drill
+- **味がする vs adjective** — when to use which
+- **火/水曜日** — still swapping
+- **どうすればいいですか** — spelling under pressure
+- **L13 vocab** — much better with support, cold recall still growing
+- きのこ — carried over
+- で vs に — ongoing
+- **L13 consolidation progressing — one more session with く-verb focus, then L14**
+
+---
+
+*Next session: Godan く-verb conjugation drill (ます + ない) · L13 final review · check for L14 PDF*
