@@ -1239,4 +1239,175 @@ Never く+ます or き+ない.
 
 ---
 
-*Next session: Godan く-verb conjugation drill (ます + ない) · L13 final review · check for L14 PDF*
+### 2026-03-31 — Godan く-verb Drill + L13 Final Review ×2
+
+#### Round 0: Godan く-verb Drill — 18/20
+
+| # | Verb | ます | ない |
+|---|------|------|------|
+| 1 | 動く | ✅ | ❌ (動きない→動かない) |
+| 2 | つく | ✅ | ✅ |
+| 3 | 開く | ✅ | ✅ |
+| 4 | 届く | ✅ | ✅ |
+| 5 | 歩く | ✅ | ✅ |
+| 6 | 押す | ❌ (おすます→おします) | ✅ |
+| 7 | 聞く | ✅ | ✅ |
+| 8 | 書く | ✅ | ✅ |
+| 9 | 泳ぐ | ✅ | ✅ |
+| 10 | 働く | ✅ | ✅ |
+
+After first correction, く→か+ない was perfect every time.
+
+#### Round 1: L13 Grammar Full Sentences — 6/10 clean
+
+| # | Prompt | Pattern | Result | Note |
+|---|--------|---------|--------|------|
+| 1 | Lights won't turn on | んですが | ✅ | |
+| 2 | Documents ready by 3 | V-そう | ✅ | までに, できそう |
+| 3 | Borrow projector (ask how) | V-たいとき | 🟡 | Missing たい, そう→どう, は→を |
+| 4 | Button → screen on | V-ると | ✅ | つきます correct |
+| 5 | Weird smell from warehouse | んですが | 🟡 | が→から for source |
+| 6 | Repair finish today | V-そう | ✅ | |
+| 7 | Right at stairs → bathroom | V-ると | 🟡 | 階段に→階段を |
+| 8 | Wed unavailable, Thu? | んですが | 🟡 | Missing んですが connector |
+| 9 | Coffee tastes strange | んですが | ✅ | 変な味がする perfect |
+| 10 | Door won't open | んですが | ✅ | 開かない perfect |
+
+#### Round 2: L13 Mix — 4/10 clean
+
+| # | Prompt | Pattern | Result | Note |
+|---|--------|---------|--------|------|
+| 1 | Printer loud sound | んですが | 🟡 | 大き音→大きい音 |
+| 2 | Make deadline | V-そう | 🟡 | Double に, dropped 間 |
+| 3 | Change password (ask how) | V-たいとき | 🟡 | Missing 変更, んが→とき |
+| 4 | Hallway → kitchen left | V-ると | 🟡 | まっすぎ→まっすぐ, missing 行く |
+| 5 | Weird sound from upstairs | んですが | ✅ | |
+| 6 | Meeting ending soon | V-そう | ✅ | |
+| 7 | Tue unavailable, Wed? | んですが | 🟡 | Missing は after 火曜日 |
+| 8 | AC won't turn off | んですが | 🟡 | を→が, 消えらない→消えない |
+| 9 | Switch → heater on | V-ると | ✅ | |
+| 10 | Reserve parking (ask how) | V-たいとき | ✅ | Self-corrected with とき! |
+
+#### What went well
+- **Godan く-verb** — 18/20, く→か+ない locked after first correction
+- **Best L13 scores yet** — 6/10 in Round 1
+- **どうすれば** — correct every time (was どすれば/どいれば before)
+- **火/水曜日** — correct in both rounds
+- **V-たいとき** — self-corrected in Round 2 (added とき)
+- **んですが connector** — improving
+- **く-verb forms in sentences** — つきます, 開かない all correct
+- **音がする / 味がする / においがする** — が solid
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| どう vs そう (borrowing projector) | どう = question, そう = answer | ⚠️ recurring (improving) |
+| から for source (smell/sound) | Smell/sound comes **from** = から | ⚠️ recurring |
+| んですが as connector | Problem → んですが → suggestion | ⚠️ recurring (improving) |
+| い-adj before noun needs い | 大き音→大きい音 | ⚠️ recurring |
+| Ichidan negative: drop る + ない | 消える→消えない (not 消えらない) | New |
+| V-ると needs a verb | まっすぐ行くと (not まっすぐと) | New |
+
+#### Open items
+- **L13 grammar mostly solid** — pattern selection strong, small particle/spelling errors remain
+- **V-たいとき** — improving but still needs たい and とき reminders
+- **から for source** — needs to become automatic
+- **Ichidan negative** — new error, watch for it
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+### 2026-04-01 — L13 Final Check + L14 Summary Given
+
+#### Round 0: L13 Final Check — 3/5 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Elevator weird sound | 🟡 | エレベーター spelling |
+| 2 | Work finish by Friday | ✅ | |
+| 3 | Use company car (ask how) | ✅ | たいとき, どうすれば all correct |
+| 4 | Past reception → office | 🟡 | Missing verb before と, 会社→オフィス |
+| 5 | Strange smell from storage | ✅ | |
+
+L13 grammar solid enough to move on. L14 PDF read and summary given.
+
+#### L14 Summary Given
+
+**Topic:** 仕事の連絡 (Work communication — continued)
+**Title:** 休みを取ってもいいでしょうか？
+**Patterns:** Nで/な-adjで/い-adjくて/V-て (cause/reason), それで (so), V-てもいいですか (permission casual), V-てもいいでしょうか (permission polite), V-なければなりません (must), ～んです (explaining)
+
+---
+
+### 2026-04-02 — L14 Vocab Recognition + Grammar Intro (patterns 1-5)
+
+#### Round 1: L14 Vocab Recognition — 8/15
+
+| # | Word | Answer | Result |
+|---|------|--------|--------|
+| 1 | 遅刻する | late | ✅ |
+| 2 | 早退する | leave early | ✅ |
+| 3 | 具合が悪い | not feeling well | ✅ |
+| 4 | 伝える | ? | ❌ (= to tell/convey) |
+| 5 | 申し訳ありません | ? | ❌ (= I'm very sorry, formal) |
+| 6 | 休憩する | rest | ✅ |
+| 7 | 別にかまいません | ? | ❌ (= no problem) |
+| 8 | 許可 | permission | ✅ (guessed from kanji) |
+| 9 | 休暇届 | ? | ❌ (= vacation request form) |
+| 10 | 私用 | personal use | ✅ |
+| 11 | 用事 | ? | ❌ (= errand) |
+| 12 | 役所 | city hall | ✅ |
+| 13 | 財布を忘れる | ? | ❌ (= forgot wallet) |
+| 14 | 連絡先 | 🟡 | = contact info (not contact person) |
+| 15 | 期間 | period | ✅ |
+
+Vocab gaps: 伝える, 申し訳ありません, 別にかまいません, 休暇届, 用事, 財布を忘れる
+
+#### Round 2: L14 Grammar (with vocab support) — Patterns 1-5
+
+| # | Prompt | Pattern | Result | Note |
+|---|--------|---------|--------|------|
+| 1 | Roads congested, can't move | V-て reason | 🟡 | 混んでいるで→混んでいて, 動くない→動きません |
+| 2 | Fever, want day off | それで | ❌ | Used で instead of それで for two sentences |
+| 3 | Forgot wallet, a little late | V-て reason | 🟡 | お遅れます→少し遅れます, 忘れて correct |
+| 4 | Bad cough, going to hospital | い-adjくて | 🟡 | ひとくて→ひどくて (ど not と) |
+| 5 | Accident, will be late | Nで | ✅ | 事故で、ちょっと遅刻します |
+| 6 | May I go to bathroom? (casual) | てもいいですか | ✅ | |
+| 7 | Leave early tomorrow? (polite) | てもいいでしょうか | 🟡 | Used ですか instead of でしょうか |
+| 8 | May I take a break? (casual) | てもいいですか | ✅ | |
+| 9 | Must go to city hall | なければなりません | ✅ | First try! |
+| 10 | Must go to hospital, ask to leave early | なければならないんです + てもいいでしょうか | 🟡 | なりませんで→ならないんです, need でしょうか |
+
+#### What went well
+- **V-なければなりません — got it first try**
+- **V-てもいいですか — clicking immediately**
+- **Nで for reason — correct** (事故で)
+- **忘れて — ichidan て-form correct**
+- Good kanji instinct on new vocab (許可, 役所, 私用, 期間)
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| V-て reason vs Nで | Verbs use て-form, nouns use で | New |
+| それで vs で | Two separate sentences → S1。それで、S2 | New |
+| ですか vs でしょうか | ですか = casual, でしょうか = polite (boss) | New |
+| なりませんで → ならないんです | Reason-giving uses plain form + んです | New |
+| ひどい spelling (ひとい) | ど not と | New |
+| 動くない → 動かない | Godan く→か+ない | ⚠️ recurring |
+
+#### Open items
+- **L14 vocab gaps** — 伝える, 申し訳ありません, 別にかまいません, 休暇届, 用事, 財布
+- **L14 patterns 1-2** — reason-giving needs more reps (て vs で, それで)
+- **ですか vs でしょうか** — polite permission needs practice
+- **なければならないんです + それで + てもいいでしょうか** — full sequence needs drilling
+- **Pattern 6 (んです for explaining)** — introduced but not drilled separately
+- エレベーター spelling — carried over
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+*Next session: L14 vocab gap drill · reason-giving (て/で/それで) focused drill · permission pattern practice · full sequence roleplay if ready*
