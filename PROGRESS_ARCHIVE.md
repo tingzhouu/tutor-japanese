@@ -1,6 +1,6 @@
 # Japanese Learning Progress — Archived Session Logs
 
-Archived sessions moved here from PROGRESS.md. Last updated 2026-03-23.
+Archived sessions moved here from PROGRESS.md. Last updated 2026-04-03.
 
 ---
 
@@ -1881,4 +1881,130 @@ Archived sessions moved here from PROGRESS.md. Last updated 2026-03-23.
 - で vs に — ongoing
 - Verb negative plain row shift — carried over
 - **L11 complete — all grammar, vocab, ingredient patterns done. Listening self-study remains.**
+
+---
+
+### 2026-03-20 — い-adj Past Review + L11 Consolidation Mix + 使う/入っている Mini-drill
+
+#### Round 0: い-adj Past Form — 5/5
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | 眠い → past | 眠かった | ✅ |
+| 2 | 暑い → past | 暑かった | ✅ |
+| 3 | おいしい → past | おいしかった | ✅ |
+| 4 | いい → past | よかった | ✅ |
+| 5 | 高い → past negative | 高くなかった | ✅ |
+
+#### Round 1: L11 Consolidation Mix — 7/10
+
+| # | Prompt | Answer | Result | Note |
+|---|--------|--------|--------|------|
+| 1 | 飲み物 / 買って＿ (toward you) | 来ます | ✅ | |
+| 2 | 牛肉 vs 豚肉 / prefer beef | 牛肉のほうがいいです | ✅ | |
+| 3 | カレー / 小麦 / contains? | 小麦が入ってますか | ✅ | |
+| 4 | 3 drinks / any is fine | どれでもいいです | ✅ | |
+| 5 | ケーキ / 作って＿ (leaving) | 行きます | ✅ | |
+| 6 | 料理 / 卵 / uses? | 作ってますか | ❌ | 使ってますか |
+| 7 | コーヒー vs 紅茶 / either | どちでもいいです | 🟡 | どちらでも (missing ら) |
+| 8 | 友達が菓子を買って来た | 買って来ました | ✅ | |
+| 9 | ピザ / エビ / contains? | ありますか | ❌ | 入ってますか |
+| 10 | 消費期限 meaning | expiry date | ✅ | |
+
+#### Round 2: 使う vs 入っている Mini-drill — 5/5
+
+| # | Prompt | Answer | Result |
+|---|--------|--------|--------|
+| 1 | パン / 小麦 / contains? | 小麦が入ってますか | ✅ |
+| 2 | 料理 / 卵 / uses? | 卵を使ってますか | ✅ |
+| 3 | チョコ / 乳製品 / contains? | 乳製品が入ってますか | ✅ |
+| 4 | ラーメン / ピーナッツ / uses? | ピーナッツを使ってますか | ✅ |
+| 5 | ケーキ / バター / contains? | バターが入ってますか | ✅ |
+
+#### What went well
+- い-adj past — 5/5, including irregular いい→よかった and past negative
+- 行く/来る direction — all correct again (2nd consecutive perfect session)
+- どっち/どれ/のほう — solid
+- 消費期限, 小麦 — vocab locked
+- 使う vs 入っている — fixed after correction, then 5/5 in mini-drill
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う vs 作る mix-up | 使う = use, 作る = make | ⚠️ recurring (2nd session) |
+| 入っている vs ある for ingredients | Inside food = 入っている, not ある | New (corrected, then 5/5) |
+| どちら not どち | どちら needs ら | New (spelling) |
+
+#### Open items
+- 使う vs 作る — recurring, needs more reps
+- い-adj past — **5/5 clean** (back on track after last session's slip)
+- 行く/来る — 2 consecutive perfect sessions, nearing closure
+- L11 listening exercises — self-study (11-01 to 11-26)
+- Katakana long vowels (ー) — carried over, not drilled today
+- で vs に — ongoing
+- Verb negative plain row shift — carried over
+- No L12 PDF yet
+
+---
+
+### 2026-03-21 — L12 Summary + Vocab + Grammar Drills (〜そう, くて linking, V-てみます, 入る/入れる, くないですか)
+
+#### L12 Summary Given
+
+**Topic:** おいしい料理 (Delicious food — continued)
+**Title:** お弁当、おいしそうですね
+**Patterns:** 〜そうです, 〜そうなN, い-adjくて〜/くなくて〜, V-てみます, 入る vs 入れる, い-adjくないですか？
+
+#### Round 1: L12 Vocab Recognition — 11/15
+#### Round 2: 〜そうです Grammar — 5/10
+#### Round 3: い-adj くて linking (reason) — 5/6
+#### Round 4: V-てみます — 4/7
+#### Round 5: 入る vs 入れる — 5.5/6
+#### Round 6: くないですか？ — 5/5
+
+#### What went well
+- くて linking (reason) — solid, including negative くなくて
+- 入る vs 入れる — pair understood, particles correct
+- くないですか — 5/5, natural
+- Taste vocab mostly locked (甘い, 辛い, すっぱい, 苦い, しょっぱい)
+
+#### Open items
+- 〜そう い-drop — needs targeted reps
+- L12 grammar introduced (all 6 patterns) — needs: 〜そう consolidation, roleplay
+
+---
+
+### 2026-03-22 — L12 Vocab Gap Review + 〜そう Mini-drill + L12 Roleplay
+
+#### Round 0: Vocab Gap Review — 2/3
+#### Round 1: 〜そう い-drop Mini-drill — 10/12
+#### Round 2: L12 Roleplay — Lunch at a Japanese restaurant with 森さん
+
+#### What went well
+- 〜そう い-drop — massive improvement from last session
+- 食べてみます — used naturally in roleplay (×3)
+- Ingredient patterns solid in roleplay context
+
+#### Open items
+- まずい meaning — still not locked (2 sessions)
+- L12 grammar + roleplay done — needs: まずい/苦い vocab consolidation
+
+---
+
+### 2026-03-23 — L12 Consolidation: Vocab Review + Reverse Vocab + 使う/作る + 〜そう Sentences + てみます/てみてください + Roleplay
+
+#### Round 0: Vocab Gap Review — 5/5
+#### Round 0b: L12 Vocab Reverse (English → Japanese) — 13/15
+#### Round 1: 使う vs 作る — 7/7
+#### Round 2: 〜そう Full Sentences — 6.5/7
+#### Round 3: てみます vs てみてください — 5/7
+#### Round 4: Roleplay — Potluck lunch at the office
+
+#### What went well
+- まずい — finally locked (3rd session)
+- 使う vs 作る — 7/7, closed
+- 〜そう — strong in full sentences
+- All 5 basic taste words locked in both directions
+- L12 consolidation strong — grammar, vocab, roleplay all done
 
