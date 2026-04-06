@@ -1099,4 +1099,159 @@ Nasi reviewed the 5-row system with 飲む and 行く. All rows identified corre
 
 ---
 
-*Next session: Full sequence drill (reason→んですが→permission→でしょうか) · L14 roleplay (calling in sick / asking boss for time off)*
+### 2026-04-05 — Plain-form Conjugation Deep Dive (blocking L14 progress)
+
+#### Round 0: Vocab Cold Check — 3/4 + context
+
+| # | Word | Result |
+|---|------|--------|
+| 1 | 用事 | 🟡 "purpose" → errand |
+| 2 | 申し訳ありません | ✅ |
+| 3 | 別にかまいません | ✅ |
+| 4 | 伝える | ✅ |
+| Context | 用事があって、早退してもいいでしょうか | ✅ |
+
+#### Round 1: Full Sequence Drill (reason+んですが+permission+でしょうか) — 2/6 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | City hall, leave early | ✅ | Full sequence perfect |
+| 2 | Friends from Tokyo, day off | 🟡 | 来ます→来るんですが |
+| 3 | Fever, day off | 🟡 | Needed help, vocab recall (熱) |
+| 4 | Not well, leave early | ✅ | 具合が悪いんですが |
+| 5 | Wallet stolen, koban | 🟡 | んですが missing |
+| 6 | Errand, day off | 🟡 | Missing ある, 取ってもいい |
+
+**Nasi recognized blocker**: can't produce plain-form conjugation chart on demand → blocking んですが production. Requested to stop advancing until plain forms fluent.
+
+#### Round 2: んですが attachment drill — 10/10
+
+All variants correct (plain dict, plain past, い-adj, な-adj+な, noun+な, negative, double verb ある).
+
+#### Round 3: Polite → Plain + んですが — 5/10 clean
+
+Nasi identified core gap: converting ます-forms to plain under pressure. Errors all in conversion, not in んですが attachment itself.
+
+| # | Prompt | Target | Nasi answered | Note |
+|---|--------|--------|---------------|------|
+| 1 | 忙しい | 忙しいんですが | ✅ | |
+| 2 | 元気 (な-adj) | 元気なんですが | 元気なですが 🟡 | Dropped ん |
+| 3 | 学生 (noun) | 学生なんですが | ✅ | |
+| 4 | 食べません | 食べないんですが | 食べたんですが ❌ | Tense confusion |
+| 5 | 行きました | 行ったんですが | 行きましたんですが ❌ | Polite used with んですが |
+| 6 | 高い | 高いんですが | ✅ | |
+| 7 | 来ませんでした | 来なかったんですが | 来なんですが ❌ | Incomplete form |
+| 8 | 好き (な-adj) | 好きなんですが | ✅ | |
+| 9 | 雨 (noun) | 雨なんですが | ✅ | |
+| 10 | 飲みません | 飲まないんですが | 飲まんですが ❌ | Missing ない |
+
+#### Round 4: 8-cell Verb Chart Explanation + Drill
+
+Nasi explicitly asked: "what is negative past plain?" Built the full 8-cell chart for 飲む. Drilled 7 verbs with all 4 plain forms each:
+
+| Verb | Type | Result |
+|---|---|---|
+| 飲む | godan む | 4/4 ✅ first try |
+| 書く | godan く | 4/4 ✅ first try |
+| 待つ | godan つ | 2/4 → 4/4 after correction (まつない→またない, forgot あ-row shift for negative) |
+| 行く | godan く (irreg past) | 4/4 ✅ first try (including 行った exception) |
+| 食べる | ichidan | 4/4 ✅ first try |
+| 来る | irregular | 1/4 → 4/4 after reading guide (く/こ/き/こ) |
+| する | irregular | 2/4 (stopped before completion) |
+
+**Key rules identified & taught:**
+- Past affirmative plain = take て-form, swap て→た / で→だ
+- Past negative plain = take plain negative (〜ない), swap い→かった
+- 来る readings: く (present+) / こ (negative) / き (past+) / こ (past-)
+- する: す only in dict, し for all others
+
+#### What went well
+- **んですが attachment — 10/10** when given plain form
+- **Ichidan verbs (食べる)** — all 4 forms perfect, rules internalized
+- **Godan む and く** — 4/4 clean first try
+- **Nasi self-diagnosed the blocker** — excellent metacognition
+- **Rules for past forms now explicit** — (て→た), (い→かった) derivations understood
+- **行った exception** — remembered correctly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Polite → plain conversion under pressure | Must drop ます/ません/ました/ませんでした before +んですが | ⚠️ KEY BLOCKER |
+| Godan negative stem shift | う-row → あ-row (まつ→また, not まつ) | ⚠️ recurring (despite 10/10 earlier) |
+| Plain past negative formation | い→かった on the plain negative (not add to past affirm) | New — now understood |
+| 来る readings (く/こ/き/こ) | Irregular — memorize | New |
+| な missing in な-adj/noun + んですが | な-adj + **な** + んですが | ⚠️ recurring |
+
+#### Open items — PRIORITY
+- **Plain-form conjugation fluency is the blocker for all L14 patterns**
+- **Next session: continue conjugation drills — NO L14 grammar advancement until fluent**
+- Drill: rapid-fire 4-form production on mixed verbs (godan む/く/つ/す/る/ぶ/ぐ/う, ichidan, 来る, する)
+- Target: 15+ verbs clean in one session before advancing
+- ALSO carry over: full sequence (reason+んですが+permission), L14 roleplay, きのこ, で vs に
+
+---
+
+### 2026-04-06 — Plain-form Conjugation Drill (continued)
+
+#### Round 1: Mixed Verb 4-form Drill — 15 verbs, 8/15 fully clean
+
+| # | Verb | Type | Score | Error |
+|---|------|------|-------|-------|
+| 1 | 話す | godan す | 3/4 | Past: はなさた→はなした (used あ-row instead of て-form) |
+| 2 | 遊ぶ | godan ぶ | 3/4 | Past: あそんた→あそんだ (で→だ not て→た) |
+| 3 | 泳ぐ | godan ぐ | 3/4 | Past: 泳ぎだ→泳いだ (て-form is 泳いで) |
+| 4 | 帰る | godan る | 4/4 | — |
+| 5 | 買う | godan う | 2/4 | Neg: かいない→かわない (う→わ exception) |
+| 6 | 見る | ichidan | 4/4 | — |
+| 7 | する | irregular | 4/4 | — |
+| 8 | 来る | irregular | 4/4 | く/こ/き/こ all correct |
+| 9 | 押す | godan す | 3/4 | Past: flagged unknown → おした |
+| 10 | 登る | godan る | 4/4 | — |
+| 11 | 動く | godan く | 3/4 | Past: うごきた→うごいた (い-row confused with て-form) |
+| 12 | 開ける | ichidan | 4/4 | — |
+| 13 | 届く | godan く | 4/4 | — |
+| 14 | 遅刻する | する-verb | 4/4 | — |
+| 15 | 買う (retry) | godan う | 2/4 | Neg: かいない→かわない (same error) |
+| 15b | 使う | godan う | 3/4 | わない ✅ fixed! Past: つかいた→つかった |
+
+#### て-form Revision Given
+
+Nasi requested て-form refresher. Full chart reviewed:
+- く→いて, ぐ→いで, す→して, つ/る/う→って, む/ぶ/ぬ→んで
+- Exception: 行く→行って
+- Ichidan: drop る + て
+- Irregular: する→して, 来る→きて
+- Past plain = て→た / で→だ
+
+#### Two recurring error patterns identified
+
+1. **Past affirmative**: building from あ-row/い-row stem instead of て-form
+   - はなさた (あ-row) → 話した (from 話して)
+   - うごきた (い-row) → 動いた (from 動いて)
+   - Rule: **past = て-form swap only**
+
+2. **買う/使う negative**: う→いない instead of う→わない
+   - かいない → かわない
+   - This is the one godan exception: う→わ for negative
+   - 使わない was correct after correction — starting to click
+
+#### What went well
+- **Ichidan — never misses** (見る, 開ける, 食べる all 4/4)
+- **Irregular — locked** (する 4/4, 来る 4/4 with correct readings)
+- **Godan る — clean** (帰る, 登る both 4/4)
+- **Godan く — improving** (届く 4/4, 動く missed past but knew negative)
+- **Present negative あ-row shift** — mostly solid (except う→わ)
+- **Past negative** — always correct (ない→なかった rule is automatic)
+- **Good metacognition** — flagged unknown (押す past) instead of guessing wrong
+
+#### Open items
+- **Past affirmative from て-form** — main remaining gap, needs focused drill
+- **う-verb negative: う→わない** — still reverting to いない
+- **Not yet fluent** — 8/15 clean, target was 15+
+- **Next session: continue drills, focus on past affirmative + う-verbs**
+- Carry over: full sequence (reason+んですが+permission), L14 roleplay, きのこ, で vs に
+
+---
+
+*Next session: Past affirmative focused drill (て-form → た/だ swap) + う-verb negative drill. Then retry 15-verb mixed drill. No L14 advancement until clean.*
