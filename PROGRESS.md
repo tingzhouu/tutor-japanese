@@ -1254,4 +1254,110 @@ Nasi requested て-form refresher. Full chart reviewed:
 
 ---
 
-*Next session: Past affirmative focused drill (て-form → た/だ swap) + う-verb negative drill. Then retry 15-verb mixed drill. No L14 advancement until clean.*
+### 2026-04-07 — Plain-form Drill (continued) + んですが Production
+
+#### Round 0: Past Affirmative Focused Drill — 7/9 first try
+
+| # | Verb | Type | Answer | Result | Note |
+|---|------|------|--------|--------|------|
+| 1 | 話す | godan す | はなした | ✅ | |
+| 2 | 遊ぶ | godan ぶ | あそんだ | ✅ | |
+| 3 | 泳ぐ | godan ぐ | およぎた | ❌ | →およいだ (いで→いだ) |
+| 4 | 押す | godan す | おした | ✅ | |
+| 5 | 買う | godan う | かった | ✅ | |
+| 6 | 動く | godan く | 動きた | ❌ | →うごいた (いて→いた) |
+| 7 | 書く | godan く | かいた | ✅ | |
+| 8 | 待つ | godan つ | まった | ✅ | |
+| 9 | 飲む | godan む | のんだ | ✅ | |
+
+Retries: 泳ぐ ✅, 動く ✅ (took 3 attempts — confused いた/いだ), both clean after correction.
+
+**Remaining past affirmative error:** く-verbs using ます-stem (きた/ぎだ) instead of て-form (いた/いだ). Corrected and retested.
+
+#### Round 1: う-verb Negative Drill — 5/6 (first miss then all correct)
+
+| # | Verb | Answer | Result |
+|---|------|--------|--------|
+| 1 | 買う | かいない→かわない | ❌→✅ |
+| 2 | 使う | つかわない | ✅ (self-corrected) |
+| 3 | 歌う | うたわない | ✅ |
+| 4 | 洗う | あらわない | ✅ |
+| 5 | 買う (retry) | かわない | ✅ |
+| 6 | 言う | いわない | ✅ |
+
+#### Round 2: Full 4-form Mixed Drill — 13/15 fully clean
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 飲む | godan む | 4/4 | — |
+| 2 | 泳ぐ | godan ぐ | 4/4 | — (いだ correct!) |
+| 3 | 動く | godan く | 4/4 | — (いた correct!) |
+| 4 | 買う | godan う | 4/4 | — (わない correct!) |
+| 5 | 話す | godan す | 4/4 | — |
+| 6 | 待つ | godan つ | 4/4 | — |
+| 7 | 遊ぶ | godan ぶ | 4/4 | — |
+| 8 | 帰る | godan る | 4/4 | — |
+| 9 | 来る | irregular | 4/4 | — |
+| 10 | する | irregular | 4/4 | — |
+| 11 | 食べる | ichidan | 4/4 | — |
+| 12 | 開ける | ichidan | 4/4 | — |
+| 13 | 押す | godan す | 4/4 | — |
+| 14 | 使う | godan う | 2/4 | つかいない→つかわない (う→わ inconsistent) |
+| 15 | 届く | godan く | 4/4 | — |
+
+**8/15 → 13/15 improvement from yesterday!** Past affirmative and く/ぐ distinction both fixed.
+
+#### Round 3: んですが Production — 13/15 clean
+
+| # | Prompt | Form | Result | Note |
+|---|--------|------|--------|------|
+| 1 | 熱がある | verb present | ✅ | |
+| 2 | 友だちが来る | verb present | ✅ | |
+| 3 | ねぼうした | verb past | ✅ | |
+| 4 | 具合が悪い | い-adj | ✅ | |
+| 5 | 都合が悪い | い-adj | ✅ | |
+| 6 | 行かなければならない | verb negative | ✅ | |
+| 7 | 仕事が大変 | な-adj | 🟡 | 変→大変 (vocab, not grammar) |
+| 8 | 財布を忘れた | verb past | ✅ | |
+| 9 | 忘れる (past) | ichidan | ✅ | |
+| 10 | 届く (negative) | godan く | ✅ | |
+| 11 | 遅刻する (past) | する-verb | ✅ | |
+| 12 | 買う (negative) | godan う | ✅ | わない! |
+| 13 | 動く (past) | godan く | ❌ | いたないんですが→いたんですが (combined past+neg) |
+| 14 | 来る (negative) | irregular | ✅ | |
+| 15 | 使う (past) | godan う | ✅ | |
+
+#### Grammar concepts clarified this session
+- **All 4 plain forms can attach to んですが** — which one depends on meaning
+- **い-adj attach directly** to んですが (no conversion needed)
+- **な-adj/noun + な + んですが**
+- **Ichidan vs godan identification**: え/い before る = usually ichidan
+- **変 vs 大変**: 変 = weird, 大変 = tough/busy
+
+#### What went well
+- **Past affirmative — ALL CORRECT in mixed drill** (was the main blocker yesterday)
+- **く→いた vs ぐ→いだ distinction — fixed**
+- **買う negative わない — correct in mixed drill and んですが**
+- **んですが production — 13/15** with errors being vocab/form-combination, not conjugation
+- **Plain form conjugation dramatically improved: 8/15 → 13/15**
+- **Ready to return to L14 full sequence**
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う negative: つかいない | う→わない for ALL う-verbs | ⚠️ recurring (買う correct but 使う reverts) |
+| 変 vs 大変 | 変 = weird, 大変 = tough | New (vocab) |
+| Past + negative combined (動いたない) | Pick one: past OR negative, not both | New |
+
+#### Open items
+- **使う negative (つかわない)** — still inconsistent, needs more reps
+- **Plain form conjugation: nearly fluent (13/15)** — one more clean session then advance
+- Full sequence (reason+んですが+permission+でしょうか) — ready to retry
+- L14 roleplay — pending
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+*Next session: Quick 10-verb conjugation check (must be clean) → Full L14 sequence drill → Roleplay if ready*
