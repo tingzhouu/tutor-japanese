@@ -1360,4 +1360,72 @@ Retries: 泳ぐ ✅, 動く ✅ (took 3 attempts — confused いた/いだ), bo
 
 ---
 
-*Next session: Quick 10-verb conjugation check (must be clean) → Full L14 sequence drill → Roleplay if ready*
+### 2026-04-08 — Conjugation Check + Full L14 Sequence Drill
+
+#### Round 0: 10-verb Conjugation Check — 9/10 clean
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 使う | godan う | 4/4 ✅ | — (つかわない first try!) |
+| 2 | 泳ぐ | godan ぐ | 3/4 | いた→いだ (く/ぐ voiced pair) |
+| 3 | 来る | irregular | 4/4 ✅ | — |
+| 4 | 買う | godan う | 4/4 ✅ | — |
+| 5 | 動く | godan く | 4/4 ✅ | — |
+| 6 | 食べる | ichidan | 4/4 ✅ | — |
+| 7 | 遊ぶ | godan ぶ | 4/4 ✅ | — |
+| 8 | 話す | godan す | 4/4 ✅ | — |
+| 9 | する | irregular | 4/4 ✅ | — |
+| 10 | 帰る | godan る | 4/4 ✅ | — |
+
+**使わない and 買わない both correct first try. Only miss: 泳ぐ いた→いだ.**
+
+#### Round 1: Full L14 Sequence — 0/6 clean (assembly errors, not conjugation)
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Fever, day off | 🟡 | 休むして→休んで (て-form needed for てもいい) |
+| 2 | Friends coming, day off | 🟡 | 休む→休み (noun), ましょうか→でしょうか |
+| 3 | City hall, leave early | 🟡 | 行くなければ→行かなければ (あ-row) |
+| 4 | Not well, day off | 🟡 | Missing も in てもいい |
+| 5 | Overslept, late | 🟡 | しました→したんですが (plain form) |
+| 6 | Accident, late | 🟡 | あた→あった (missing っ) |
+
+#### Round 2: Full L14 Sequence (second attempt) — 5/6 clean!
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Bad cough, go to hospital | ✅ | ひどいんですが + 行ってもいいでしょうか |
+| 2 | Pick up child, leave early | ✅ | 行かなければならないんですが + 早退してもいいでしょうか |
+| 3 | Roads congested, late | 🟡 | Double connector (んですが + それで) |
+| 4 | Forgot something, go back | ✅ | したんですが + 帰ってもいいでしょうか |
+| 5 | Errand Friday, day off | ✅ | 用事があるんですが + 取ってもいいでしょうか |
+| 6 | Fever + hospital, day off | ✅ | Two reasons chained with て! |
+
+#### What went well
+- **Conjugation: 9/10 clean** — 使わない fixed, plain forms nearly fluent
+- **Full sequence: 0/6 → 5/6 in same session** — dramatic improvement
+- **なければならないんですが** — produced correctly
+- **てもいいでしょうか** — て-form + も + いい + でしょうか all correct in Round 2
+- **Two reasons chained** (熱があって + 行かなければならないんですが) — advanced production
+- **んですが with plain form** — consistent in Round 2
+- **Assembly errors from Round 1 all self-corrected in Round 2**
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 泳ぐ past: いた→いだ | ぐ = voiced (いだ), く = voiceless (いた) | ⚠️ recurring (last one!) |
+| んですが + それで double connector | Use one or the other, not both | ⚠️ recurring |
+| て-form for てもいい | てもいい needs て-form, not dictionary form | Fixed in Round 2 |
+| も missing in てもいい | て + も + いい + でしょうか | Fixed in Round 2 |
+
+#### Open items
+- **泳ぐ past いだ** — last remaining conjugation error
+- **Full L14 sequence — working (5/6)** — ready for roleplay
+- L14 roleplay — next session
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+*Next session: L14 roleplay (calling in sick / asking boss for time off + asking coworker for permission) · 泳ぐ quick check*
