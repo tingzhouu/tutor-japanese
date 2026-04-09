@@ -1428,4 +1428,73 @@ Retries: 泳ぐ ✅, 動く ✅ (took 3 attempts — confused いた/いだ), bo
 
 ---
 
-*Next session: L14 roleplay (calling in sick / asking boss for time off + asking coworker for permission) · 泳ぐ quick check*
+### 2026-04-09 — 泳ぐ Check + L14 Roleplay ×2
+
+#### Quick check: 泳ぐ past plain → およいだ ✅ (いだ not いた — fixed!)
+
+#### Roleplay 1: Calling in sick — phone call to 田村部長
+
+**Patterns used successfully:**
+- もしもし + name — natural phone opening ✅
+- んですが for reason-giving ✅ (熱があるんですが)
+- てもいいでしょうか — polite permission to boss ✅
+- 申し訳ありません — used at right moment ✅
+- ありがとうございます — natural closing ✅
+
+**Roleplay errors (6):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 休むを取って | 休**み**を取って (noun not verb) | Vocab form |
+| 2 | 具合が悪いです | 具合が悪い**んです** (explaining) | Grammar |
+| 3 | 行かなければ習いんですが | 行かなければ**ならない**んですが | Vocab mix-up |
+| 4 | みんなさんを伝えります | **みなさんに**伝えて**ください** (に + てください) | Particle + verb form |
+| 5 | 伝えります | 伝え**ます** (ichidan, not 伝えります) | Conjugation |
+| 6 | 昨日は休みでした | 昨日は休んですみませんでした | Natural expression |
+
+#### Roleplay 2: Asking coworker 森さん for permission to step out
+
+**Patterns used successfully:**
+- てもいいですか — casual permission for coworker ✅ (not でしょうか)
+- 戻ります — used correctly ✅
+- 財布を忘れました — past tense, natural ✅
+- Conversation flow natural throughout ✅
+
+**Roleplay errors (3):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 五ぐらい | **5分ぐらい** (need counter 分) | Counter missing |
+| 2 | わかりました (to "go ahead") | **行ってきます** more natural | Natural expression |
+| 3 | 急い行ってきます | **急いで行ってきました** (て-form + past) | て-form + tense |
+
+#### What went well
+- **泳ぐ past いだ — fixed!** (last conjugation error closed)
+- **Both roleplays completed** — stayed in character throughout
+- **ですか vs でしょうか** — correctly used casual for coworker, polite for boss
+- **Full L14 sequence produced naturally in roleplay context**
+- **財布を忘れました** — spontaneous, natural use of past tense
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 休む vs 休み | 休みを取る uses noun 休み | ⚠️ recurring |
+| 伝える conjugation (伝えります) | Ichidan: 伝えます not 伝えります | New |
+| みなさん**に**伝える | に marks the person you tell (not を) | New |
+| ならない vs 習い | ならない = must, 習い = learn | New (vocab mix-up) |
+| Counter 分 missing | 5分ぐらい not 五ぐらい | New |
+| 急ぐ て-form | 急いで (godan ぐ → いで) | New |
+
+#### Open items
+- **L14 grammar + roleplay done** — needs one more consolidation session
+- **伝える ichidan conjugation** — watch for えります error
+- **みなさんに伝える** — に not を
+- **休み (noun) vs 休む (verb)** — still mixing
+- きのこ — carried over
+- で vs に — ongoing
+- **Ready for L14 consolidation, then L15**
+
+---
+
+*Next session: L14 consolidation drill (error patterns from roleplay) · check for L15 PDF*
