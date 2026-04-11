@@ -1497,4 +1497,70 @@ Retries: 泳ぐ ✅, 動く ✅ (took 3 attempts — confused いた/いだ), bo
 
 ---
 
-*Next session: L14 consolidation drill (error patterns from roleplay) · check for L15 PDF*
+### 2026-04-10 — L14 Consolidation Drill ×2 (error patterns from roleplay)
+
+L15 PDF confirmed available. Will be introduced after L14 consolidation solid.
+
+#### Round 0: L14 Error Pattern Drill — 2/10 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Monday day off | ✅ | 休みを取ってもいいでしょうか |
+| 2 | Tell everyone | 🟡 | みんさん→みなさん (spelling) |
+| 3 | Must go to hospital | ✅ | |
+| 4 | Takes 5 minutes | ✅ | Counter 分 included |
+| 5 | Back in 10 minutes | 🟡 | に→で (duration) |
+| 6 | Tell the chief | 🟡 | 伝ります→伝えます (ichidan, not godan) |
+| 7 | Overslept, late | 🟡 | したい→した (added い by mistake), double connector んですが+それで |
+| 8 | May I take a break? | 🟡 | しますか→してもいいですか |
+| 9 | Friends coming next month | 🟡 | Missing が particle |
+| 10 | Forgot wallet at home | 🟡 | ます→ました (past) |
+
+#### Round 1: L14 Consolidation (second attempt) — 4/10 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Tell chief | 🟡 | Missing てください (伝えます→伝えてください) |
+| 2 | Meeting done in 20 min | 🟡 | Missing で (20分で) |
+| 3 | Leave early tomorrow | ✅ | 早退してもいいでしょうか |
+| 4 | Overslept | ✅ | 寝坊した (plain past) |
+| 5 | Friend from Tokyo | 🟡 | は + が double particle (は...が来ます) |
+| 6 | Umbrella at office | ✅ | 忘れました with past tense |
+| 7 | Break now (coworker) | ✅ | 休憩してもいいですか |
+| 8 | Buy gift | 🟡 | ならい→ならない (dropped ない) |
+| 9 | 30 min walking | 🟡 | 歩くで→歩いて (て-form for means) |
+| 10 | Fever, day off | 🟡 | Overcomplicated with なければならない |
+
+#### What went well
+- **2/10 → 4/10 improvement within session**
+- **Past tense** — 忘れました, 寝坊した both produced correctly by Round 1
+- **てもいいでしょうか (boss) vs てもいいですか (coworker)** — both correct in Round 1
+- **なければならない structure** — when used, attached correctly (買わなければ)
+- **う→わ negative** — 買わなければ correct
+- **熱があるんですが** — produced spontaneously in Round 1 #10
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 伝える conjugation: 伝ります | Ichidan — drop る + ます = 伝えます | ⚠️ recurring |
+| で vs に for duration | 10分**で**戻る, 20分**で**終わる (timeframe = で) | ⚠️ recurring |
+| 歩くで → 歩いて | て-form + 〜 = by means of (walking takes 30 min = 歩いて30分) | New |
+| は + が double subject marker | One subject particle per noun | New |
+| したい vs した | たい = want to, past plain = た only | New |
+| んですが + それで double connector | Pick one, not both | ⚠️ recurring (3rd session) |
+| みなさん spelling (みんさん) | mi-na-san not min-san | New |
+| Overusing なければならない | Only for obligation, not when asking permission | New |
+
+#### Open items
+- **L14 consolidation still shaky** — 4/10 clean, needs more reps
+- **伝える ichidan conjugation** — specific verb needs drilling
+- **で vs に distinction** — duration vs point in time
+- **Request forms** (てください) — sometimes dropped
+- **L15 PDF available** — hold until L14 consolidation stronger
+- きのこ — carried over
+- **Next session: L14 Round 3 consolidation, focus on recurring errors**
+
+---
+
+*Next session: L14 consolidation Round 3 · target: 伝える conjugation, で/に for duration, request forms (てください)*
