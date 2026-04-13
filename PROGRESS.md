@@ -1563,4 +1563,196 @@ L15 PDF confirmed available. Will be introduced after L14 consolidation solid.
 
 ---
 
-*Next session: L14 consolidation Round 3 · target: 伝える conjugation, で/に for duration, request forms (てください)*
+### 2026-04-11 — 8-cell Verb Grid Drill + Potential/Volitional Preview
+
+#### Round 0: Quick 送る check
+Nasi self-initiated: 送る past question. Confirmed 送るた → 送った rule (て-form swap).
+
+#### Round 1: 8-cell Verb Grid (plain + polite) — 7/10 perfect
+
+New drill format: all 4 plain + all 4 polite forms per verb.
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 送る | godan る | 7/8 | Plain past: 送って → 送った (て-form in past slot) |
+| 2 | 飲む | godan む | 7/8 | Polite past/past neg slot swap (wrote ませんでした for both) |
+| 3 | 書く | godan く | 8/8 ✅ | — |
+| 4 | 泳ぐ | godan ぐ | 8/8 ✅ | — |
+| 5 | 待つ | godan つ | 8/8 ✅ | — |
+| 6 | 買う | godan う | 7/8 | Plain past: かって → かった (recurring て→た) |
+| 7 | 見る | ichidan | 8/8 ✅ | — |
+| 8 | 食べる | ichidan | 8/8 ✅ | — |
+| 9 | 来る | irregular | 8/8 ✅ | — |
+| 10 | する | irregular | 8/8 ✅ | — |
+
+**Remaining error:** Plain past — specifically when て-form ends in 〜って (送る, 買う). Writing て-form in the past slot instead of swapping to った.
+
+#### Grammar clarified this session
+- **て-form て/で/って vs past た/だ/った** distinction — rule re-taught
+- **つる-う verbs (つ/る/う) → って** — nasi remembered this rule unprompted
+- **書く vs 買う polite homophones** — 書**き**ます vs 買**い**ます (different kana)
+- **ぬ-verbs effectively unused** (only 死ぬ common)
+
+#### Round 2: Potential (え+る) and Volitional (お+う) Preview — 9/10 correct
+
+**Note: preview only — not in L14, not being tested for mastery yet.**
+
+| # | Verb | Potential | Volitional | Result |
+|---|------|-----------|------------|--------|
+| 1 | 飲む | 飲める ✅ | のもうる → 飲もう | Added る to volitional (confusion with potential) |
+| 2 | 書く | 書ける ✅ | 書こう ✅ | |
+| 3 | 話す | 話せる ✅ | はなむう → 話そう | Wrong column shift (む instead of さ) |
+| 4 | 買う | 買える ✅ | 買おう ✅ | Confirmed う-verb: only あ-row uses わ |
+| 5 | 待つ | 待てる | 待とう | Couldn't produce first try — full 5-row chart taught |
+| 6 | 遊ぶ | 遊べる ✅ | 遊ぼう ✅ | |
+| 7 | 帰る | 帰れる ✅ | 帰ろう ✅ | |
+| 8 | 見る (ichidan) | みれる → 見られる | みもう → 見よう | Used godan rules; ichidan has fixed endings: られる / よう |
+| 9 | 食べる (ichidan) | 食べられる ✅ | 食べよう ✅ | |
+| 10 | する | できる (provided) | しよう ✅ | Noted: できる = potential of する |
+| 10b | 来る | 来られる (provided) | 来よう (provided) | Irregulars — memorize |
+
+#### Key rules for potential/volitional
+- **Godan potential**: え-row + **る** → becomes ichidan verb (飲める → 飲めます/飲めない/飲めた)
+- **Godan volitional**: お-row + **う** (no る!)
+- **Ichidan potential**: drop る + **られる** (食べられる)
+- **Ichidan volitional**: drop る + **よう** (食べよう)
+- **する potential = できる** (irregular, important)
+- **する volitional = しよう**
+- **来る potential = 来られる (こられる)**
+- **来る volitional = 来よう (こよう)**
+- **ら抜き言葉** note: casual speech drops ら (見れる), technically incorrect
+- **Casual volitional お+う = polite ましょう** (飲もう = 飲みましょう)
+
+#### What went well
+- **Godan 8-cell grids — 70% perfect first try**
+- **く/ぐ voiced distinction — locked** (書いた vs 泳いだ)
+- **う-verb negative わ — still solid**
+- **Ichidan + irregulars — perfect** (always reliable)
+- **Memory of つ/る/う rule** — nasi recalled it unprompted
+- **Volitional preview — mostly correct** (7/10 godan + 食べる correct first try)
+- **Self-initiated verb questions** — good metacognition
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Plain past: て-form in past slot (送って, かって) | Past = swap て→た / で→だ | ⚠️ recurring (last one to lock!) |
+| Polite slot confusion (飲みませんでした for past affirm) | Past affirm = 〜ました, past neg = 〜ませんでした | New |
+| 話す volitional column shift (む instead of さ) | Keep same consonant column per verb | New |
+| Ichidan potential (見れる) | Ichidan uses drop る + **られる**, not え+る | New |
+| Ichidan volitional (見もう) | Ichidan uses drop る + **よう**, not お+う | New |
+| Volitional adding る (のもうる) | Volitional = お+う only, no る | New |
+
+#### Open items
+- **Plain past from te-form swap** — last lingering error, needs more reps
+- **Potential/volitional fluency** — preview introduced, needs polite forms drilled next
+- **Ichidan vs godan distinction for potential/volitional** — new distinction to lock
+- **できる** — recognize as する's potential
+- **L14 consolidation Round 3** — deferred to make room for verb drill
+- **L15 PDF** — available, pending L14 mastery
+- きのこ — carried over
+
+---
+
+### 2026-04-12 — Potential/Volitional Polite Forms + 12-form Grid Drill + Irregular Review
+
+#### Round 0: Plain past warm-up (っ-ending verbs) — 4/5
+
+- 送る → 送った ✅
+- 買う → 買った ✅
+- 待つ → 待って ❌ → 待った ✅ (retry)
+- 帰る → 帰った ✅
+
+#### Round 1: Potential + Volitional (plain AND polite) — 7/10 perfect
+
+| # | Verb | Score | Miss |
+|---|------|-------|------|
+| 1 | 飲む | 3/4 | Volitional polite: のもういましょう→飲みましょう (い-row+ましょう, not お-row) |
+| 2 | 書く | 4/4 ✅ | |
+| 3 | 話す | 4/4 ✅ | |
+| 4 | 帰る | 4/4 ✅ | |
+| 5 | 遊ぶ | 4/4 ✅ | |
+| 6 | 泳ぐ | 4/4 ✅ | |
+| 7 | 待つ | 4/4 ✅ | |
+| 8 | 食べる | 4/4 ✅ | |
+| 9 | 見る | 2/4 | 見える→見られる (見える = intransitive "visible", different verb!) |
+| 10 | する | 2/4 | しえ→できる, しょう→しよう |
+
+#### Round 2: Full 12-form Grid — 4 perfect / 10
+
+| # | Verb | Score | Miss |
+|---|------|-------|------|
+| 1 | 泳ぐ | 11/12 | Polite past: ぎでした→ぎました (verbs use ました, not でした) |
+| 2 | 使う | 10/12 | Negative: つかいない→つかわない (×2) |
+| 3 | 来る | 10/12 | Potential: くれる→こられる (くれる = give!), Volitional: くろう→こよう |
+| 4 | する | 10/12 | Volitional: しょ→しよう, しょます→しましょう |
+| 5 | 見る | **12/12** ✅ | — (見られる correct this time!) |
+| 6 | 待つ | 11/12 | Potential: 待て→待てる (need る!) |
+| 7 | 送る | 9/12 | Potential/volitional: dropped く from stem (おける→おくれる) |
+| 8 | 食べる | **12/12** ✅ | — |
+| 9 | 買う | **12/12** ✅ | — |
+| 10 | 話す | **12/12** ✅ | — |
+
+#### Round 3: Irregular Focus — Explicit Teaching
+
+**する full chart taught.** Key: potential is **できる** (not row shift), volitional is **しよう** (し+よう, 3 mora, not しょ).
+
+**来る full chart taught.** Reading pattern clarified:
+- **く** = dictionary only (くる)
+- **き** = ます-stem forms (きます, きた, きて, きましょう)
+- **こ** = negatives + potential + volitional plain (こない, こなかった, こられる, こよう)
+
+Re-tested after teaching:
+- する: **12/12** ✅ (perfect grid on retry!)
+- 来る: 11/12 → fixed こよう on 3rd try
+
+#### Round 4: 12-form Recap Drill — 6 perfect / 10
+
+| # | Verb | Score |
+|---|------|-------|
+| 1 | する | **12/12** ✅ |
+| 2 | 来る | 11/12 (こよう→fixed) |
+| 3 | 食べる | 11/12 (Polite past negative: 食べません→食べませんでした slot slip) |
+| 4 | 飲む | **12/12** ✅ |
+| 5 | 書く | 11/12 (Volitional polite: かい→かき, い-row not て-form stem) |
+| 6 | 泳ぐ | **12/12** ✅ |
+| 7 | 話す | **12/12** ✅ |
+| 8 | 待つ | **12/12** ✅ |
+| 9 | 買う | **12/12** ✅ |
+| 10 | 使う | 11/12 (Plain past: つかって→つかった) |
+
+#### What went well
+- **する 12/12** — locked できる and しよう
+- **買う AND 使う: わない correct** — both う-verbs producing the わ exception
+- **Godan potential/volitional** — all standard godan verbs (飲む/書く/泳ぐ/話す/待つ/帰る/遊ぶ) scored 4/4 in Round 1
+- **待った not 待って** — plain past fixed on retry
+- **見られる not 見える** — ichidan potential ra-form correct in Round 2
+- **泳いだ not いた** — consistent across 2 rounds
+- **Massive progress**: 4 perfect grids in Round 2, 6 perfect grids in Round 4
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Plain past slip (って→った) | Past = te-form swap, specifically hard for 待つ/送る/買う/使う | ⚠️ recurring (fewer misses) |
+| Polite volitional: て-form stem instead of い-row (かい→かき) | Polite volitional = い-row + ましょう (書き**ましょう**, not 書い**ましょう**) | New |
+| Polite past vs past negative slot swap | Past = ました, past neg = ませんでした | ⚠️ recurring |
+| 来る potential: これる vs 来られる | Keep ら: 来**られる** (ら-drop is casual but incorrect) | ⚠️ recurring |
+| 来る volitional plain こ vs き | Volitional plain = **こよう** (not きよう) | ⚠️ recurring |
+| 送る potential/volitional: dropped く from stem | Stem = おく (all consonants before る), not お | New |
+| する volitional: しょ vs しよう | し + よう (3 mora), not しょ (1 mora) | New |
+| 見える vs 見られる | 見える = visible (intransitive), 見られる = can see (potential) | New |
+| 飲む volitional polite: のもういましょう | Polite volitional uses い-row + ましょう, NOT お-row form | New |
+
+#### Open items — PRIORITY
+- **Irregular verbs (する/来る) — not yet fluent**: need more drilling even though perfect grid achieved
+- **来る readings** (く/き/こ distribution) — keep drilling until automatic
+- **Polite volitional stem** — い-row + ましょう, not て-form or お-row
+- **Plain past っ-verbs** — micro-error pattern still lingering
+- **L14 consolidation Round 3** — deferred
+- **L15 PDF** — still pending
+- きのこ — carried over
+
+---
+
+*Next session: IRREGULAR DRILLS (する + 来る full 12-form grids) + quick godan/ichidan mixed review. Continue until irregulars automatic. Then L14 consolidation Round 3.*
