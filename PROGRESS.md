@@ -1755,4 +1755,105 @@ Re-tested after teaching:
 
 ---
 
-*Next session: IRREGULAR DRILLS (する + 来る full 12-form grids) + quick godan/ichidan mixed review. Continue until irregulars automatic. Then L14 consolidation Round 3.*
+### 2026-04-14 — Verb Drill (吹く, 払う) + 空く Exploration
+
+#### Round 1: 吹く 12-form — 9/12
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | 吹く | ✅ |
+| Plain negative | 吹かない | ✅ |
+| Plain past | 吹いて | ❌ → 吹いた (te-form in past slot again) |
+| Plain past negative | ふくなかった | ❌ → 吹かなかった (built from dict form, not 吹か stem) |
+| Polite affirmative | 吹きます | ✅ |
+| Polite negative | 吹きません | ✅ |
+| Polite past | 吹きました | ✅ |
+| Polite past negative | 吹きませんでした | ✅ |
+| Potential plain | ふけれ | ❌ → 吹ける (missing る, same as 待て→待てる error) |
+| Potential polite | ふけます | ✅ |
+| Volitional plain | 吹こう | ✅ |
+| Volitional polite | 吹きましょう | ✅ |
+
+#### Round 2: 払う 12-form — 11/12 (first clean う-verb grid!)
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | はらう | ✅ |
+| Plain negative | はらわない | ✅ (う→わ no hesitation) |
+| Plain past | 払った | ✅ (plain past correct first try!) |
+| Plain past negative | 払わなかった | ✅ |
+| Polite affirmative | はらいます | ✅ |
+| Polite negative | 払いません | ✅ |
+| Polite past | 払いました | ✅ |
+| Polite past negative | 払いませんでした | ✅ |
+| Potential plain | 払える | ✅ |
+| Potential polite | 払えます | ✅ |
+| Volitional plain | はらおう | ✅ |
+| Volitional polite | 払いましょおう | ❌ (typo: extra お — should be 払いましょう) |
+
+**First う-verb with no negative error AND no plain past error in the same grid.**
+
+#### Vocab exploration: 空く（あく）
+Nasi asked about 空いています. Taught:
+- 空く = godan く-verb (to become empty/vacant/free)
+- 空いています = state form ("is currently empty/available")
+- Connection to 開く/開いています pattern
+- Already-known usage: お腹が空いています (stomach is empty = hungry)
+
+---
+
+### 2026-04-15 — Irregular Verb Lockdown + L14 Consolidation Round 3
+
+#### Round 0: Irregular Verbs (する/来る/行く) — 3 perfect grids in a row
+
+| # | Verb | Score | Notes |
+|---|------|-------|-------|
+| 1 | する | **12/12** ✅ | できる + しよう automatic, first try |
+| 2 | 来る | **12/12** ✅ | All readings correct (く/こ/き), こよう + こられる correct. Noted 30s pause on potential — slow but correct |
+| 3 | 行く | **12/12** ✅ | 行った (irregular past) correct, everything else normal く-verb pattern |
+
+**Irregulars officially locked.** する, 来る, 行く all produced clean first try with no hints.
+
+#### Round 1: L14 Consolidation (Round 3) — 2/7 clean, 4 very close
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Cough + hospital, leave early | 🟡 | ひどいん→ひどくて (くて for linking 2 reasons), double connector |
+| 2 | Pick up child, leave early | 🟡 | 子供から→子供を, 学校で→学校に |
+| 3 | Break (coworker) | ✅ | ちょっと休憩してもいいですか |
+| 4 | Friends Monday, day off | ✅ | **Full sequence perfect** — natural production |
+| 5 | Train stopped, late | 🟡 | Only error: ちょって→ちょっと (typo) |
+| 6 | Errand, leave at 3 | 🟡 | あります→あるんですが (flow), 三時→三時に (time particle) |
+| 7 | Step out for call | 🟡 | Missing permission structure (てもいいですか) — just stated actions |
+
+#### What went well
+- **ALL IRREGULAR VERBS LOCKED** — する/来る/行く 12/12 × 3
+- **Friends Monday day off** — full L14 sequence produced naturally (Round 1 #4)
+- **Coworker permission form (ですか)** — correct reflex
+- **Nで for cause** — 事故で (Round 1 #5)
+- **past tense correct** — 止まりました
+- **Structure of んですが** — used in most attempts
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| くて for linking reasons | Linking 2 reasons uses くて (い-adj) / で (な-adj/noun) / て-form (verb) | ⚠️ recurring |
+| 子供**を** 学校**に** 迎えに行く | を = object (who), に = destination | New |
+| 三時**に** for specific time | に marks specific clock time | ⚠️ recurring |
+| あります vs あるんですが | Keep flow with んですが instead of splitting sentences | ⚠️ recurring |
+| Missing てもいいですか for permission | Just stating action ≠ asking permission | ⚠️ recurring |
+| Double connector (んですが + それで) | Pick one, not both | ⚠️ recurring (5th session) |
+
+#### Open items
+- **L14 consolidation** — pattern selection clicking, assembly still needs work
+- **Particles in compound phrases** (迎えに行く = 子供を 学校に) — new weakness
+- **Permission-asking reflex** — must end in てもいい(です/でしょう)か
+- **Typos** (ちょって, ましょおう) — minor
+- **L15 PDF** — still pending, getting closer
+- きのこ — carried over
+- **With irregulars locked, verb drilling priority drops. Focus shifts back to L14 assembly/roleplay.**
+
+---
+
+*Next session: L14 consolidation Round 4 (focus on full sequence + particles) · if 5/7+ clean, move to L15*
