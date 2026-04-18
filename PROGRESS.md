@@ -1098,4 +1098,72 @@ Nasi asked about 空いています. Taught:
 
 ---
 
-*Next session: L14 consolidation Round 5 (same error patterns: で duration, んですが comma flow, を for objects, permission reflex, お before own actions). Target: 5/7+ clean → L15.*
+### 2026-04-18 — Mini-drill + L14 Consolidation Round 5
+
+#### Mini-drill: Targeted error patterns
+
+**Round A: で vs に (duration vs time point) — 6/6 ✅**
+
+All correct. で for duration fully locked.
+
+**Round B: を vs が (object particle) — 3/5**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 財布___忘れました | 🟡 | 財布**を**お忘れました → お before own actions never |
+| 2 | パソコン___家に忘れました | ❌ | パソコン**が** → **を** (が reflex on 忘れる) |
+| 3 | 鍵___なくしました | ❌ | 鍵**が** → **を** (same reflex on なくす) |
+| 4 | 書類___持ってきました | ✅ | |
+| 5 | カバン___電車に忘れました | ✅ | |
+
+**Round C: んですが flow — 3/5**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 熱→早退 (boss) | ✅ | |
+| 2 | 財布忘れ→取りに帰る (boss) | ✅ | |
+| 3 | 用事→三時早退 (boss) | 🟡 | も dropped → して**も**いいでしょうか |
+| 4 | 道混み→遅刻 (boss) | 🟡 | 少**し** dropped |
+| 5 | 病院なければ→今日休み (boss) | 🟡 | 病院**に** dropped, 休み**て**→休**んで** (む-verb) |
+
+New error: む-verb て-form — 休む → 休**んで** (not 休みて)
+
+#### L14 Consolidation Round 5 — 5/7 ✅ TARGET REACHED
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 結婚式→金曜休み (boss) | ✅ | |
+| 2 | 子供が学校で熱→迎えに行く (boss) | ✅ (3rd try) | 子供**に**熱がある — took 3 attempts |
+| 3 | 財布忘れ→取りに帰る、5分 (coworker) | ✅ | を, で, ですか all correct |
+| 4 | お腹痛い→病院→午後休み (boss) | ✅ (2nd try) | なければならない + 休んで |
+| 5 | 外で電話→5分 (coworker) | 🟡 | Wrong permission content (戻るて→出て); 戻って te-form |
+| 6 | 来週家族用事→月曜休み (boss) | ✅ | |
+| 7 | 電車止まり→30分遅れる (boss, report) | ✅ | それで used correctly |
+
+#### What went well
+- **5/7 target reached** — L14 consolidation complete
+- **で for duration** — 6/6 in mini-drill, appearing in sentences naturally
+- **んですが + でしょうか** — consistent across most attempts
+- **を for objects** — clicking when not under pressure (財布を, 書類を)
+- **それで** — used correctly for report (two full sentences)
+- **Full sequence** — #1, #3, #4, #6 all clean
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| お before own action | お is honorific for others only — never for your own action | ⚠️ recurring |
+| が reflex on 忘れる/なくす | These take を — you're doing it to the object | ⚠️ recurring |
+| 子供に熱がある | に marks the person with the condition | ⚠️ recurring (took 3 tries) |
+| 休みて → 休んで | む-verb て-form: む → んで | New |
+| Permission content (#5) | Stepping out = 外に出てもいいですか, not asking to return | New |
+
+#### Open items
+- 子供に熱がある — に still fragile under pressure
+- む-verb て-form reflex (休んで, 飲んで vs 休みて)
+- お before own actions
+- Permission content: ask for the action you want to DO, not what happens after
+
+---
+
+*Next session: L15 intro — read Y_L15.pdf, give summary, start vocab recognition.*
