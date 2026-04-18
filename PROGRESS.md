@@ -1856,4 +1856,70 @@ Nasi asked about 空いています. Taught:
 
 ---
 
-*Next session: L14 consolidation Round 4 (focus on full sequence + particles) · if 5/7+ clean, move to L15*
+### 2026-04-16 — L14 Consolidation Round 4
+
+**Target:** 5/7 clean to advance to L15. **Result: 1/7 clean.**
+
+| # | Prompt | Nasi's answer | Result | Corrections |
+|---|--------|---------------|--------|-------------|
+| 1 | Hospital, be late | 病院に行か**なれば**ならないんですが、遅刻してもいいでしょうか | ❌ | なれば→**なければ** (full 8-char: な-け-れ-ば) |
+| 2 | Convenience store, 5-min errand | コンビニに飲み物を買って来てもいいですか？五分**戻ります** | ❌ | 五分**で**戻ります (で = timeframe) |
+| 3 | Child has fever, take day off | 子供**は**熱があるんですが、休みを取ってもいいでしょうか | ❌ | 子供**に**熱がある (に = person with fever) |
+| 4 | Road congested, will be late | 道が混んでいて、動かないんですが**。遅刻します** | ❌ | んですが ends the sentence with comma, then state request — don't restart with new sentence + no permission structure |
+| 5 | Smoke outside, 10 min | 外でタバコを**行って**吸ってもいいですか？十分**に**戻ります | ❌ | 吸って**来て**もいいですか (moving away from base = 来る), 十分**で**戻ります |
+| 6 | City hall errand, leave early | 役所に書類を取りに行かなければならないんですが、早退してもいいでしょうか | ✅ | Perfect |
+| 7 | Forgot laptop, go get it | パソコン**が**家に**お忘れました**、取りに帰ってもいいでしょうか | ❌ | パソコン**を**家に**忘れた**んですが (を = object; no お before own actions; んですが not ました,) |
+
+**Score: 1/7 clean**
+
+#### Recurring error patterns this session
+
+| Error | Rule |
+|---|---|
+| なれば → **なければ** | Full pattern: な-**け**-れ-ば — don't drop け |
+| 五分**に** → 五分**で** | で = duration/timeframe; に = specific clock time |
+| 子供**は** → 子供**に** | に marks the person who has a condition (熱がある) |
+| んですが**。新文** | んですが ends with comma, flows into the request — not a sentence break |
+| 行って来て direction | Moving away from base → 来る (不自然: 行って行く) |
+| パソコン**が** → **を** | パソコン is direct object of 忘れる → を |
+| **お**忘れました | お is honorific for others' actions, not your own |
+| Double connector (5th session) | んですが OR それで — never both |
+
+#### What went well
+- **#6 perfect** — full sequence with なければならない + んですが + permission, first try
+- **なければ** spelling — correct in #1 except で missing け
+- **Permission reflex** — てもいいでしょうか appearing consistently
+
+#### Open items
+- で for duration — still triggering に reflex
+- んですが flow (comma, not period) — still splitting sentences
+- を for objects in compound phrases
+- お before own actions — new error
+- L14 target: 5/7 clean before L15
+
+---
+
+### 2026-04-18 — Warm-up: する 12-form (partial)
+
+**Context:** Session warm-up before L14 Round 5. Nasi provided 8 of 12 する forms without prompting; polite-basic 4 (します/しません/しました/しませんでした) were missing.
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | する | ✅ |
+| Plain negative | しない | ✅ |
+| Plain past | した | ✅ |
+| Plain past negative | しなかった | ✅ |
+| Polite affirmative | — | ❌ (missing) |
+| Polite negative | — | ❌ (missing) |
+| Polite past | — | ❌ (missing) |
+| Polite past negative | — | ❌ (missing) |
+| Potential plain | できる | ✅ |
+| Potential polite | できます | ✅ |
+| Volitional plain | しよう | ✅ |
+| Volitional polite | しましょう | ✅ |
+
+**Score: 8/12** — plain + potential + volitional all solid; polite-basic row not produced. Session cut short.
+
+---
+
+*Next session: L14 consolidation Round 5 (same error patterns: で duration, んですが comma flow, を for objects, permission reflex, お before own actions). Target: 5/7+ clean → L15.*
