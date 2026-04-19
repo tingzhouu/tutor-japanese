@@ -1166,4 +1166,117 @@ New error: む-verb て-form — 休む → 休**んで** (not 休みて)
 
 ---
 
-*Next session: L15 intro — read Y_L15.pdf, give summary, start vocab recognition.*
+---
+
+### 2026-04-19 — L15 Grammar Intro (patterns 1–5, no roleplay)
+
+#### Vocab recognition — Round 1
+
+**Symptoms (10 words): 10/10 ✅**
+**Hospital/medicine vocab (9 words): 8/9**
+
+| Word | Result | Note |
+|------|--------|------|
+| 内科 | 🟡 | Said "specialist" → internal medicine department |
+| お大事に | 🟡 | Said "big thing" → set phrase: take care / get well soon |
+| 整形外科 | ✅ (clarification) | User asked if it appeared — yes, on hospital map. Not 整形 = plastic surgery, it's orthopedics |
+
+#### Grammar pattern drill
+
+**Pattern 1: んです expanded**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんです (N) | 🟡 | Wrote 風んですが → needs **な** before んです for nouns |
+| 学生なんです | ✅ | |
+| 休みなんです | ✅ | |
+| 頭が痛いんです (い-adj) | ✅ | |
+| 熱が高いんです | ✅ | |
+| 毎日薬を飲むんです (V-dict) | 🟡 | Wrote 毎日を飲んです — を on wrong word, dropped む |
+| 病院に行くんです | ✅ | |
+| 昨日転んだんです (V-past) | ✅ | |
+| 薬を飲まないんです (V-neg) | 🟡 | 飲みないんです → ない-form needs あ-row base: 飲ま**ない** |
+| 食欲がないんです | ✅ | |
+
+**Pattern 2: ないでください**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 写真を撮らないでください | 🟡 | Wrote 撮って → wrong direction (て not ない) |
+| 食べないでください | 🟡 | 食べな**でください** → dropped い from ない |
+| 走らないでください | ✅ | Added ここで自己追加 |
+| 薬を飲まないでください (read) | ✅ | |
+| 一人で動かないでください (read) | ✅ | |
+
+**Pattern 3: V(plain)+N**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲む薬 (read) | ✅ | |
+| 貼る薬 (read) | 🟡 | Said "medicine prescribed" → medicine you stick on / patch |
+| 塗る薬 (read) | ✅ | |
+| 英語を話す先生 (produce) | 🟡 | Used 英語のできる先生 (の construction — valid but not target pattern) |
+| 八時に開く病院 | ✅ | |
+| 食事の前に飲む薬 | 🟡 | Several attempts; added 食べ at front, missing を |
+
+**Pattern 4: V-る前に / V-たあとで**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 病院に行く前に | 🟡 | Wrote 病院の前に行く → reversed order; 病院の前に = in front of the hospital |
+| 食べたあとで | 🟡 | Wrote 食べる後で → needs past form (た) |
+| 薬を飲む前に | 🟡 | Wrote 飲む前に薬 → missing を, wrong word order |
+| 診察したあとで、薬局に行ってください | 🟡 | Wrote しんさつの後で → する verb needed |
+| 寝る前に、薬を飲んでください | ✅ | |
+| 手を洗ったあとで、食べてください | 🟡 | Wrote 洗った、食べてください → missing **あとで** |
+
+**Pattern 5: とき**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 頭が痛いとき (read) | ✅ | |
+| 眠れないとき (read) | 🟡 | Said "when sleepy" → 眠れない = can't sleep; どうしますか = what do you do |
+| 熱があるとき、休んでください | 🟡 | 熱があるいとき → spurious い added |
+| 病院に行ったとき、人が多かった | ✅ | |
+| 食欲がないとき、医者に伝えてください | ✅ | |
+
+**Mixed drill — 6/7**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 頭が痛い。___病院に行きました | ✅ | それで correct |
+| 2 | 薬を___前に、食事をしてください | 🟡 | 飲んで前に → dictionary form needed: 飲む前に |
+| 3 | ここで写真を___ください | 🟡 | 撮って → 撮らないでください |
+| 4 | せきが出る___、この薬を飲んでください | ✅ | とき |
+| 5 | 昨日転んで、足が痛い___ | 🟡 | 転ぶで → 転んで (ぶ→んで te-form) |
+| 6 | 病院で診察___あとで | ✅ | したあとで |
+| 7 | 毎朝この薬を___んです | 🟡 | 飲んです → 飲む**んです** |
+
+#### What went well
+- Symptom vocab — 10/10 clean
+- んです: い-adj and V-past forms solid
+- とき: past and negative forms understood
+- Mixed drill: それで and したあとで recalled correctly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| N/な-adj + なんです | Nouns need **な** before んです | New (N pattern) |
+| ない-form base | 飲む → 飲ま**ない** (あ-row base, not masu-stem) | ⚠️ recurring |
+| ないでください: dropped い | ない stays whole + でください | New |
+| V+N word order | Verb directly before noun (no particles between) | Fragile |
+| 前に needs dictionary form | Not て-form, not past | ⚠️ recurring |
+| たあとで needs past form | 食べる後で → 食べた**あとで** | New |
+| とき: spurious い added | 熱があるいとき → 熱があるとき | New |
+| ぶ-verb て-form | 転ぶ → 転ん**で** | ⚠️ recurring (same family as む-verbs) |
+
+#### Open items
+- **All 5 L15 grammar patterns need another round** — no roleplay yet
+- Priority errors: なんです (N form), ないでください (い dropped), 前に/たあとで forms, ぶ/む て-form
+- Vocab gaps: 内科, お大事に, 塗る/貼る distinction
+- No roleplay this session — do doctor/patient scenario next session
+
+---
+
+*Next session: L15 pattern re-drill (focus on N+なんです, ないでください, 前に/たあとで, とき) → then doctor roleplay if patterns are solid.*
