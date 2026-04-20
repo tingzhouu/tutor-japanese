@@ -1279,4 +1279,76 @@ New error: む-verb て-form — 休む → 休**んで** (not 休みて)
 
 ---
 
-*Next session: L15 pattern re-drill (focus on N+なんです, ないでください, 前に/たあとで, とき) → then doctor roleplay if patterns are solid.*
+---
+
+### 2026-04-20 — L15 Pattern Re-drill (short session)
+
+#### んです (N form)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんです | ✅ | |
+| 休みなんです | 🟡 | 休んです → missing な and み |
+| 学生なんです | ✅ | |
+| 頭痛なんです | ✅ | |
+| 薬を飲まないんです (neg) | ✅ | |
+| 食べないんです (neg) | 🟡 | 食べらないんです → ichidan: drop る, add ない (no ら) |
+| 行かないんです (neg) | ✅ | |
+
+#### ないでください
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 走らないでください | ✅ | (self-corrected) |
+| 飲まないでください | ✅ | |
+| 触らないでください | ✅ | |
+| 起きないでください | ✅ | |
+| 心配しないでください | ✅ | |
+
+**5/5 ✅**
+
+#### 前に / たあとで
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 寝る前に | ✅ | |
+| 起きたあとで | 🟡 | おきにあとで → 起きた + あとで |
+| 食べる前に | ✅ | |
+| 薬を飲んだあとで | ✅ | |
+| 病院に行く前に | ✅ | (self-corrected) |
+| 診察したあとで | 🟡 | 医者を診察した → を wrong (医者 is not the object of 診察) |
+| 手を洗う前に | ✅ | |
+
+#### とき
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 熱があるとき (read) | ✅ | |
+| 眠れないとき (read) | ✅ | |
+| お腹が痛いとき、休んでください | ✅ | |
+| 病院に行ったとき、待ち時間が長かった | ✅ | |
+
+**4/4 ✅**
+
+#### What went well
+- ないでください — 5/5 clean, pattern solid
+- とき — 4/4 clean
+- 前に/たあとで — mostly solid, one particle error
+- んです: N form improving (3/4), neg form mostly solid
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 休みなんです — dropped み and な | Noun stays whole + な + んです | ⚠️ recurring |
+| 食べらない — spurious ら | Ichidan: drop る only → 食べない | ⚠️ recurring |
+| 医者を診察した | 医者 is not the object of 診察; use 診察したあとで | New |
+
+#### Open items
+- Doctor/patient roleplay — next session
+- んです N form: 休み pattern still slipping
+- Ichidan negative: no ら
+
+---
+
+*Next session: L15 doctor/patient roleplay — patterns are ready.*
