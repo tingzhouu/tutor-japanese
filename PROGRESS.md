@@ -1351,4 +1351,99 @@ New error: む-verb て-form — 休む → 休**んで** (not 休みて)
 
 ---
 
-*Next session: L15 doctor/patient roleplay — patterns are ready.*
+---
+
+### 2026-04-21 — L15 Roleplay + Pattern drill + Vocab
+
+#### Doctor/patient roleplay — Round 1
+
+Scenario: stomach pain + fever, one week
+
+| Turn | Result | Note |
+|------|--------|------|
+| どうされましたか | ✅ | お腹が痛くて、熱があります |
+| 保険証はお持ちですか | ✅ | はい、どうぞ |
+| いつからですか | 🟡 | いちしゅうかんからです → 一週間**前**からです |
+| 他に症状はありますか | ✅ | 他に症状はありません (self-corrected) |
+| 食欲はありますか | 🟡 | 食欲はちょっとありません → 食欲が**あまり**ありません (は sounds like contrast) |
+| アレルギーはありますか | ✅ | ペニシリンです |
+| Doctor instructions (ないでください) | ✅ | Understood辛い/冷たい食べ物 restriction |
+| 酸っぱい食べ物はいいですか | ✅ | Natural curveball in character |
+| 運動はどうですか | ✅ | Natural follow-up in character |
+
+Overall: natural flow, good instincts on curveballs
+
+#### んです N form + ichidan negative drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 休みなんです | ✅ | (was recurring error — now clean) |
+| 頭痛なんです | ✅ | |
+| 私用なんです | 🟡 | しょうなんです → 私用 = しよう (two chars), needs な |
+| 用事なんです | ✅ | |
+| 食べない (ichidan) | ✅ | |
+| 見ない | ✅ | |
+| 起きない | ✅ | |
+| 起きないんです | 🟡 | 起きなんです → ない stays whole (起きない + んです) |
+| 食べないんです | ✅ | |
+| 見ないんです | ✅ | |
+| 飲まないんです (godan) | ✅ | |
+| 行かないんです | ✅ | |
+| 話さないんです | ✅ | |
+
+#### Sentences in context
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんですが、来ないでください | 🟡 | 風があるんですが → 風邪なんですが (noun needs な; 風≠風邪) |
+| 食欲がないんですが、無理に食べないでください | ✅ | が added correctly |
+| 薬を飲まないんですが、処方しないでください | ✅ | |
+| 用事なんですが、三時以降電話しないでください | ✅ | |
+
+#### Vocab — Round 2
+
+| Word | Result |
+|------|--------|
+| 吐き気がする | ✅ |
+| 鼻水が出る | ✅ |
+| 足をくじいた | 🟡 | Said "sprain leg" → sprained ankle (くじく = to sprain specifically) |
+| 処方箋 | ✅ |
+| 内科 | ✅ |
+| 保険証 | ✅ |
+| 塗る薬 | ✅ |
+| 貼る薬 | ✅ |
+| 症状 | ✅ |
+| 食欲がない | ✅ |
+| 目がかゆい | ✅ |
+| なるべく | 🟡 | Unknown → as much as possible |
+| 避ける | 🟡 | Needed prompt → to avoid |
+| お大事に | ✅ |
+| どうされましたか | 🟡 | Said "how are you" → "what's the matter / what brings you in" |
+
+#### What went well
+- Roleplay flow natural — asked good curveball questions
+- ないでください in context ✅
+- Godan negatives solid
+- Vocab: most hospital/medicine words clicking
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| いちしゅうかんから → 一週間前から | Duration from = 〜前から | New |
+| 食欲はちょっと → 食欲があまり | は for contrast; が for neutral subject | ⚠️ recurring (は/が) |
+| 私用 reading | しよう not しょう | Vocab |
+| 起きなんです | ない stays whole: 起きない + んです | ⚠️ recurring |
+| 風 vs 風邪 | 風 = wind; 風邪 = cold | Vocab confusion |
+| なるべく、避ける | Unknown vocab | New words to add to Anki |
+| どうされましたか | "what's the matter" not "how are you" | Vocab/phrase |
+
+#### Open items
+- Second roleplay round with different symptoms (next session)
+- なるべく、避ける — add to Anki
+- 一週間前から — duration pattern
+- は vs が still slipping under natural speech
+
+---
+
+*Next session: L15 roleplay round 2 (different symptoms) → consolidation drill if needed.*
