@@ -1446,4 +1446,78 @@ Overall: natural flow, good instincts on curveballs
 
 ---
 
-*Next session: L15 roleplay round 2 (different symptoms) → consolidation drill if needed.*
+---
+
+### 2026-04-22 — L15 Roleplay Round 2 + Vocab drill
+
+#### Roleplay — influenza scenario
+
+Patient presented with: 熱38.5度（昨日の夜から）、せきが出る、だるい → diagnosed with インフルエンザ
+
+| Turn | Result | Note |
+|------|--------|------|
+| Opening symptom | ✅ | 昨日の夜から、熱が三十八度五分あるんです — natural, excellent |
+| 他に症状はありますか | ✅ | ないです |
+| のどは痛いですか | ✅ | いいえ |
+| せきはありますか | ✅ | 咳が出ます |
+| だるいですか | ✅ | はい、だるいです |
+| Doctor instructions (ないでください、あとで) | ✅ | Understood |
+
+No errors — cleanest roleplay yet.
+
+#### Vocab drill — Round 3
+
+| Word | Result | Note |
+|------|--------|------|
+| だるい | 🟡 | Unknown → sluggish/lethargic when sick |
+| なるべく | 🟡 | Unknown → as much as possible |
+| 避ける | ✅ | |
+| 胃腸炎 | 🟡 | Said appendicitis → gastroenteritis; appendicitis = 盲腸 |
+| 診察 | ✅ | |
+| 処方箋 | ✅ | |
+| 問診票 | 🟡 | Unknown → medical questionnaire (reception form) |
+| 受付 | ✅ | |
+| 記入する | 🟡 | Said "to record" → to fill in/fill out a form |
+| 保険証 | ✅ | |
+| 内科 | ✅ | |
+| 整形外科 | 🟡 | Said plastic surgery → orthopedics (美容外科 = plastic surgery) |
+| 薬局 | ✅ | |
+| レントゲン | ✅ | |
+| 頭をぶつけた | ✅ | |
+| 足をくじいた | ✅ | |
+| 吐き気がする | ✅ | |
+| 目がかゆい | ✅ | |
+| 食欲がない | ✅ | |
+| 鼻水が出る | ✅ | |
+| せきが出る | ✅ | |
+| 熱が下がる | ✅ | |
+| お大事に | ✅ | |
+| どうされましたか | ✅ | |
+
+**19/24** — gaps: だるい, なるべく, 胃腸炎, 問診票, 記入する, 整形外科
+
+#### What went well
+- Roleplay — no errors, natural opener with 三十八度五分
+- Vocab: symptom words all solid
+- Hospital flow (reception → exam → prescription) — natural
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| だるい | Unknown → sluggish/lethargic; い-adj | New vocab |
+| なるべく | Unknown → as much as possible | ⚠️ recurring gap |
+| 胃腸炎 vs 盲腸 | 胃腸炎 = gastroenteritis; 盲腸 = appendicitis | Vocab |
+| 問診票 | Medical questionnaire at reception | ⚠️ recurring gap |
+| 記入する | To fill in a form (not just "record") | Vocab |
+| 整形外科 | Orthopedics, not plastic surgery | ⚠️ recurring |
+
+#### Open items
+- Add to Anki: だるい, なるべく, 問診票, 記入する
+- 整形外科 vs 美容外科 — keep drilling
+- V+N pattern (食事の前に飲む薬 etc.) — not drilled this session
+- L15 consolidation drill or move to L16?
+
+---
+
+*Next session: V+N pattern drill → L15 consolidation or L16 intro depending on readiness.*
