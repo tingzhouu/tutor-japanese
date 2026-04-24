@@ -1520,4 +1520,60 @@ No errors — cleanest roleplay yet.
 
 ---
 
-*Next session: V+N pattern drill → L15 consolidation or L16 intro depending on readiness.*
+---
+
+### 2026-04-24 — L15 V+N drill + Production drill
+
+#### V+N pattern drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| せきを抑える薬 (read) | ✅ | |
+| 熱を下げる薬 (read) | ✅ | |
+| 塗る薬 (produce) | 🟡 | める薬 → 塗る stays as dictionary form |
+| 日本語ができる医者 | 🟡 | Missing が: 日本語**が**できる |
+| 早く開く病院 | ✅ | |
+| 一日三回飲む薬 | 🟡 | Added を before 飲む → frequency adverb needs no particle |
+| 信頼できる医者 | 🟡 | Added が → 信頼できる is compound, no が |
+| 病院の近くの薬局 | 🟡 | 近くに病院薬局 → N+の+N construction; word order off |
+
+#### Production drill (full sentences)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 朝から頭が痛いんですが | ✅ | Natural, correct |
+| 食欲がなくて、吐き気がするんですが | 🟡 | 食欲があって → ない (no appetite); ない→なくて |
+| 昨日走って、足首をくじきました | ✅ | |
+| 熱が三十九度あって、だるいんですが、早退してもいいでしょうか | 🟡 | Double が (熱が〜があって); 早い帰って → 早退して |
+| ひどい咳が出て、眠れないんですが | 🟡 | すごい咳 → すごく/ひどい; 寝ない → 眠れない |
+| 家に薬を忘れたんですが、取りに帰ってもいいですか | 🟡 | 行って来て → 取りに帰る not recalled |
+| 三時に歯医者があるんですが、早退してもいいでしょうか | ✅ | Clean |
+
+#### What went well
+- 前に/たあとで + とき patterns not needed — already solid
+- Full sequence sentences: opening and closing structure correct
+- 歯医者があるんですが — produced independently and cleanly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 塗る before noun — verb form | Dictionary form directly before noun | ⚠️ recurring |
+| 日本語ができる — missing が | ができる needs が | New |
+| Frequency adverb + 飲む — spurious を | Time/frequency words take no particle | New |
+| 食欲がない → なくて | ない is い-adj: drop い → なくて | ⚠️ recurring |
+| すごい → すごく | すごい is adj; adverb form = すごく | New |
+| 眠れない vs 寝ない | 眠れない = can't sleep (inability); 寝ない = don't sleep (choice) | New |
+| 取りに帰る | Go back to get something — L14 pattern not recalled | ⚠️ recurring |
+| 熱が〜があって | Double が — 熱がある, not 熱が〜があって | ⚠️ recurring |
+
+#### Open items
+- V+N: particle errors still appearing (が for できる, no を for frequency)
+- 取りに帰る — needs more reps
+- 眠れない vs 寝ない distinction
+- すごい (adj) vs すごく (adverb)
+- L15 consolidation or L16 intro?
+
+---
+
+*Next session: L15 consolidation drill (mixed patterns, production focus) — then decide on L16.*
