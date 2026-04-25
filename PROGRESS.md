@@ -1576,4 +1576,48 @@ No errors — cleanest roleplay yet.
 
 ---
 
-*Next session: L15 consolidation drill (mixed patterns, production focus) — then decide on L16.*
+---
+
+### 2026-04-25 — L15 Consolidation drill
+
+#### Production drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| お腹が痛くて、食べられないんですが | 🟡 | 食べない → 食べられない (can't eat); 痛い→て-form |
+| ひどい咳が出て、眠れないんですが | 🟡 | 強い咳があって → ひどい咳が出て; 眠るない → 眠れない |
+| 財布を家に忘れたんですが、取りに帰ってもいいですか | 🟡 | Particles flipped (財布に家を); 取りを帰って → 取りに帰って |
+| 二時に歯医者があるんですが、早退してもいいでしょうか | 🟡 | Missing に for time; 〜があって → んですが |
+| 三十八度熱があって、だるいんですが、早退してもいいでしょうか | ✅ | |
+| 用事があるんですが、三時に早退してもいいでしょうか | ✅ | |
+| 電車が止まっているんですが、三十分ぐらい遅れます | 🟡 | 止まりんです → 止まっている (ている for state); ごろ → ぐらい |
+| ひどい風邪をひいて、病院に行かなければならないんですが、今日休んでもいいでしょうか | ✅ (3rd try) | 風邪がある → 風邪をひく; なけれべ typo; 休んでしたい → 休んでもいいでしょうか |
+
+#### What went well
+- Permission structure (んですが + でしょうか/ですか) — consistent
+- 早退してもいいでしょうか — used naturally
+- 取りに帰る — recalled after particle correction
+- 風邪をひく — got it on 3rd try, understood the pattern
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 食べない → 食べられない | Can't eat = potential negative 食べられない | ⚠️ recurring |
+| 咳がある → 咳が出る | Cough uses 出る, not ある | ⚠️ recurring |
+| 眠るない → 眠れない | Potential negative: 眠る → 眠れない | ⚠️ recurring |
+| 財布に家を → 財布を家に | を marks thing forgotten, に marks location | ⚠️ recurring particle |
+| 取りを帰る → 取りに帰る | に marks purpose: 取り**に**帰る | ⚠️ recurring |
+| 止まりんです → 止まっているんです | Ongoing state needs ている | ⚠️ recurring |
+| ごろ vs ぐらい | ごろ = approximate time point; ぐらい = approximate amount/duration | ⚠️ recurring |
+| 風邪をひく | Set phrase — 風邪 always pairs with ひく | New |
+
+#### Open items
+- 食べられない / 眠れない — potential negative needs more reps
+- 取りに帰る — particles still slipping
+- ている for ongoing states
+- ごろ vs ぐらい distinction
+
+---
+
+*Next session: L16 intro — read Y_L16.pdf, give summary, start vocab recognition.*
