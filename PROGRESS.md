@@ -1739,4 +1739,53 @@ No errors — cleanest roleplay yet.
 
 ---
 
-*Next session: L16 mixed drill (all 4 patterns) → roleplay: giving health advice.*
+---
+
+### 2026-05-03 — L16 Mixed Drill (Round 1)
+
+#### Mixed drill — all 4 patterns
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲みすぎて、二日酔いです | 🟡 | Used past form ました instead of て-form |
+| 肩がこるときは、マッサージをするといいですよ | 🟡 | 肩こり (noun) → 肩がこる (verb) for とき; マーサジ → マッサージ; しといい → するといい |
+| 週末は、映画を見たり、音楽を聴いたりしています | 🟡 | Missing しています at end |
+| 毎日8時間寝るようにしています | ✅ | |
+| 夜コーヒーを飲まないようにしています | ✅ | |
+| スマホを見すぎて、目が痛いです | 🟡 | 見るすぎる → 見すぎる (drop る); ました → て |
+| 最近、たくさん野菜を食べるようにしています | ✅ | |
+| 頭が痛い時は、薬を飲んだり、休んだりするといいですよ | 🟡 | 飲むたり → 飲んだり (た-form, not dict); missing する before といいですよ |
+| 眠れない時は、音楽を聴くといいですよ | 🟡 | 寝るない → 眠れない (potential negative for "can't sleep"); ない form base |
+| 眠れない時は、音楽を聴いたり、本を読んだりするといいですよ | ✅ | Full pattern combined correctly |
+
+#### What went well
+- ようにしています — clean recall (3/3)
+- Final compound sentence (たり + たり + する + といいですよ) ✓
+- Self-correction on second attempts
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 飲むたり / 休むたり | た-form + り (NOT dictionary) — base is past form shape, not past meaning | ⚠️ recurring (V-たり) |
+| Missing する before といいですよ | V-たり needs final する before connecting to other patterns | ⚠️ recurring |
+| Missing しています at end of たり | V-たり、V-たり**します** is required ending | ⚠️ recurring |
+| 見るすぎる / 寝るない | Drop る for ichidan — no る in masu-stem or ない form | ⚠️ recurring |
+| 寝ない vs 眠れない | "Can't sleep" needs potential negative 眠れない | ⚠️ recurring |
+| ました vs て-form for cause-result | Connect with て (飲みすぎて〜), not separate sentences | ⚠️ recurring |
+| 肩こり vs 肩がこる | 肩こり = noun (the condition); 肩がこる = verb (used with とき) | New |
+
+#### User feedback
+- "We need to drill this more — referring to textbook a lot when constructing sentences"
+- L16 patterns not yet internalized; need more reps before roleplay
+
+#### Open items
+- L16 needs more drilling — pattern recall still effortful, not reflexive
+- Particularly: V-たり、V-たり structure (た-form base, ending with する/しています)
+- すぎる + ない compound forms (drop る for ichidan)
+- ない vs 眠れない (intent vs ability)
+- te-form for cause-result connection
+
+---
+
+*Next session: L16 pattern re-drill (focused reps on V-たり, すぎる, ようにしています) — no roleplay until patterns are solid.*
