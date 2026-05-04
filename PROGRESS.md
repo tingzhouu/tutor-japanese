@@ -486,4 +486,96 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: L16 pattern re-drill (focused reps on V-たり, すぎる, ようにしています) — no roleplay until patterns are solid.*
+---
+
+### 2026-05-04 — L16 Focused Re-drill (V-たり, すぎる, mixed)
+
+#### V-たり conjugation drill
+
+| Verb | Result | Note |
+|------|--------|------|
+| 飲む → 飲んだり | 🟡 | Wrote 飲んだたり — extra た |
+| 食べる → 食べたり | ✅ | |
+| 走る → 走ったり | 🟡 | Wrote はっしたり (wrong reading) |
+| 見る → 見たり | ✅ | |
+| 聞く → 聞いたり | ✅ | |
+| 泳ぐ → 泳いだり | ✅ | |
+| 遊ぶ → 遊んだり | ✅ | |
+| する → したり | ✅ | |
+
+#### V-たり in sentences
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 泳いだり、走ったりします | 🟡 | Missing します at end |
+| テレビを見たり、本を読んだりします | ✅ | |
+| 週末は、料理したり、掃除したりします | ✅ | |
+| ジョギングしたり、ヨガをしたりするようにしています | 🟡 | Missing する before ようにしています; ヨガをする (not ヨガする) |
+| 野菜を食べたり、水を飲んだりするようにしています | 🟡 | Missing する before ようにしています |
+| ジョギングしたり、ウォーキングしたりするようにしています | 🟡 | ヲーキング → ウォーキング |
+
+#### V-すぎる conjugation drill
+
+| Verb | Result | Note |
+|------|--------|------|
+| 食べる → 食べすぎる | ✅ | |
+| 飲む → 飲みすぎる | 🟡 | Wrote 飲むすぎる — must use masu-stem (drop る) |
+| 働く → 働きすぎる | ✅ | |
+| 見る → 見すぎる | ✅ | |
+| 寝る → 寝すぎる | ✅ | |
+| する → しすぎる | ✅ | |
+
+#### V-すぎる in sentences
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲みすぎて、気持ち悪いんです | 🟡 | 飲み過ぎって → 飲みすぎて (single つ) |
+| 仕事をしすぎて、疲れています | 🟡 | 仕事を過ぎて → needs し: 仕事をしすぎて |
+| スマホを見すぎて、目が痛いです | ✅ | |
+| 寝過ぎて、頭が痛いです | ✅ | |
+| 飲みすぎないようにしています | ✅ | |
+| 食べすぎないようにしています | ✅ | |
+| 仕事をしすぎないようにしています | 🟡 | First wrote しないようにしています — missed すぎる; corrected after prompt |
+| スマホを見過ぎないようにしています | ✅ | |
+
+#### Mixed drill (combining patterns)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 二日酔いのときは、水を飲んだり、休んだりするといいですよ | 🟡 | のとき missing (二日酔い is noun); missing する before といいですよ |
+| 肩がこるときは、運動したり、マッサージをしたりするといいですよ | 🟡 | マッサジ → マッサージ (long vowel ー) |
+| 最近、ジョギングしたり、野菜を食べたりするようにしています | ✅ | |
+| 昨日飲みすぎて、今日頭が痛いです | 🟡 | 飲むすぎる → 飲みすぎる; ました → て-form for cause/result |
+| 早く寝たり、野菜を食べたりするようにしています | 🟡 | 早い → 早く (adverb form needed) |
+| スマホを見すぎて、目が痛いです。それで、寝る前にスマホを見ないようにしています | 🟡 | 見たり for single item → just 見ない (たり is for lists of 2+) |
+
+#### What went well
+- V-たり conjugation: 6/8 reflex
+- V-すぎる conjugation: 5/6 reflex (after correction, all clean)
+- Sentence-level patterns landing more naturally
+- Self-correction improving (caught しないようにしています → しすぎないようにしています on prompt)
+- 寝過ぎて、頭が痛いです — produced cleanly without help
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Missing する before ようにしています/といいですよ | V-たり、V-たり**する** + other pattern | ⚠️ recurring (drilled multiple times) |
+| Missing します at end of plain たり、たり | V-たり、V-たり**します** is required ending | ⚠️ recurring |
+| 飲むすぎる | Drop る, use masu-stem: 飲み + すぎる | ⚠️ recurring |
+| ました vs て-form for cause/result | Connect with て (飲みすぎて〜) | ⚠️ recurring |
+| 早い vs 早く | 早く = adverb (modifies verb); 早い = adjective | ⚠️ recurring |
+| のとき after noun | Noun + の + とき (二日酔いのとき) | New |
+| ヨガをする vs ジョギングする | Some compound (no を), some need を | New rule |
+| たり for single item | たり is for listing 2+ items only | New |
+
+#### Open items
+- Reduce する-omission errors before ようにしています/といいですよ (recurring)
+- Continue building reflex for cause/result て-form
+- ヨガをする memorize as fixed pair
+- Combining patterns (たり + ようにしています) needs more reps
+- Roleplay: still hold off until reflexes are tighter
+
+---
+
+*Next session: Continue L16 mixed drilling (focus on する-bridging) → mini-roleplay if reflexes look automatic.*
