@@ -2832,3 +2832,1305 @@ Nasi reviewed the 5-row system with 飲む and 行く. All rows identified corre
 - **L14 patterns 1-4 drilled, pattern 5 (なければなりません) in sentences, pattern 6 (んです) introduced. Needs: full sequence consolidation + roleplay.**
 
 ---
+### 2026-04-05 — Plain-form Conjugation Deep Dive (blocking L14 progress)
+
+#### Round 0: Vocab Cold Check — 3/4 + context
+
+| # | Word | Result |
+|---|------|--------|
+| 1 | 用事 | 🟡 "purpose" → errand |
+| 2 | 申し訳ありません | ✅ |
+| 3 | 別にかまいません | ✅ |
+| 4 | 伝える | ✅ |
+| Context | 用事があって、早退してもいいでしょうか | ✅ |
+
+#### Round 1: Full Sequence Drill (reason+んですが+permission+でしょうか) — 2/6 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | City hall, leave early | ✅ | Full sequence perfect |
+| 2 | Friends from Tokyo, day off | 🟡 | 来ます→来るんですが |
+| 3 | Fever, day off | 🟡 | Needed help, vocab recall (熱) |
+| 4 | Not well, leave early | ✅ | 具合が悪いんですが |
+| 5 | Wallet stolen, koban | 🟡 | んですが missing |
+| 6 | Errand, day off | 🟡 | Missing ある, 取ってもいい |
+
+**Nasi recognized blocker**: can't produce plain-form conjugation chart on demand → blocking んですが production. Requested to stop advancing until plain forms fluent.
+
+#### Round 2: んですが attachment drill — 10/10
+
+All variants correct (plain dict, plain past, い-adj, な-adj+な, noun+な, negative, double verb ある).
+
+#### Round 3: Polite → Plain + んですが — 5/10 clean
+
+Nasi identified core gap: converting ます-forms to plain under pressure. Errors all in conversion, not in んですが attachment itself.
+
+| # | Prompt | Target | Nasi answered | Note |
+|---|--------|--------|---------------|------|
+| 1 | 忙しい | 忙しいんですが | ✅ | |
+| 2 | 元気 (な-adj) | 元気なんですが | 元気なですが 🟡 | Dropped ん |
+| 3 | 学生 (noun) | 学生なんですが | ✅ | |
+| 4 | 食べません | 食べないんですが | 食べたんですが ❌ | Tense confusion |
+| 5 | 行きました | 行ったんですが | 行きましたんですが ❌ | Polite used with んですが |
+| 6 | 高い | 高いんですが | ✅ | |
+| 7 | 来ませんでした | 来なかったんですが | 来なんですが ❌ | Incomplete form |
+| 8 | 好き (な-adj) | 好きなんですが | ✅ | |
+| 9 | 雨 (noun) | 雨なんですが | ✅ | |
+| 10 | 飲みません | 飲まないんですが | 飲まんですが ❌ | Missing ない |
+
+#### Round 4: 8-cell Verb Chart Explanation + Drill
+
+Nasi explicitly asked: "what is negative past plain?" Built the full 8-cell chart for 飲む. Drilled 7 verbs with all 4 plain forms each:
+
+| Verb | Type | Result |
+|---|---|---|
+| 飲む | godan む | 4/4 ✅ first try |
+| 書く | godan く | 4/4 ✅ first try |
+| 待つ | godan つ | 2/4 → 4/4 after correction (まつない→またない, forgot あ-row shift for negative) |
+| 行く | godan く (irreg past) | 4/4 ✅ first try (including 行った exception) |
+| 食べる | ichidan | 4/4 ✅ first try |
+| 来る | irregular | 1/4 → 4/4 after reading guide (く/こ/き/こ) |
+| する | irregular | 2/4 (stopped before completion) |
+
+**Key rules identified & taught:**
+- Past affirmative plain = take て-form, swap て→た / で→だ
+- Past negative plain = take plain negative (〜ない), swap い→かった
+- 来る readings: く (present+) / こ (negative) / き (past+) / こ (past-)
+- する: す only in dict, し for all others
+
+#### What went well
+- **んですが attachment — 10/10** when given plain form
+- **Ichidan verbs (食べる)** — all 4 forms perfect, rules internalized
+- **Godan む and く** — 4/4 clean first try
+- **Nasi self-diagnosed the blocker** — excellent metacognition
+- **Rules for past forms now explicit** — (て→た), (い→かった) derivations understood
+- **行った exception** — remembered correctly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Polite → plain conversion under pressure | Must drop ます/ません/ました/ませんでした before +んですが | ⚠️ KEY BLOCKER |
+| Godan negative stem shift | う-row → あ-row (まつ→また, not まつ) | ⚠️ recurring (despite 10/10 earlier) |
+| Plain past negative formation | い→かった on the plain negative (not add to past affirm) | New — now understood |
+| 来る readings (く/こ/き/こ) | Irregular — memorize | New |
+| な missing in な-adj/noun + んですが | な-adj + **な** + んですが | ⚠️ recurring |
+
+#### Open items — PRIORITY
+- **Plain-form conjugation fluency is the blocker for all L14 patterns**
+- **Next session: continue conjugation drills — NO L14 grammar advancement until fluent**
+- Drill: rapid-fire 4-form production on mixed verbs (godan む/く/つ/す/る/ぶ/ぐ/う, ichidan, 来る, する)
+- Target: 15+ verbs clean in one session before advancing
+- ALSO carry over: full sequence (reason+んですが+permission), L14 roleplay, きのこ, で vs に
+
+---
+
+### 2026-04-06 — Plain-form Conjugation Drill (continued)
+
+#### Round 1: Mixed Verb 4-form Drill — 15 verbs, 8/15 fully clean
+
+| # | Verb | Type | Score | Error |
+|---|------|------|-------|-------|
+| 1 | 話す | godan す | 3/4 | Past: はなさた→はなした (used あ-row instead of て-form) |
+| 2 | 遊ぶ | godan ぶ | 3/4 | Past: あそんた→あそんだ (で→だ not て→た) |
+| 3 | 泳ぐ | godan ぐ | 3/4 | Past: 泳ぎだ→泳いだ (て-form is 泳いで) |
+| 4 | 帰る | godan る | 4/4 | — |
+| 5 | 買う | godan う | 2/4 | Neg: かいない→かわない (う→わ exception) |
+| 6 | 見る | ichidan | 4/4 | — |
+| 7 | する | irregular | 4/4 | — |
+| 8 | 来る | irregular | 4/4 | く/こ/き/こ all correct |
+| 9 | 押す | godan す | 3/4 | Past: flagged unknown → おした |
+| 10 | 登る | godan る | 4/4 | — |
+| 11 | 動く | godan く | 3/4 | Past: うごきた→うごいた (い-row confused with て-form) |
+| 12 | 開ける | ichidan | 4/4 | — |
+| 13 | 届く | godan く | 4/4 | — |
+| 14 | 遅刻する | する-verb | 4/4 | — |
+| 15 | 買う (retry) | godan う | 2/4 | Neg: かいない→かわない (same error) |
+| 15b | 使う | godan う | 3/4 | わない ✅ fixed! Past: つかいた→つかった |
+
+#### て-form Revision Given
+
+Nasi requested て-form refresher. Full chart reviewed:
+- く→いて, ぐ→いで, す→して, つ/る/う→って, む/ぶ/ぬ→んで
+- Exception: 行く→行って
+- Ichidan: drop る + て
+- Irregular: する→して, 来る→きて
+- Past plain = て→た / で→だ
+
+#### Two recurring error patterns identified
+
+1. **Past affirmative**: building from あ-row/い-row stem instead of て-form
+   - はなさた (あ-row) → 話した (from 話して)
+   - うごきた (い-row) → 動いた (from 動いて)
+   - Rule: **past = て-form swap only**
+
+2. **買う/使う negative**: う→いない instead of う→わない
+   - かいない → かわない
+   - This is the one godan exception: う→わ for negative
+   - 使わない was correct after correction — starting to click
+
+#### What went well
+- **Ichidan — never misses** (見る, 開ける, 食べる all 4/4)
+- **Irregular — locked** (する 4/4, 来る 4/4 with correct readings)
+- **Godan る — clean** (帰る, 登る both 4/4)
+- **Godan く — improving** (届く 4/4, 動く missed past but knew negative)
+- **Present negative あ-row shift** — mostly solid (except う→わ)
+- **Past negative** — always correct (ない→なかった rule is automatic)
+- **Good metacognition** — flagged unknown (押す past) instead of guessing wrong
+
+#### Open items
+- **Past affirmative from て-form** — main remaining gap, needs focused drill
+- **う-verb negative: う→わない** — still reverting to いない
+- **Not yet fluent** — 8/15 clean, target was 15+
+- **Next session: continue drills, focus on past affirmative + う-verbs**
+- Carry over: full sequence (reason+んですが+permission), L14 roleplay, きのこ, で vs に
+
+---
+
+### 2026-04-07 — Plain-form Drill (continued) + んですが Production
+
+#### Round 0: Past Affirmative Focused Drill — 7/9 first try
+
+| # | Verb | Type | Answer | Result | Note |
+|---|------|------|--------|--------|------|
+| 1 | 話す | godan す | はなした | ✅ | |
+| 2 | 遊ぶ | godan ぶ | あそんだ | ✅ | |
+| 3 | 泳ぐ | godan ぐ | およぎた | ❌ | →およいだ (いで→いだ) |
+| 4 | 押す | godan す | おした | ✅ | |
+| 5 | 買う | godan う | かった | ✅ | |
+| 6 | 動く | godan く | 動きた | ❌ | →うごいた (いて→いた) |
+| 7 | 書く | godan く | かいた | ✅ | |
+| 8 | 待つ | godan つ | まった | ✅ | |
+| 9 | 飲む | godan む | のんだ | ✅ | |
+
+Retries: 泳ぐ ✅, 動く ✅ (took 3 attempts — confused いた/いだ), both clean after correction.
+
+**Remaining past affirmative error:** く-verbs using ます-stem (きた/ぎだ) instead of て-form (いた/いだ). Corrected and retested.
+
+#### Round 1: う-verb Negative Drill — 5/6 (first miss then all correct)
+
+| # | Verb | Answer | Result |
+|---|------|--------|--------|
+| 1 | 買う | かいない→かわない | ❌→✅ |
+| 2 | 使う | つかわない | ✅ (self-corrected) |
+| 3 | 歌う | うたわない | ✅ |
+| 4 | 洗う | あらわない | ✅ |
+| 5 | 買う (retry) | かわない | ✅ |
+| 6 | 言う | いわない | ✅ |
+
+#### Round 2: Full 4-form Mixed Drill — 13/15 fully clean
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 飲む | godan む | 4/4 | — |
+| 2 | 泳ぐ | godan ぐ | 4/4 | — (いだ correct!) |
+| 3 | 動く | godan く | 4/4 | — (いた correct!) |
+| 4 | 買う | godan う | 4/4 | — (わない correct!) |
+| 5 | 話す | godan す | 4/4 | — |
+| 6 | 待つ | godan つ | 4/4 | — |
+| 7 | 遊ぶ | godan ぶ | 4/4 | — |
+| 8 | 帰る | godan る | 4/4 | — |
+| 9 | 来る | irregular | 4/4 | — |
+| 10 | する | irregular | 4/4 | — |
+| 11 | 食べる | ichidan | 4/4 | — |
+| 12 | 開ける | ichidan | 4/4 | — |
+| 13 | 押す | godan す | 4/4 | — |
+| 14 | 使う | godan う | 2/4 | つかいない→つかわない (う→わ inconsistent) |
+| 15 | 届く | godan く | 4/4 | — |
+
+**8/15 → 13/15 improvement from yesterday!** Past affirmative and く/ぐ distinction both fixed.
+
+#### Round 3: んですが Production — 13/15 clean
+
+| # | Prompt | Form | Result | Note |
+|---|--------|------|--------|------|
+| 1 | 熱がある | verb present | ✅ | |
+| 2 | 友だちが来る | verb present | ✅ | |
+| 3 | ねぼうした | verb past | ✅ | |
+| 4 | 具合が悪い | い-adj | ✅ | |
+| 5 | 都合が悪い | い-adj | ✅ | |
+| 6 | 行かなければならない | verb negative | ✅ | |
+| 7 | 仕事が大変 | な-adj | 🟡 | 変→大変 (vocab, not grammar) |
+| 8 | 財布を忘れた | verb past | ✅ | |
+| 9 | 忘れる (past) | ichidan | ✅ | |
+| 10 | 届く (negative) | godan く | ✅ | |
+| 11 | 遅刻する (past) | する-verb | ✅ | |
+| 12 | 買う (negative) | godan う | ✅ | わない! |
+| 13 | 動く (past) | godan く | ❌ | いたないんですが→いたんですが (combined past+neg) |
+| 14 | 来る (negative) | irregular | ✅ | |
+| 15 | 使う (past) | godan う | ✅ | |
+
+#### Grammar concepts clarified this session
+- **All 4 plain forms can attach to んですが** — which one depends on meaning
+- **い-adj attach directly** to んですが (no conversion needed)
+- **な-adj/noun + な + んですが**
+- **Ichidan vs godan identification**: え/い before る = usually ichidan
+- **変 vs 大変**: 変 = weird, 大変 = tough/busy
+
+#### What went well
+- **Past affirmative — ALL CORRECT in mixed drill** (was the main blocker yesterday)
+- **く→いた vs ぐ→いだ distinction — fixed**
+- **買う negative わない — correct in mixed drill and んですが**
+- **んですが production — 13/15** with errors being vocab/form-combination, not conjugation
+- **Plain form conjugation dramatically improved: 8/15 → 13/15**
+- **Ready to return to L14 full sequence**
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 使う negative: つかいない | う→わない for ALL う-verbs | ⚠️ recurring (買う correct but 使う reverts) |
+| 変 vs 大変 | 変 = weird, 大変 = tough | New (vocab) |
+| Past + negative combined (動いたない) | Pick one: past OR negative, not both | New |
+
+#### Open items
+- **使う negative (つかわない)** — still inconsistent, needs more reps
+- **Plain form conjugation: nearly fluent (13/15)** — one more clean session then advance
+- Full sequence (reason+んですが+permission+でしょうか) — ready to retry
+- L14 roleplay — pending
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+### 2026-04-08 — Conjugation Check + Full L14 Sequence Drill
+
+#### Round 0: 10-verb Conjugation Check — 9/10 clean
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 使う | godan う | 4/4 ✅ | — (つかわない first try!) |
+| 2 | 泳ぐ | godan ぐ | 3/4 | いた→いだ (く/ぐ voiced pair) |
+| 3 | 来る | irregular | 4/4 ✅ | — |
+| 4 | 買う | godan う | 4/4 ✅ | — |
+| 5 | 動く | godan く | 4/4 ✅ | — |
+| 6 | 食べる | ichidan | 4/4 ✅ | — |
+| 7 | 遊ぶ | godan ぶ | 4/4 ✅ | — |
+| 8 | 話す | godan す | 4/4 ✅ | — |
+| 9 | する | irregular | 4/4 ✅ | — |
+| 10 | 帰る | godan る | 4/4 ✅ | — |
+
+**使わない and 買わない both correct first try. Only miss: 泳ぐ いた→いだ.**
+
+#### Round 1: Full L14 Sequence — 0/6 clean (assembly errors, not conjugation)
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Fever, day off | 🟡 | 休むして→休んで (て-form needed for てもいい) |
+| 2 | Friends coming, day off | 🟡 | 休む→休み (noun), ましょうか→でしょうか |
+| 3 | City hall, leave early | 🟡 | 行くなければ→行かなければ (あ-row) |
+| 4 | Not well, day off | 🟡 | Missing も in てもいい |
+| 5 | Overslept, late | 🟡 | しました→したんですが (plain form) |
+| 6 | Accident, late | 🟡 | あた→あった (missing っ) |
+
+#### Round 2: Full L14 Sequence (second attempt) — 5/6 clean!
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Bad cough, go to hospital | ✅ | ひどいんですが + 行ってもいいでしょうか |
+| 2 | Pick up child, leave early | ✅ | 行かなければならないんですが + 早退してもいいでしょうか |
+| 3 | Roads congested, late | 🟡 | Double connector (んですが + それで) |
+| 4 | Forgot something, go back | ✅ | したんですが + 帰ってもいいでしょうか |
+| 5 | Errand Friday, day off | ✅ | 用事があるんですが + 取ってもいいでしょうか |
+| 6 | Fever + hospital, day off | ✅ | Two reasons chained with て! |
+
+#### What went well
+- **Conjugation: 9/10 clean** — 使わない fixed, plain forms nearly fluent
+- **Full sequence: 0/6 → 5/6 in same session** — dramatic improvement
+- **なければならないんですが** — produced correctly
+- **てもいいでしょうか** — て-form + も + いい + でしょうか all correct in Round 2
+- **Two reasons chained** (熱があって + 行かなければならないんですが) — advanced production
+- **んですが with plain form** — consistent in Round 2
+- **Assembly errors from Round 1 all self-corrected in Round 2**
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 泳ぐ past: いた→いだ | ぐ = voiced (いだ), く = voiceless (いた) | ⚠️ recurring (last one!) |
+| んですが + それで double connector | Use one or the other, not both | ⚠️ recurring |
+| て-form for てもいい | てもいい needs て-form, not dictionary form | Fixed in Round 2 |
+| も missing in てもいい | て + も + いい + でしょうか | Fixed in Round 2 |
+
+#### Open items
+- **泳ぐ past いだ** — last remaining conjugation error
+- **Full L14 sequence — working (5/6)** — ready for roleplay
+- L14 roleplay — next session
+- きのこ — carried over
+- で vs に — ongoing
+
+---
+
+### 2026-04-09 — 泳ぐ Check + L14 Roleplay ×2
+
+#### Quick check: 泳ぐ past plain → およいだ ✅ (いだ not いた — fixed!)
+
+#### Roleplay 1: Calling in sick — phone call to 田村部長
+
+**Patterns used successfully:**
+- もしもし + name — natural phone opening ✅
+- んですが for reason-giving ✅ (熱があるんですが)
+- てもいいでしょうか — polite permission to boss ✅
+- 申し訳ありません — used at right moment ✅
+- ありがとうございます — natural closing ✅
+
+**Roleplay errors (6):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 休むを取って | 休**み**を取って (noun not verb) | Vocab form |
+| 2 | 具合が悪いです | 具合が悪い**んです** (explaining) | Grammar |
+| 3 | 行かなければ習いんですが | 行かなければ**ならない**んですが | Vocab mix-up |
+| 4 | みんなさんを伝えります | **みなさんに**伝えて**ください** (に + てください) | Particle + verb form |
+| 5 | 伝えります | 伝え**ます** (ichidan, not 伝えります) | Conjugation |
+| 6 | 昨日は休みでした | 昨日は休んですみませんでした | Natural expression |
+
+#### Roleplay 2: Asking coworker 森さん for permission to step out
+
+**Patterns used successfully:**
+- てもいいですか — casual permission for coworker ✅ (not でしょうか)
+- 戻ります — used correctly ✅
+- 財布を忘れました — past tense, natural ✅
+- Conversation flow natural throughout ✅
+
+**Roleplay errors (3):**
+
+| # | Error | Correction | Category |
+|---|-------|-----------|----------|
+| 1 | 五ぐらい | **5分ぐらい** (need counter 分) | Counter missing |
+| 2 | わかりました (to "go ahead") | **行ってきます** more natural | Natural expression |
+| 3 | 急い行ってきます | **急いで行ってきました** (て-form + past) | て-form + tense |
+
+#### What went well
+- **泳ぐ past いだ — fixed!** (last conjugation error closed)
+- **Both roleplays completed** — stayed in character throughout
+- **ですか vs でしょうか** — correctly used casual for coworker, polite for boss
+- **Full L14 sequence produced naturally in roleplay context**
+- **財布を忘れました** — spontaneous, natural use of past tense
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 休む vs 休み | 休みを取る uses noun 休み | ⚠️ recurring |
+| 伝える conjugation (伝えります) | Ichidan: 伝えます not 伝えります | New |
+| みなさん**に**伝える | に marks the person you tell (not を) | New |
+| ならない vs 習い | ならない = must, 習い = learn | New (vocab mix-up) |
+| Counter 分 missing | 5分ぐらい not 五ぐらい | New |
+| 急ぐ て-form | 急いで (godan ぐ → いで) | New |
+
+#### Open items
+- **L14 grammar + roleplay done** — needs one more consolidation session
+- **伝える ichidan conjugation** — watch for えります error
+- **みなさんに伝える** — に not を
+- **休み (noun) vs 休む (verb)** — still mixing
+- きのこ — carried over
+- で vs に — ongoing
+- **Ready for L14 consolidation, then L15**
+
+---
+
+### 2026-04-10 — L14 Consolidation Drill ×2 (error patterns from roleplay)
+
+L15 PDF confirmed available. Will be introduced after L14 consolidation solid.
+
+#### Round 0: L14 Error Pattern Drill — 2/10 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Monday day off | ✅ | 休みを取ってもいいでしょうか |
+| 2 | Tell everyone | 🟡 | みんさん→みなさん (spelling) |
+| 3 | Must go to hospital | ✅ | |
+| 4 | Takes 5 minutes | ✅ | Counter 分 included |
+| 5 | Back in 10 minutes | 🟡 | に→で (duration) |
+| 6 | Tell the chief | 🟡 | 伝ります→伝えます (ichidan, not godan) |
+| 7 | Overslept, late | 🟡 | したい→した (added い by mistake), double connector んですが+それで |
+| 8 | May I take a break? | 🟡 | しますか→してもいいですか |
+| 9 | Friends coming next month | 🟡 | Missing が particle |
+| 10 | Forgot wallet at home | 🟡 | ます→ました (past) |
+
+#### Round 1: L14 Consolidation (second attempt) — 4/10 clean
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Tell chief | 🟡 | Missing てください (伝えます→伝えてください) |
+| 2 | Meeting done in 20 min | 🟡 | Missing で (20分で) |
+| 3 | Leave early tomorrow | ✅ | 早退してもいいでしょうか |
+| 4 | Overslept | ✅ | 寝坊した (plain past) |
+| 5 | Friend from Tokyo | 🟡 | は + が double particle (は...が来ます) |
+| 6 | Umbrella at office | ✅ | 忘れました with past tense |
+| 7 | Break now (coworker) | ✅ | 休憩してもいいですか |
+| 8 | Buy gift | 🟡 | ならい→ならない (dropped ない) |
+| 9 | 30 min walking | 🟡 | 歩くで→歩いて (て-form for means) |
+| 10 | Fever, day off | 🟡 | Overcomplicated with なければならない |
+
+#### What went well
+- **2/10 → 4/10 improvement within session**
+- **Past tense** — 忘れました, 寝坊した both produced correctly by Round 1
+- **てもいいでしょうか (boss) vs てもいいですか (coworker)** — both correct in Round 1
+- **なければならない structure** — when used, attached correctly (買わなければ)
+- **う→わ negative** — 買わなければ correct
+- **熱があるんですが** — produced spontaneously in Round 1 #10
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 伝える conjugation: 伝ります | Ichidan — drop る + ます = 伝えます | ⚠️ recurring |
+| で vs に for duration | 10分**で**戻る, 20分**で**終わる (timeframe = で) | ⚠️ recurring |
+| 歩くで → 歩いて | て-form + 〜 = by means of (walking takes 30 min = 歩いて30分) | New |
+| は + が double subject marker | One subject particle per noun | New |
+| したい vs した | たい = want to, past plain = た only | New |
+| んですが + それで double connector | Pick one, not both | ⚠️ recurring (3rd session) |
+| みなさん spelling (みんさん) | mi-na-san not min-san | New |
+| Overusing なければならない | Only for obligation, not when asking permission | New |
+
+#### Open items
+- **L14 consolidation still shaky** — 4/10 clean, needs more reps
+- **伝える ichidan conjugation** — specific verb needs drilling
+- **で vs に distinction** — duration vs point in time
+- **Request forms** (てください) — sometimes dropped
+- **L15 PDF available** — hold until L14 consolidation stronger
+- きのこ — carried over
+- **Next session: L14 Round 3 consolidation, focus on recurring errors**
+
+---
+
+### 2026-04-11 — 8-cell Verb Grid Drill + Potential/Volitional Preview
+
+#### Round 0: Quick 送る check
+Nasi self-initiated: 送る past question. Confirmed 送るた → 送った rule (て-form swap).
+
+#### Round 1: 8-cell Verb Grid (plain + polite) — 7/10 perfect
+
+New drill format: all 4 plain + all 4 polite forms per verb.
+
+| # | Verb | Type | Score | Miss |
+|---|------|------|-------|------|
+| 1 | 送る | godan る | 7/8 | Plain past: 送って → 送った (て-form in past slot) |
+| 2 | 飲む | godan む | 7/8 | Polite past/past neg slot swap (wrote ませんでした for both) |
+| 3 | 書く | godan く | 8/8 ✅ | — |
+| 4 | 泳ぐ | godan ぐ | 8/8 ✅ | — |
+| 5 | 待つ | godan つ | 8/8 ✅ | — |
+| 6 | 買う | godan う | 7/8 | Plain past: かって → かった (recurring て→た) |
+| 7 | 見る | ichidan | 8/8 ✅ | — |
+| 8 | 食べる | ichidan | 8/8 ✅ | — |
+| 9 | 来る | irregular | 8/8 ✅ | — |
+| 10 | する | irregular | 8/8 ✅ | — |
+
+**Remaining error:** Plain past — specifically when て-form ends in 〜って (送る, 買う). Writing て-form in the past slot instead of swapping to った.
+
+#### Grammar clarified this session
+- **て-form て/で/って vs past た/だ/った** distinction — rule re-taught
+- **つる-う verbs (つ/る/う) → って** — nasi remembered this rule unprompted
+- **書く vs 買う polite homophones** — 書**き**ます vs 買**い**ます (different kana)
+- **ぬ-verbs effectively unused** (only 死ぬ common)
+
+#### Round 2: Potential (え+る) and Volitional (お+う) Preview — 9/10 correct
+
+**Note: preview only — not in L14, not being tested for mastery yet.**
+
+| # | Verb | Potential | Volitional | Result |
+|---|------|-----------|------------|--------|
+| 1 | 飲む | 飲める ✅ | のもうる → 飲もう | Added る to volitional (confusion with potential) |
+| 2 | 書く | 書ける ✅ | 書こう ✅ | |
+| 3 | 話す | 話せる ✅ | はなむう → 話そう | Wrong column shift (む instead of さ) |
+| 4 | 買う | 買える ✅ | 買おう ✅ | Confirmed う-verb: only あ-row uses わ |
+| 5 | 待つ | 待てる | 待とう | Couldn't produce first try — full 5-row chart taught |
+| 6 | 遊ぶ | 遊べる ✅ | 遊ぼう ✅ | |
+| 7 | 帰る | 帰れる ✅ | 帰ろう ✅ | |
+| 8 | 見る (ichidan) | みれる → 見られる | みもう → 見よう | Used godan rules; ichidan has fixed endings: られる / よう |
+| 9 | 食べる (ichidan) | 食べられる ✅ | 食べよう ✅ | |
+| 10 | する | できる (provided) | しよう ✅ | Noted: できる = potential of する |
+| 10b | 来る | 来られる (provided) | 来よう (provided) | Irregulars — memorize |
+
+#### Key rules for potential/volitional
+- **Godan potential**: え-row + **る** → becomes ichidan verb (飲める → 飲めます/飲めない/飲めた)
+- **Godan volitional**: お-row + **う** (no る!)
+- **Ichidan potential**: drop る + **られる** (食べられる)
+- **Ichidan volitional**: drop る + **よう** (食べよう)
+- **する potential = できる** (irregular, important)
+- **する volitional = しよう**
+- **来る potential = 来られる (こられる)**
+- **来る volitional = 来よう (こよう)**
+- **ら抜き言葉** note: casual speech drops ら (見れる), technically incorrect
+- **Casual volitional お+う = polite ましょう** (飲もう = 飲みましょう)
+
+#### What went well
+- **Godan 8-cell grids — 70% perfect first try**
+- **く/ぐ voiced distinction — locked** (書いた vs 泳いだ)
+- **う-verb negative わ — still solid**
+- **Ichidan + irregulars — perfect** (always reliable)
+- **Memory of つ/る/う rule** — nasi recalled it unprompted
+- **Volitional preview — mostly correct** (7/10 godan + 食べる correct first try)
+- **Self-initiated verb questions** — good metacognition
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Plain past: て-form in past slot (送って, かって) | Past = swap て→た / で→だ | ⚠️ recurring (last one to lock!) |
+| Polite slot confusion (飲みませんでした for past affirm) | Past affirm = 〜ました, past neg = 〜ませんでした | New |
+| 話す volitional column shift (む instead of さ) | Keep same consonant column per verb | New |
+| Ichidan potential (見れる) | Ichidan uses drop る + **られる**, not え+る | New |
+| Ichidan volitional (見もう) | Ichidan uses drop る + **よう**, not お+う | New |
+| Volitional adding る (のもうる) | Volitional = お+う only, no る | New |
+
+#### Open items
+- **Plain past from te-form swap** — last lingering error, needs more reps
+- **Potential/volitional fluency** — preview introduced, needs polite forms drilled next
+- **Ichidan vs godan distinction for potential/volitional** — new distinction to lock
+- **できる** — recognize as する's potential
+- **L14 consolidation Round 3** — deferred to make room for verb drill
+- **L15 PDF** — available, pending L14 mastery
+- きのこ — carried over
+
+---
+
+### 2026-04-12 — Potential/Volitional Polite Forms + 12-form Grid Drill + Irregular Review
+
+#### Round 0: Plain past warm-up (っ-ending verbs) — 4/5
+
+- 送る → 送った ✅
+- 買う → 買った ✅
+- 待つ → 待って ❌ → 待った ✅ (retry)
+- 帰る → 帰った ✅
+
+#### Round 1: Potential + Volitional (plain AND polite) — 7/10 perfect
+
+| # | Verb | Score | Miss |
+|---|------|-------|------|
+| 1 | 飲む | 3/4 | Volitional polite: のもういましょう→飲みましょう (い-row+ましょう, not お-row) |
+| 2 | 書く | 4/4 ✅ | |
+| 3 | 話す | 4/4 ✅ | |
+| 4 | 帰る | 4/4 ✅ | |
+| 5 | 遊ぶ | 4/4 ✅ | |
+| 6 | 泳ぐ | 4/4 ✅ | |
+| 7 | 待つ | 4/4 ✅ | |
+| 8 | 食べる | 4/4 ✅ | |
+| 9 | 見る | 2/4 | 見える→見られる (見える = intransitive "visible", different verb!) |
+| 10 | する | 2/4 | しえ→できる, しょう→しよう |
+
+#### Round 2: Full 12-form Grid — 4 perfect / 10
+
+| # | Verb | Score | Miss |
+|---|------|-------|------|
+| 1 | 泳ぐ | 11/12 | Polite past: ぎでした→ぎました (verbs use ました, not でした) |
+| 2 | 使う | 10/12 | Negative: つかいない→つかわない (×2) |
+| 3 | 来る | 10/12 | Potential: くれる→こられる (くれる = give!), Volitional: くろう→こよう |
+| 4 | する | 10/12 | Volitional: しょ→しよう, しょます→しましょう |
+| 5 | 見る | **12/12** ✅ | — (見られる correct this time!) |
+| 6 | 待つ | 11/12 | Potential: 待て→待てる (need る!) |
+| 7 | 送る | 9/12 | Potential/volitional: dropped く from stem (おける→おくれる) |
+| 8 | 食べる | **12/12** ✅ | — |
+| 9 | 買う | **12/12** ✅ | — |
+| 10 | 話す | **12/12** ✅ | — |
+
+#### Round 3: Irregular Focus — Explicit Teaching
+
+**する full chart taught.** Key: potential is **できる** (not row shift), volitional is **しよう** (し+よう, 3 mora, not しょ).
+
+**来る full chart taught.** Reading pattern clarified:
+- **く** = dictionary only (くる)
+- **き** = ます-stem forms (きます, きた, きて, きましょう)
+- **こ** = negatives + potential + volitional plain (こない, こなかった, こられる, こよう)
+
+Re-tested after teaching:
+- する: **12/12** ✅ (perfect grid on retry!)
+- 来る: 11/12 → fixed こよう on 3rd try
+
+#### Round 4: 12-form Recap Drill — 6 perfect / 10
+
+| # | Verb | Score |
+|---|------|-------|
+| 1 | する | **12/12** ✅ |
+| 2 | 来る | 11/12 (こよう→fixed) |
+| 3 | 食べる | 11/12 (Polite past negative: 食べません→食べませんでした slot slip) |
+| 4 | 飲む | **12/12** ✅ |
+| 5 | 書く | 11/12 (Volitional polite: かい→かき, い-row not て-form stem) |
+| 6 | 泳ぐ | **12/12** ✅ |
+| 7 | 話す | **12/12** ✅ |
+| 8 | 待つ | **12/12** ✅ |
+| 9 | 買う | **12/12** ✅ |
+| 10 | 使う | 11/12 (Plain past: つかって→つかった) |
+
+#### What went well
+- **する 12/12** — locked できる and しよう
+- **買う AND 使う: わない correct** — both う-verbs producing the わ exception
+- **Godan potential/volitional** — all standard godan verbs (飲む/書く/泳ぐ/話す/待つ/帰る/遊ぶ) scored 4/4 in Round 1
+- **待った not 待って** — plain past fixed on retry
+- **見られる not 見える** — ichidan potential ra-form correct in Round 2
+- **泳いだ not いた** — consistent across 2 rounds
+- **Massive progress**: 4 perfect grids in Round 2, 6 perfect grids in Round 4
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| Plain past slip (って→った) | Past = te-form swap, specifically hard for 待つ/送る/買う/使う | ⚠️ recurring (fewer misses) |
+| Polite volitional: て-form stem instead of い-row (かい→かき) | Polite volitional = い-row + ましょう (書き**ましょう**, not 書い**ましょう**) | New |
+| Polite past vs past negative slot swap | Past = ました, past neg = ませんでした | ⚠️ recurring |
+| 来る potential: これる vs 来られる | Keep ら: 来**られる** (ら-drop is casual but incorrect) | ⚠️ recurring |
+| 来る volitional plain こ vs き | Volitional plain = **こよう** (not きよう) | ⚠️ recurring |
+| 送る potential/volitional: dropped く from stem | Stem = おく (all consonants before る), not お | New |
+| する volitional: しょ vs しよう | し + よう (3 mora), not しょ (1 mora) | New |
+| 見える vs 見られる | 見える = visible (intransitive), 見られる = can see (potential) | New |
+| 飲む volitional polite: のもういましょう | Polite volitional uses い-row + ましょう, NOT お-row form | New |
+
+#### Open items — PRIORITY
+- **Irregular verbs (する/来る) — not yet fluent**: need more drilling even though perfect grid achieved
+- **来る readings** (く/き/こ distribution) — keep drilling until automatic
+- **Polite volitional stem** — い-row + ましょう, not て-form or お-row
+- **Plain past っ-verbs** — micro-error pattern still lingering
+- **L14 consolidation Round 3** — deferred
+- **L15 PDF** — still pending
+- きのこ — carried over
+
+---
+
+### 2026-04-14 — Verb Drill (吹く, 払う) + 空く Exploration
+
+#### Round 1: 吹く 12-form — 9/12
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | 吹く | ✅ |
+| Plain negative | 吹かない | ✅ |
+| Plain past | 吹いて | ❌ → 吹いた (te-form in past slot again) |
+| Plain past negative | ふくなかった | ❌ → 吹かなかった (built from dict form, not 吹か stem) |
+| Polite affirmative | 吹きます | ✅ |
+| Polite negative | 吹きません | ✅ |
+| Polite past | 吹きました | ✅ |
+| Polite past negative | 吹きませんでした | ✅ |
+| Potential plain | ふけれ | ❌ → 吹ける (missing る, same as 待て→待てる error) |
+| Potential polite | ふけます | ✅ |
+| Volitional plain | 吹こう | ✅ |
+| Volitional polite | 吹きましょう | ✅ |
+
+#### Round 2: 払う 12-form — 11/12 (first clean う-verb grid!)
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | はらう | ✅ |
+| Plain negative | はらわない | ✅ (う→わ no hesitation) |
+| Plain past | 払った | ✅ (plain past correct first try!) |
+| Plain past negative | 払わなかった | ✅ |
+| Polite affirmative | はらいます | ✅ |
+| Polite negative | 払いません | ✅ |
+| Polite past | 払いました | ✅ |
+| Polite past negative | 払いませんでした | ✅ |
+| Potential plain | 払える | ✅ |
+| Potential polite | 払えます | ✅ |
+| Volitional plain | はらおう | ✅ |
+| Volitional polite | 払いましょおう | ❌ (typo: extra お — should be 払いましょう) |
+
+**First う-verb with no negative error AND no plain past error in the same grid.**
+
+#### Vocab exploration: 空く（あく）
+Nasi asked about 空いています. Taught:
+- 空く = godan く-verb (to become empty/vacant/free)
+- 空いています = state form ("is currently empty/available")
+- Connection to 開く/開いています pattern
+- Already-known usage: お腹が空いています (stomach is empty = hungry)
+
+---
+
+### 2026-04-15 — Irregular Verb Lockdown + L14 Consolidation Round 3
+
+#### Round 0: Irregular Verbs (する/来る/行く) — 3 perfect grids in a row
+
+| # | Verb | Score | Notes |
+|---|------|-------|-------|
+| 1 | する | **12/12** ✅ | できる + しよう automatic, first try |
+| 2 | 来る | **12/12** ✅ | All readings correct (く/こ/き), こよう + こられる correct. Noted 30s pause on potential — slow but correct |
+| 3 | 行く | **12/12** ✅ | 行った (irregular past) correct, everything else normal く-verb pattern |
+
+**Irregulars officially locked.** する, 来る, 行く all produced clean first try with no hints.
+
+#### Round 1: L14 Consolidation (Round 3) — 2/7 clean, 4 very close
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | Cough + hospital, leave early | 🟡 | ひどいん→ひどくて (くて for linking 2 reasons), double connector |
+| 2 | Pick up child, leave early | 🟡 | 子供から→子供を, 学校で→学校に |
+| 3 | Break (coworker) | ✅ | ちょっと休憩してもいいですか |
+| 4 | Friends Monday, day off | ✅ | **Full sequence perfect** — natural production |
+| 5 | Train stopped, late | 🟡 | Only error: ちょって→ちょっと (typo) |
+| 6 | Errand, leave at 3 | 🟡 | あります→あるんですが (flow), 三時→三時に (time particle) |
+| 7 | Step out for call | 🟡 | Missing permission structure (てもいいですか) — just stated actions |
+
+#### What went well
+- **ALL IRREGULAR VERBS LOCKED** — する/来る/行く 12/12 × 3
+- **Friends Monday day off** — full L14 sequence produced naturally (Round 1 #4)
+- **Coworker permission form (ですか)** — correct reflex
+- **Nで for cause** — 事故で (Round 1 #5)
+- **past tense correct** — 止まりました
+- **Structure of んですが** — used in most attempts
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| くて for linking reasons | Linking 2 reasons uses くて (い-adj) / で (な-adj/noun) / て-form (verb) | ⚠️ recurring |
+| 子供**を** 学校**に** 迎えに行く | を = object (who), に = destination | New |
+| 三時**に** for specific time | に marks specific clock time | ⚠️ recurring |
+| あります vs あるんですが | Keep flow with んですが instead of splitting sentences | ⚠️ recurring |
+| Missing てもいいですか for permission | Just stating action ≠ asking permission | ⚠️ recurring |
+| Double connector (んですが + それで) | Pick one, not both | ⚠️ recurring (5th session) |
+
+#### Open items
+- **L14 consolidation** — pattern selection clicking, assembly still needs work
+- **Particles in compound phrases** (迎えに行く = 子供を 学校に) — new weakness
+- **Permission-asking reflex** — must end in てもいい(です/でしょう)か
+- **Typos** (ちょって, ましょおう) — minor
+- **L15 PDF** — still pending, getting closer
+- きのこ — carried over
+- **With irregulars locked, verb drilling priority drops. Focus shifts back to L14 assembly/roleplay.**
+
+---
+
+### 2026-04-16 — L14 Consolidation Round 4
+
+**Target:** 5/7 clean to advance to L15. **Result: 1/7 clean.**
+
+| # | Prompt | Nasi's answer | Result | Corrections |
+|---|--------|---------------|--------|-------------|
+| 1 | Hospital, be late | 病院に行か**なれば**ならないんですが、遅刻してもいいでしょうか | ❌ | なれば→**なければ** (full 8-char: な-け-れ-ば) |
+| 2 | Convenience store, 5-min errand | コンビニに飲み物を買って来てもいいですか？五分**戻ります** | ❌ | 五分**で**戻ります (で = timeframe) |
+| 3 | Child has fever, take day off | 子供**は**熱があるんですが、休みを取ってもいいでしょうか | ❌ | 子供**に**熱がある (に = person with fever) |
+| 4 | Road congested, will be late | 道が混んでいて、動かないんですが**。遅刻します** | ❌ | んですが ends the sentence with comma, then state request — don't restart with new sentence + no permission structure |
+| 5 | Smoke outside, 10 min | 外でタバコを**行って**吸ってもいいですか？十分**に**戻ります | ❌ | 吸って**来て**もいいですか (moving away from base = 来る), 十分**で**戻ります |
+| 6 | City hall errand, leave early | 役所に書類を取りに行かなければならないんですが、早退してもいいでしょうか | ✅ | Perfect |
+| 7 | Forgot laptop, go get it | パソコン**が**家に**お忘れました**、取りに帰ってもいいでしょうか | ❌ | パソコン**を**家に**忘れた**んですが (を = object; no お before own actions; んですが not ました,) |
+
+**Score: 1/7 clean**
+
+#### Recurring error patterns this session
+
+| Error | Rule |
+|---|---|
+| なれば → **なければ** | Full pattern: な-**け**-れ-ば — don't drop け |
+| 五分**に** → 五分**で** | で = duration/timeframe; に = specific clock time |
+| 子供**は** → 子供**に** | に marks the person who has a condition (熱がある) |
+| んですが**。新文** | んですが ends with comma, flows into the request — not a sentence break |
+| 行って来て direction | Moving away from base → 来る (不自然: 行って行く) |
+| パソコン**が** → **を** | パソコン is direct object of 忘れる → を |
+| **お**忘れました | お is honorific for others' actions, not your own |
+| Double connector (5th session) | んですが OR それで — never both |
+
+#### What went well
+- **#6 perfect** — full sequence with なければならない + んですが + permission, first try
+- **なければ** spelling — correct in #1 except で missing け
+- **Permission reflex** — てもいいでしょうか appearing consistently
+
+#### Open items
+- で for duration — still triggering に reflex
+- んですが flow (comma, not period) — still splitting sentences
+- を for objects in compound phrases
+- お before own actions — new error
+- L14 target: 5/7 clean before L15
+
+---
+
+### 2026-04-18 — Warm-up: する 12-form (partial)
+
+**Context:** Session warm-up before L14 Round 5. Nasi provided 8 of 12 する forms without prompting; polite-basic 4 (します/しません/しました/しませんでした) were missing.
+
+| Form | Answer | Result |
+|---|---|---|
+| Plain affirmative | する | ✅ |
+| Plain negative | しない | ✅ |
+| Plain past | した | ✅ |
+| Plain past negative | しなかった | ✅ |
+| Polite affirmative | — | ❌ (missing) |
+| Polite negative | — | ❌ (missing) |
+| Polite past | — | ❌ (missing) |
+| Polite past negative | — | ❌ (missing) |
+| Potential plain | できる | ✅ |
+| Potential polite | できます | ✅ |
+| Volitional plain | しよう | ✅ |
+| Volitional polite | しましょう | ✅ |
+
+**Score: 8/12** — plain + potential + volitional all solid; polite-basic row not produced. Session cut short.
+
+---
+
+### 2026-04-18 — Mini-drill + L14 Consolidation Round 5
+
+#### Mini-drill: Targeted error patterns
+
+**Round A: で vs に (duration vs time point) — 6/6 ✅**
+
+All correct. で for duration fully locked.
+
+**Round B: を vs が (object particle) — 3/5**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 財布___忘れました | 🟡 | 財布**を**お忘れました → お before own actions never |
+| 2 | パソコン___家に忘れました | ❌ | パソコン**が** → **を** (が reflex on 忘れる) |
+| 3 | 鍵___なくしました | ❌ | 鍵**が** → **を** (same reflex on なくす) |
+| 4 | 書類___持ってきました | ✅ | |
+| 5 | カバン___電車に忘れました | ✅ | |
+
+**Round C: んですが flow — 3/5**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 熱→早退 (boss) | ✅ | |
+| 2 | 財布忘れ→取りに帰る (boss) | ✅ | |
+| 3 | 用事→三時早退 (boss) | 🟡 | も dropped → して**も**いいでしょうか |
+| 4 | 道混み→遅刻 (boss) | 🟡 | 少**し** dropped |
+| 5 | 病院なければ→今日休み (boss) | 🟡 | 病院**に** dropped, 休み**て**→休**んで** (む-verb) |
+
+New error: む-verb て-form — 休む → 休**んで** (not 休みて)
+
+#### L14 Consolidation Round 5 — 5/7 ✅ TARGET REACHED
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 結婚式→金曜休み (boss) | ✅ | |
+| 2 | 子供が学校で熱→迎えに行く (boss) | ✅ (3rd try) | 子供**に**熱がある — took 3 attempts |
+| 3 | 財布忘れ→取りに帰る、5分 (coworker) | ✅ | を, で, ですか all correct |
+| 4 | お腹痛い→病院→午後休み (boss) | ✅ (2nd try) | なければならない + 休んで |
+| 5 | 外で電話→5分 (coworker) | 🟡 | Wrong permission content (戻るて→出て); 戻って te-form |
+| 6 | 来週家族用事→月曜休み (boss) | ✅ | |
+| 7 | 電車止まり→30分遅れる (boss, report) | ✅ | それで used correctly |
+
+#### What went well
+- **5/7 target reached** — L14 consolidation complete
+- **で for duration** — 6/6 in mini-drill, appearing in sentences naturally
+- **んですが + でしょうか** — consistent across most attempts
+- **を for objects** — clicking when not under pressure (財布を, 書類を)
+- **それで** — used correctly for report (two full sentences)
+- **Full sequence** — #1, #3, #4, #6 all clean
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| お before own action | お is honorific for others only — never for your own action | ⚠️ recurring |
+| が reflex on 忘れる/なくす | These take を — you're doing it to the object | ⚠️ recurring |
+| 子供に熱がある | に marks the person with the condition | ⚠️ recurring (took 3 tries) |
+| 休みて → 休んで | む-verb て-form: む → んで | New |
+| Permission content (#5) | Stepping out = 外に出てもいいですか, not asking to return | New |
+
+#### Open items
+- 子供に熱がある — に still fragile under pressure
+- む-verb て-form reflex (休んで, 飲んで vs 休みて)
+- お before own actions
+- Permission content: ask for the action you want to DO, not what happens after
+
+---
+
+---
+
+### 2026-04-19 — L15 Grammar Intro (patterns 1–5, no roleplay)
+
+#### Vocab recognition — Round 1
+
+**Symptoms (10 words): 10/10 ✅**
+**Hospital/medicine vocab (9 words): 8/9**
+
+| Word | Result | Note |
+|------|--------|------|
+| 内科 | 🟡 | Said "specialist" → internal medicine department |
+| お大事に | 🟡 | Said "big thing" → set phrase: take care / get well soon |
+| 整形外科 | ✅ (clarification) | User asked if it appeared — yes, on hospital map. Not 整形 = plastic surgery, it's orthopedics |
+
+#### Grammar pattern drill
+
+**Pattern 1: んです expanded**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんです (N) | 🟡 | Wrote 風んですが → needs **な** before んです for nouns |
+| 学生なんです | ✅ | |
+| 休みなんです | ✅ | |
+| 頭が痛いんです (い-adj) | ✅ | |
+| 熱が高いんです | ✅ | |
+| 毎日薬を飲むんです (V-dict) | 🟡 | Wrote 毎日を飲んです — を on wrong word, dropped む |
+| 病院に行くんです | ✅ | |
+| 昨日転んだんです (V-past) | ✅ | |
+| 薬を飲まないんです (V-neg) | 🟡 | 飲みないんです → ない-form needs あ-row base: 飲ま**ない** |
+| 食欲がないんです | ✅ | |
+
+**Pattern 2: ないでください**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 写真を撮らないでください | 🟡 | Wrote 撮って → wrong direction (て not ない) |
+| 食べないでください | 🟡 | 食べな**でください** → dropped い from ない |
+| 走らないでください | ✅ | Added ここで自己追加 |
+| 薬を飲まないでください (read) | ✅ | |
+| 一人で動かないでください (read) | ✅ | |
+
+**Pattern 3: V(plain)+N**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲む薬 (read) | ✅ | |
+| 貼る薬 (read) | 🟡 | Said "medicine prescribed" → medicine you stick on / patch |
+| 塗る薬 (read) | ✅ | |
+| 英語を話す先生 (produce) | 🟡 | Used 英語のできる先生 (の construction — valid but not target pattern) |
+| 八時に開く病院 | ✅ | |
+| 食事の前に飲む薬 | 🟡 | Several attempts; added 食べ at front, missing を |
+
+**Pattern 4: V-る前に / V-たあとで**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 病院に行く前に | 🟡 | Wrote 病院の前に行く → reversed order; 病院の前に = in front of the hospital |
+| 食べたあとで | 🟡 | Wrote 食べる後で → needs past form (た) |
+| 薬を飲む前に | 🟡 | Wrote 飲む前に薬 → missing を, wrong word order |
+| 診察したあとで、薬局に行ってください | 🟡 | Wrote しんさつの後で → する verb needed |
+| 寝る前に、薬を飲んでください | ✅ | |
+| 手を洗ったあとで、食べてください | 🟡 | Wrote 洗った、食べてください → missing **あとで** |
+
+**Pattern 5: とき**
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 頭が痛いとき (read) | ✅ | |
+| 眠れないとき (read) | 🟡 | Said "when sleepy" → 眠れない = can't sleep; どうしますか = what do you do |
+| 熱があるとき、休んでください | 🟡 | 熱があるいとき → spurious い added |
+| 病院に行ったとき、人が多かった | ✅ | |
+| 食欲がないとき、医者に伝えてください | ✅ | |
+
+**Mixed drill — 6/7**
+
+| # | Prompt | Result | Note |
+|---|--------|--------|------|
+| 1 | 頭が痛い。___病院に行きました | ✅ | それで correct |
+| 2 | 薬を___前に、食事をしてください | 🟡 | 飲んで前に → dictionary form needed: 飲む前に |
+| 3 | ここで写真を___ください | 🟡 | 撮って → 撮らないでください |
+| 4 | せきが出る___、この薬を飲んでください | ✅ | とき |
+| 5 | 昨日転んで、足が痛い___ | 🟡 | 転ぶで → 転んで (ぶ→んで te-form) |
+| 6 | 病院で診察___あとで | ✅ | したあとで |
+| 7 | 毎朝この薬を___んです | 🟡 | 飲んです → 飲む**んです** |
+
+#### What went well
+- Symptom vocab — 10/10 clean
+- んです: い-adj and V-past forms solid
+- とき: past and negative forms understood
+- Mixed drill: それで and したあとで recalled correctly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| N/な-adj + なんです | Nouns need **な** before んです | New (N pattern) |
+| ない-form base | 飲む → 飲ま**ない** (あ-row base, not masu-stem) | ⚠️ recurring |
+| ないでください: dropped い | ない stays whole + でください | New |
+| V+N word order | Verb directly before noun (no particles between) | Fragile |
+| 前に needs dictionary form | Not て-form, not past | ⚠️ recurring |
+| たあとで needs past form | 食べる後で → 食べた**あとで** | New |
+| とき: spurious い added | 熱があるいとき → 熱があるとき | New |
+| ぶ-verb て-form | 転ぶ → 転ん**で** | ⚠️ recurring (same family as む-verbs) |
+
+#### Open items
+- **All 5 L15 grammar patterns need another round** — no roleplay yet
+- Priority errors: なんです (N form), ないでください (い dropped), 前に/たあとで forms, ぶ/む て-form
+- Vocab gaps: 内科, お大事に, 塗る/貼る distinction
+- No roleplay this session — do doctor/patient scenario next session
+
+---
+
+---
+
+### 2026-04-20 — L15 Pattern Re-drill (short session)
+
+#### んです (N form)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんです | ✅ | |
+| 休みなんです | 🟡 | 休んです → missing な and み |
+| 学生なんです | ✅ | |
+| 頭痛なんです | ✅ | |
+| 薬を飲まないんです (neg) | ✅ | |
+| 食べないんです (neg) | 🟡 | 食べらないんです → ichidan: drop る, add ない (no ら) |
+| 行かないんです (neg) | ✅ | |
+
+#### ないでください
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 走らないでください | ✅ | (self-corrected) |
+| 飲まないでください | ✅ | |
+| 触らないでください | ✅ | |
+| 起きないでください | ✅ | |
+| 心配しないでください | ✅ | |
+
+**5/5 ✅**
+
+#### 前に / たあとで
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 寝る前に | ✅ | |
+| 起きたあとで | 🟡 | おきにあとで → 起きた + あとで |
+| 食べる前に | ✅ | |
+| 薬を飲んだあとで | ✅ | |
+| 病院に行く前に | ✅ | (self-corrected) |
+| 診察したあとで | 🟡 | 医者を診察した → を wrong (医者 is not the object of 診察) |
+| 手を洗う前に | ✅ | |
+
+#### とき
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 熱があるとき (read) | ✅ | |
+| 眠れないとき (read) | ✅ | |
+| お腹が痛いとき、休んでください | ✅ | |
+| 病院に行ったとき、待ち時間が長かった | ✅ | |
+
+**4/4 ✅**
+
+#### What went well
+- ないでください — 5/5 clean, pattern solid
+- とき — 4/4 clean
+- 前に/たあとで — mostly solid, one particle error
+- んです: N form improving (3/4), neg form mostly solid
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 休みなんです — dropped み and な | Noun stays whole + な + んです | ⚠️ recurring |
+| 食べらない — spurious ら | Ichidan: drop る only → 食べない | ⚠️ recurring |
+| 医者を診察した | 医者 is not the object of 診察; use 診察したあとで | New |
+
+#### Open items
+- Doctor/patient roleplay — next session
+- んです N form: 休み pattern still slipping
+- Ichidan negative: no ら
+
+---
+
+---
+
+### 2026-04-21 — L15 Roleplay + Pattern drill + Vocab
+
+#### Doctor/patient roleplay — Round 1
+
+Scenario: stomach pain + fever, one week
+
+| Turn | Result | Note |
+|------|--------|------|
+| どうされましたか | ✅ | お腹が痛くて、熱があります |
+| 保険証はお持ちですか | ✅ | はい、どうぞ |
+| いつからですか | 🟡 | いちしゅうかんからです → 一週間**前**からです |
+| 他に症状はありますか | ✅ | 他に症状はありません (self-corrected) |
+| 食欲はありますか | 🟡 | 食欲はちょっとありません → 食欲が**あまり**ありません (は sounds like contrast) |
+| アレルギーはありますか | ✅ | ペニシリンです |
+| Doctor instructions (ないでください) | ✅ | Understood辛い/冷たい食べ物 restriction |
+| 酸っぱい食べ物はいいですか | ✅ | Natural curveball in character |
+| 運動はどうですか | ✅ | Natural follow-up in character |
+
+Overall: natural flow, good instincts on curveballs
+
+#### んです N form + ichidan negative drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 休みなんです | ✅ | (was recurring error — now clean) |
+| 頭痛なんです | ✅ | |
+| 私用なんです | 🟡 | しょうなんです → 私用 = しよう (two chars), needs な |
+| 用事なんです | ✅ | |
+| 食べない (ichidan) | ✅ | |
+| 見ない | ✅ | |
+| 起きない | ✅ | |
+| 起きないんです | 🟡 | 起きなんです → ない stays whole (起きない + んです) |
+| 食べないんです | ✅ | |
+| 見ないんです | ✅ | |
+| 飲まないんです (godan) | ✅ | |
+| 行かないんです | ✅ | |
+| 話さないんです | ✅ | |
+
+#### Sentences in context
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 風邪なんですが、来ないでください | 🟡 | 風があるんですが → 風邪なんですが (noun needs な; 風≠風邪) |
+| 食欲がないんですが、無理に食べないでください | ✅ | が added correctly |
+| 薬を飲まないんですが、処方しないでください | ✅ | |
+| 用事なんですが、三時以降電話しないでください | ✅ | |
+
+#### Vocab — Round 2
+
+| Word | Result |
+|------|--------|
+| 吐き気がする | ✅ |
+| 鼻水が出る | ✅ |
+| 足をくじいた | 🟡 | Said "sprain leg" → sprained ankle (くじく = to sprain specifically) |
+| 処方箋 | ✅ |
+| 内科 | ✅ |
+| 保険証 | ✅ |
+| 塗る薬 | ✅ |
+| 貼る薬 | ✅ |
+| 症状 | ✅ |
+| 食欲がない | ✅ |
+| 目がかゆい | ✅ |
+| なるべく | 🟡 | Unknown → as much as possible |
+| 避ける | 🟡 | Needed prompt → to avoid |
+| お大事に | ✅ |
+| どうされましたか | 🟡 | Said "how are you" → "what's the matter / what brings you in" |
+
+#### What went well
+- Roleplay flow natural — asked good curveball questions
+- ないでください in context ✅
+- Godan negatives solid
+- Vocab: most hospital/medicine words clicking
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| いちしゅうかんから → 一週間前から | Duration from = 〜前から | New |
+| 食欲はちょっと → 食欲があまり | は for contrast; が for neutral subject | ⚠️ recurring (は/が) |
+| 私用 reading | しよう not しょう | Vocab |
+| 起きなんです | ない stays whole: 起きない + んです | ⚠️ recurring |
+| 風 vs 風邪 | 風 = wind; 風邪 = cold | Vocab confusion |
+| なるべく、避ける | Unknown vocab | New words to add to Anki |
+| どうされましたか | "what's the matter" not "how are you" | Vocab/phrase |
+
+#### Open items
+- Second roleplay round with different symptoms (next session)
+- なるべく、避ける — add to Anki
+- 一週間前から — duration pattern
+- は vs が still slipping under natural speech
+
+---
+
+---
+
+### 2026-04-22 — L15 Roleplay Round 2 + Vocab drill
+
+#### Roleplay — influenza scenario
+
+Patient presented with: 熱38.5度（昨日の夜から）、せきが出る、だるい → diagnosed with インフルエンザ
+
+| Turn | Result | Note |
+|------|--------|------|
+| Opening symptom | ✅ | 昨日の夜から、熱が三十八度五分あるんです — natural, excellent |
+| 他に症状はありますか | ✅ | ないです |
+| のどは痛いですか | ✅ | いいえ |
+| せきはありますか | ✅ | 咳が出ます |
+| だるいですか | ✅ | はい、だるいです |
+| Doctor instructions (ないでください、あとで) | ✅ | Understood |
+
+No errors — cleanest roleplay yet.
+
+#### Vocab drill — Round 3
+
+| Word | Result | Note |
+|------|--------|------|
+| だるい | 🟡 | Unknown → sluggish/lethargic when sick |
+| なるべく | 🟡 | Unknown → as much as possible |
+| 避ける | ✅ | |
+| 胃腸炎 | 🟡 | Said appendicitis → gastroenteritis; appendicitis = 盲腸 |
+| 診察 | ✅ | |
+| 処方箋 | ✅ | |
+| 問診票 | 🟡 | Unknown → medical questionnaire (reception form) |
+| 受付 | ✅ | |
+| 記入する | 🟡 | Said "to record" → to fill in/fill out a form |
+| 保険証 | ✅ | |
+| 内科 | ✅ | |
+| 整形外科 | 🟡 | Said plastic surgery → orthopedics (美容外科 = plastic surgery) |
+| 薬局 | ✅ | |
+| レントゲン | ✅ | |
+| 頭をぶつけた | ✅ | |
+| 足をくじいた | ✅ | |
+| 吐き気がする | ✅ | |
+| 目がかゆい | ✅ | |
+| 食欲がない | ✅ | |
+| 鼻水が出る | ✅ | |
+| せきが出る | ✅ | |
+| 熱が下がる | ✅ | |
+| お大事に | ✅ | |
+| どうされましたか | ✅ | |
+
+**19/24** — gaps: だるい, なるべく, 胃腸炎, 問診票, 記入する, 整形外科
+
+#### What went well
+- Roleplay — no errors, natural opener with 三十八度五分
+- Vocab: symptom words all solid
+- Hospital flow (reception → exam → prescription) — natural
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| だるい | Unknown → sluggish/lethargic; い-adj | New vocab |
+| なるべく | Unknown → as much as possible | ⚠️ recurring gap |
+| 胃腸炎 vs 盲腸 | 胃腸炎 = gastroenteritis; 盲腸 = appendicitis | Vocab |
+| 問診票 | Medical questionnaire at reception | ⚠️ recurring gap |
+| 記入する | To fill in a form (not just "record") | Vocab |
+| 整形外科 | Orthopedics, not plastic surgery | ⚠️ recurring |
+
+#### Open items
+- Add to Anki: だるい, なるべく, 問診票, 記入する
+- 整形外科 vs 美容外科 — keep drilling
+- V+N pattern (食事の前に飲む薬 etc.) — not drilled this session
+- L15 consolidation drill or move to L16?
+
+---
+
+---
+
+### 2026-04-24 — L15 V+N drill + Production drill
+
+#### V+N pattern drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| せきを抑える薬 (read) | ✅ | |
+| 熱を下げる薬 (read) | ✅ | |
+| 塗る薬 (produce) | 🟡 | める薬 → 塗る stays as dictionary form |
+| 日本語ができる医者 | 🟡 | Missing が: 日本語**が**できる |
+| 早く開く病院 | ✅ | |
+| 一日三回飲む薬 | 🟡 | Added を before 飲む → frequency adverb needs no particle |
+| 信頼できる医者 | 🟡 | Added が → 信頼できる is compound, no が |
+| 病院の近くの薬局 | 🟡 | 近くに病院薬局 → N+の+N construction; word order off |
+
+#### Production drill (full sentences)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 朝から頭が痛いんですが | ✅ | Natural, correct |
+| 食欲がなくて、吐き気がするんですが | 🟡 | 食欲があって → ない (no appetite); ない→なくて |
+| 昨日走って、足首をくじきました | ✅ | |
+| 熱が三十九度あって、だるいんですが、早退してもいいでしょうか | 🟡 | Double が (熱が〜があって); 早い帰って → 早退して |
+| ひどい咳が出て、眠れないんですが | 🟡 | すごい咳 → すごく/ひどい; 寝ない → 眠れない |
+| 家に薬を忘れたんですが、取りに帰ってもいいですか | 🟡 | 行って来て → 取りに帰る not recalled |
+| 三時に歯医者があるんですが、早退してもいいでしょうか | ✅ | Clean |
+
+#### What went well
+- 前に/たあとで + とき patterns not needed — already solid
+- Full sequence sentences: opening and closing structure correct
+- 歯医者があるんですが — produced independently and cleanly
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 塗る before noun — verb form | Dictionary form directly before noun | ⚠️ recurring |
+| 日本語ができる — missing が | ができる needs が | New |
+| Frequency adverb + 飲む — spurious を | Time/frequency words take no particle | New |
+| 食欲がない → なくて | ない is い-adj: drop い → なくて | ⚠️ recurring |
+| すごい → すごく | すごい is adj; adverb form = すごく | New |
+| 眠れない vs 寝ない | 眠れない = can't sleep (inability); 寝ない = don't sleep (choice) | New |
+| 取りに帰る | Go back to get something — L14 pattern not recalled | ⚠️ recurring |
+| 熱が〜があって | Double が — 熱がある, not 熱が〜があって | ⚠️ recurring |
+
+#### Open items
+- V+N: particle errors still appearing (が for できる, no を for frequency)
+- 取りに帰る — needs more reps
+- 眠れない vs 寝ない distinction
+- すごい (adj) vs すごく (adverb)
+- L15 consolidation or L16 intro?
+
+---
+
+---
