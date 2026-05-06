@@ -578,4 +578,86 @@ Errors that have appeared more than once are marked ⚠️ **recurring**.
 
 ---
 
-*Next session: Continue L16 mixed drilling (focus on する-bridging) → mini-roleplay if reflexes look automatic.*
+---
+
+### 2026-05-05/06 — L16 Mixed Drill Round 2 + Health Advice Roleplay
+
+#### する-bridge drill (V-たり + ようにしています/といいですよ)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| Identify missing する in ジョギングしたり、ヨガをしたりようにしています | ✅ | |
+| Fix: ジョギングしたり、ヨガをしたりするようにしています | ✅ | |
+| 運動したり、野菜を食べたりするようにしています | ✅ | |
+| 眠れないときは、温かい牛乳を飲んだり、音楽を聴いたりするといいですよ | 🟡 | 眠るない → 眠れない (potential negative); ぎゅにゅう → 牛乳 (long ゅう) |
+| 二日酔いの時は、スープを飲んだり、休んだりするといいですよ | 🟡 | スープを食べる → 飲む (liquid uses 飲む) |
+| 週末、泳いだり、走ったりするようにしています | ✅ | |
+
+#### V-すぎる drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲みすぎ | ✅ | |
+| 働きすぎる | ✅ | |
+| 寝すぎる | ✅ | |
+| 仕事をしすぎて、疲れています | 🟡 | しすぎました → て-form for cause/result |
+| 飲みすぎて、頭が痛いです | 🟡 | 飲んだすぎる → drop た, masu-stem only: 飲みすぎる |
+| スマホを見すぎて、目が痛いです | ✅ | |
+| 飲みすぎないようにしています | 🟡 | のみすぎなようにしています → ない stays whole, not な |
+| 食べすぎないようにしています | ✅ | |
+| 寝過ぎないようにしています | ✅ | |
+
+#### Negative たり pattern (たり、たり、しないようにしています)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 飲みすぎたり、食べすぎたりしないようにしています | ✅ (after explanation) | Items stay positive; ない goes on final する |
+| 夜コーヒーを飲んだり、寝る前にスマホを見たりしないようにしています | 🟡 | Used 飲みたり/見たり (masu-stem) → 飲んだり/見たり (past form + り) |
+| 食べすぎたり、仕事をしすぎたりしないようにしています | 🟡 | 仕事をすぎしたり → 仕事をしすぎたり (し comes BEFORE すぎ) |
+| スマホを見すぎたり、遅く寝たりしないようにしています | 🟡 | 遅い → 遅く (adverb); 遅い寝したり → 遅く寝たり (no し for non-する verbs) |
+
+#### Health advice roleplay
+
+Scenario: Friend feels unwell (insomnia + sluggish), giving advice.
+
+| Turn | Result | Note |
+|------|--------|------|
+| それはいけませんね (sympathy) | 🟡 | Said それないけませんね → それはいけませんね (は missing) |
+| Advice 1: コーヒーを飲むといいですよ | ✅ structure / 🟡 content | Grammar correct, but advised coffee for insomnia (counterproductive — pushed back in character) |
+| Advice 2: 温かいミルクを飲むといいですよ | 🟡 | あたたかミルク → 温かいミルク (い missing) |
+| Habit response 1: 運動したり、お茶を飲みしたりしています | 🟡 | 飲みしたり → 飲んだり (past form + り) |
+| Habit response 2: 毎朝外で歩いたり、時々家でヨガをしたりしてます | 🟡 | 歩くしたり → 歩いたり (past form + り) |
+| Decline invitation: 一人で歩きます | 🟡 | 私が自分を歩きます → 一人で〜 |
+
+#### What went well
+- する-bridge: clean across all drills today (compared to recurring slips yesterday)
+- すぎる base pattern: cleaner conjugation reflex
+- Spotted missing する on identification task (Round 1) ✓
+- Roleplay: stayed in character, kept conversation flowing
+- 飲みすぎたり、食べすぎたりしないようにしています — got the negative-on-final-する pattern after one explanation
+- Self-correction (mid-sentence) on pattern combinations
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 飲みたり / 歩くしたり / 飲みしたり | た-form + り (PAST FORM, not masu-stem) | ⚠️ recurring (4 times today) — top priority |
+| ました vs て-form for cause/result | Connect with て (飲みすぎて〜) | ⚠️ recurring |
+| 早い/遅い → 早く/遅く for adverb | い-adj adverb form: drop い, add く | ⚠️ recurring |
+| 眠るない → 眠れない | "Can't sleep" = potential negative | ⚠️ recurring |
+| のみすぎなようにしています | ない stays whole, not な | New variant |
+| それないけませんね | それはいけませんね — は particle | New |
+| あたたかミルク | 温かい (full い-adj form before noun) | New |
+| スープを食べる → 飲む | Liquid (soup, medicine) uses 飲む | ⚠️ recurring (drilled in L15 — medicine) |
+| 仕事をすぎしたり | Word order: し → すぎ (し comes BEFORE すぎ) | New |
+
+#### Open items
+- **た-form + り (past form, not masu-stem)** — top priority, slipped 4x today
+- ました → て-form for cause/result (chronic)
+- 早い/遅い → adverb form for modifying verbs
+- 飲む for liquid items (スープ, 薬, ミルク)
+- L16 patterns mostly clicking; one more drill round → consolidation
+
+---
+
+*Next session: L16 consolidation — focus on た-form + り reflex, then full L16 production drill (paragraph-length).*
