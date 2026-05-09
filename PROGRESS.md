@@ -660,4 +660,87 @@ Scenario: Friend feels unwell (insomnia + sluggish), giving advice.
 
 ---
 
-*Next session: L16 consolidation — focus on た-form + り reflex, then full L16 production drill (paragraph-length).*
+---
+
+### 2026-05-09 — L16 Consolidation (た-form+り reflex + paragraph production)
+
+#### た-form + り conjugation drill — 12/12 ✅
+
+| Verb | Result |
+|------|--------|
+| 飲む → 飲んだり | ✅ |
+| 食べる → 食べたり | ✅ |
+| 走る → 走ったり | ✅ |
+| 聞く → 聞いたり | ✅ |
+| 泳ぐ → 泳いだり | ✅ |
+| 遊ぶ → 遊んだり | ✅ |
+| 書く → 書いたり | ✅ |
+| 話す → 話したり | ✅ |
+| 待つ → 待ったり | ✅ |
+| 買う → 買ったり | ✅ |
+| 見る → 見たり | ✅ |
+| する → したり | ✅ |
+| 来る → 来たり | ✅ |
+
+**た-form + り reflex now solid** (was top priority recurring slip)
+
+#### Sentence-level たり drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 週末は、本を読んだり、映画を見たりします | 🟡 | 見たります → 見たりします (no extra り between し and ます) |
+| ジョギングしたり、ヨガをしたりします | 🟡 | ヨーガ → ヨガ (no extension) |
+| 昨日、料理をしたり、掃除をしたりしました | ✅ | Past tense ending |
+| 朝、運動したり、野菜を食べたりします | ✅ | |
+| 早く寝たり、運動したりするようにしています | ✅ | する-bridge + adverb 早く |
+| 食べすぎたり、飲みすぎたりしないようにしています | 🟡 | たりない**する** → たり**しない** (don't split しない) |
+| 遅く寝たり、スマホを見たりしないようにしています | 🟡 | 遅い → 遅く (adverb form) |
+
+#### Paragraph production (own health habits)
+
+User produced:
+1. 毎朝、ジョギングしたり、ジムをしたり 🟡 (missing しています; ジムをする → ジムに行く)
+2. 揚げ物を食べたりしないようにしています ✅ (structurally correct; with single item, simpler is 揚げ物を食べないようにしています)
+3. 野菜を食べすぎたりようにしています 🟡 (missing する; meaning slip — "trying to eat too many vegetables")
+4. 寝る3時間前に、食べないようにしています ✅
+
+#### Paragraph production (health advice)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| かたがこる時は、ヨガするとといいですよ | 🟡 | ヨガをする (need を); double と (only one と) |
+| 寝るない時は、暖か牛乳を飲むといいですよ | 🟡 | 寝るない → 眠れない; 暖か → 温かい (full adj form before noun) |
+| 眠れない時は、温かい牛乳飲んだり、ヨガをしたりといいですよ | 🟡 | Missing を after 牛乳; missing する before といいですよ |
+| 二日酔い時は、水を飲んだり、休んだりするといいですよ | 🟡 | 二日酔い**の**とき (noun + の + とき) |
+| 眠れない時は、温かい牛乳を飲んだり、音楽を聴いたり、ぬるいお風呂に入ったりするといいですよ | ✅ | **3-item full pattern, all bridges, clean** |
+
+#### What went well
+- **た-form + り conjugation 12/12 reflex** — top priority recurring slip resolved
+- 3-item たり advice sentence cleanly produced at end (温かい牛乳 + 音楽 + お風呂)
+- する-bridge consistently included after explicit reminders
+- 早く/遅く adverb form caught and corrected mid-drill
+- Past-tense たり ending (しました) — clean reflex
+- ぬるいお風呂 + 入る — clean recall from L16 textbook example
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| たりない**する** | しない is one piece — don't split it | New |
+| ヨーガ vs ヨガ | カタカナ length: ヨガ (no extension) | ⚠️ recurring |
+| 二日酔い時 → 二日酔いのとき | Noun + の + とき | ⚠️ recurring (drilled L16 R1 also) |
+| 暖か → 温かい | Full い-adj before noun (don't drop い) | ⚠️ recurring |
+| 寝るない → 眠れない | "Can't sleep" = potential negative | ⚠️ recurring |
+| 双と (double と) | Only one と before いいですよ | New |
+| ジムをする vs ジムに行く | "Go to the gym" = ジムに行く | New |
+| Missing しています at end of たり、たり list | V-たり、V-たり**しています** ending required | ⚠️ recurring |
+
+#### Open items
+- 温かい / 寒い / 冷たい — full い-adj before noun (recurring)
+- 眠れない (potential negative) vs 寝ない (don't sleep by choice)
+- のとき after nouns (vs verbs which use just とき directly)
+- L16 mostly consolidated — ready for full L16 roleplay round 2 (longer / more spontaneous)
+
+---
+
+*Next session: L16 full roleplay round 2 (less structured, more spontaneous health discussion) — if clean, then L17 intro.*
