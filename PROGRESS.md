@@ -580,4 +580,48 @@ User produced:
 
 ---
 
-*Next session: L16 full roleplay round 2 (less structured, more spontaneous health discussion) — if clean, then L17 intro.*
+---
+
+### 2026-05-11 — L16 Spontaneous Roleplay (Round 2)
+
+Scenario: Lunch chat with a coworker — they notice user looks tired; conversation about health habits, exercise, sleep, diet.
+
+| Turn | Result | Note |
+|------|--------|------|
+| かたがこるですね | 🟡 | Verb + です awkward → 肩がこっています / 肩こりなんです |
+| 昨日、あいきどしました | ✅ | Communicated clearly |
+| 週に3回しています | ✅ | Natural |
+| 眠れてないですね、大変です | 🟡 | Casual contraction fine but 眠れていないんです for explanation context |
+| 眠れない時は、温かい牛乳を飲んだり、ぬるいお風呂にゆっくり入ったりします | ✅ | **Full pattern, all bridges, spontaneous** |
+| 運動しすぎないようにしています | ✅ | すぎる + ない + ようにしています combined cleanly |
+| 揚げ物を食べすぎました。喉が痛いんですが | 🟡 | Two facts; better: 揚げ物を食べすぎて、喉が痛いんです (て-form) |
+
+#### What went well
+- Spontaneous responses without prompts
+- 温かい牛乳 / ぬるいお風呂 patterns recalled correctly under conversation pressure
+- 運動しすぎない — すぎる + ない compound landed cleanly
+- 揚げ物を食べすぎました — すぎる reflex working in past tense
+- Conversation flow natural; understood and responded to questions about frequency, sleep
+- Stayed in character throughout
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 肩がこるですね | Verb (肩がこる) doesn't take です directly — use ている state or んです | New |
+| 食べすぎました。痛いんですが | Cause/result with て-form (食べすぎて、痛いんです) | ⚠️ recurring (3+ sessions) |
+| Casual contractions in formal context | 眠れてない is casual — in coworker context, 眠れていないんです | New |
+
+#### Open items
+- L16 ready — move to L17 next session
+- Cause/result て-form vs separate ました sentences (chronic — keep watching)
+- Reading: see if L17 PDF is available
+
+#### Status
+- **L16 complete** — all 4 patterns producing spontaneously in roleplay
+- Persistent error tracker: cause/result て-form (5+ sessions), 眠れない vs 寝ない, のとき after nouns
+- Closed: た-form + り (12/12 ✅), する-bridge in たり+ようにしています
+
+---
+
+*Next session: L17 intro — read Y_L17.pdf, give summary, start vocab recognition.*
