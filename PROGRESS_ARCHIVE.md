@@ -4134,3 +4134,166 @@ No errors — cleanest roleplay yet.
 ---
 
 ---
+### 2026-04-25 — L15 Consolidation drill
+
+#### Production drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| お腹が痛くて、食べられないんですが | 🟡 | 食べない → 食べられない (can't eat); 痛い→て-form |
+| ひどい咳が出て、眠れないんですが | 🟡 | 強い咳があって → ひどい咳が出て; 眠るない → 眠れない |
+| 財布を家に忘れたんですが、取りに帰ってもいいですか | 🟡 | Particles flipped (財布に家を); 取りを帰って → 取りに帰って |
+| 二時に歯医者があるんですが、早退してもいいでしょうか | 🟡 | Missing に for time; 〜があって → んですが |
+| 三十八度熱があって、だるいんですが、早退してもいいでしょうか | ✅ | |
+| 用事があるんですが、三時に早退してもいいでしょうか | ✅ | |
+| 電車が止まっているんですが、三十分ぐらい遅れます | 🟡 | 止まりんです → 止まっている (ている for state); ごろ → ぐらい |
+| ひどい風邪をひいて、病院に行かなければならないんですが、今日休んでもいいでしょうか | ✅ (3rd try) | 風邪がある → 風邪をひく; なけれべ typo; 休んでしたい → 休んでもいいでしょうか |
+
+#### What went well
+- Permission structure (んですが + でしょうか/ですか) — consistent
+- 早退してもいいでしょうか — used naturally
+- 取りに帰る — recalled after particle correction
+- 風邪をひく — got it on 3rd try, understood the pattern
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 食べない → 食べられない | Can't eat = potential negative 食べられない | ⚠️ recurring |
+| 咳がある → 咳が出る | Cough uses 出る, not ある | ⚠️ recurring |
+| 眠るない → 眠れない | Potential negative: 眠る → 眠れない | ⚠️ recurring |
+| 財布に家を → 財布を家に | を marks thing forgotten, に marks location | ⚠️ recurring particle |
+| 取りを帰る → 取りに帰る | に marks purpose: 取り**に**帰る | ⚠️ recurring |
+| 止まりんです → 止まっているんです | Ongoing state needs ている | ⚠️ recurring |
+| ごろ vs ぐらい | ごろ = approximate time point; ぐらい = approximate amount/duration | ⚠️ recurring |
+| 風邪をひく | Set phrase — 風邪 always pairs with ひく | New |
+
+#### Open items
+- 食べられない / 眠れない — potential negative needs more reps
+- 取りに帰る — particles still slipping
+- ている for ongoing states
+- ごろ vs ぐらい distinction
+
+---
+
+---
+
+### 2026-04-26 — L16 Intro (PDF summary + vocab + grammar patterns 1-4)
+
+#### L16 PDF read + summary
+- Topic: 健康な生活 (healthy living habits, giving health advice)
+- Title: 食べすぎないようにしています
+- 4 grammar patterns: V-るといいですよ, V-すぎます, V-たり〜V-たり, V-る/V-ない+ようにしています
+
+#### Vocab recognition
+
+**Body parts:**
+
+| Word | Result | Note |
+|------|--------|------|
+| 肩 | ✅ | |
+| 胸 | ✅ | |
+| 腰 | ✅ | |
+| 背中 | 🟡 | "middle back" → just "back" (whole back) |
+| 腕 | ✅ | |
+| 指 | 🟡 | "elbow" → finger; elbow = 肘 |
+| 首 | ✅ | |
+| 歯 | ✅ | |
+
+**Health habits:**
+
+| Word | Result | Note |
+|------|--------|------|
+| 肩がこる | 🟡 | "shoulder pain" → stiff shoulders (specific Japanese health term) |
+| 二日酔い | ✅ | |
+| 運動する | ✅ | |
+| 野菜 | ✅ | |
+| 気をつける | 🟡 | Unknown → to be careful / mindful |
+| できるだけ | 🟡 | "try to" → as much as possible (= なるべく) |
+| 最近 | ✅ | |
+| 食生活 | 🟡 | "food life" → diet / eating habits |
+| ジョギング | ✅ | |
+| ヨガ | ✅ | |
+
+**Disease/prevention:**
+
+| Word | Result | Note |
+|------|--------|------|
+| 食中毒 | ✅ | |
+| 感染する | ✅ | |
+| 予防する | ✅ | |
+| 原因 | ✅ | |
+| 下痢 | 🟡 | "shit" → diarrhea (specific) |
+| 加熱する | ✅ | |
+| 予防接種 | ✅ | |
+
+**Score: 19/24** — gaps: 背中, 指/肘, 肩がこる, 気をつける, できるだけ, 食生活, 下痢
+
+#### Grammar drill — V-るといいですよ
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 眠れないとき、ぬるいお風呂に入るといいですよ (read) | 🟡 | お風呂 → bath, not toilet |
+| 頭が痛い時は、水を飲むといいですよ | ✅ | |
+| 眠れない時は、静かな音楽を聴くといいですよ | ✅ | |
+| 肩が凝るときは、マッサージするといいですよ | ✅ | |
+
+#### Grammar drill — V-すぎます
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 働きすぎます | ✅ | |
+| 見すぎます | ✅ | |
+| しすぎます | ✅ | |
+| 昨日飲みすぎて、二日酔いなんです | 🟡 | 二日酔いしています → 二日酔いです (noun, not verb) |
+| スマホを見すぎて、目が痛いです | ✅ | |
+| 先週働きすぎて、疲れています | 🟡 | 疲れなんです → 疲れる is verb: 疲れています |
+
+#### Grammar drill — V-たり、V-たり
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| ジョギングしたり、ヨガをしたりしています | 🟡 | ヨーガ→ヨガ; ヨガをする (noun + を + する) |
+| 週末は、映画を見たり、本を読んだりしています | 🟡 | 見した/読むした → た-form + り (見たり/読んだり) |
+| 週末は、泳いだり、走ったりしています | ✅ | Reflex built |
+
+#### Grammar drill — V-る/V-ない + ようにしています
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 毎日野菜を食べるようにしています | ✅ | |
+| 飲まないようにしています | ✅ | |
+| 早く寝るようにしています | 🟡 | 眠る→寝る (寝る = go to bed; 眠る = be asleep) |
+| 寝る前にスマホを見ないようにしています | 🟡 | 見たない → 見ない (drop る, add ない directly) |
+| 食べすぎないようにしています | ✅ | Chapter title |
+
+#### What went well
+- Body part vocab — mostly clean recall
+- V-るといいですよ — clean from the start
+- V-すぎます conjugation — 3/3 reflex
+- 週末は泳いだり、走ったりしています — た-form + り reflex built mid-drill
+- 食べすぎないようにしています — combined すぎる + ない form ✓
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 二日酔いしています | 二日酔い is noun: 二日酔いです | New |
+| 疲れなんです → 疲れています | 疲れる is verb (state ている) | ⚠️ recurring |
+| 見した、読むした | た-form + り (not した) | New |
+| 寝る vs 眠る | 寝る = go to bed; 眠る = be asleep | New |
+| 見たない | V-ない form: drop る, add ない (no た) | ⚠️ recurring (ない form base) |
+| 肩がこる | Stiff shoulders (specific term, not just "pain") | New |
+| 指 vs 肘 | 指 = finger; 肘 = elbow | New |
+
+#### Open items
+- L16 mixed drill — practice combining patterns
+- Body parts: 指/肘 distinction
+- 寝る vs 眠る (and すぎる + ない compound form)
+- Roleplay: giving health advice scenario
+- できるだけ (now have both できるだけ and なるべく)
+
+---
+
+---
+
