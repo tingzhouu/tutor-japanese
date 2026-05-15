@@ -624,4 +624,101 @@ Scenario: Lunch chat with a coworker — they notice user looks tired; conversat
 
 ---
 
-*Next session: L17 intro — read Y_L17.pdf, give summary, start vocab recognition.*
+---
+
+### 2026-05-15 — L17 Intro (PDF summary + vocab recognition)
+
+#### L17 PDF read + summary
+- Title: 兄がくれたお守りです
+- Topic: 交際 (socializing) — home visits, gifts, talking about belongings, thank-you emails
+- 3 grammar patterns:
+  1. V(plain past)+N (extension of L15 V+N): 持って来た飾り, 兄がくれたお守り
+  2. 【person】に【thing】をもらう (receive)
+  3. 【person】が【thing】をくれる (give to me)
+- Big new system: family vocab duality (own = 父/兄/妻; other's = お父さん/お兄さん/奥さん)
+
+#### Family vocab recognition
+
+| Word | Result | Note |
+|------|--------|------|
+| 父 | ✅ | |
+| お母さん | ✅ | |
+| 兄 | ✅ | |
+| お姉さん | ✅ | |
+| 弟 | ✅ | |
+| 妹さん | 🟡 | "own younger sister" → other's (さん added = other's); reading いもおと → いもうと |
+| 夫 | ✅ | |
+| 奥さん | ✅ | |
+| 両親 | 🟡 | Unknown → parents (own); ご両親 = other's parents |
+| 息子 | ✅ | |
+| 娘 | ✅ | |
+| 妻 | ✅ | |
+| お子さん | 🟡 | "other son" → child (any gender) |
+| ご主人 | 🟡 | Unknown → other's husband (vs own 夫) |
+
+**11/14** — Main rule confusion: さん presence = other's family
+
+#### Gift vocab recognition
+
+| Word | Result | Note |
+|------|--------|------|
+| お土産 | ✅ | |
+| お菓子 | ✅ | |
+| 調味料 | ✅ | |
+| お守り | ✅ | |
+| 絵葉書 | ✅ | |
+| 写真集 | ✅ | |
+| 飾り | 🟡 | "accessory" → decoration (display item, not jewelry) |
+| 人形 | 🟡 | Unknown → doll (人+形 = person+shape) |
+| キーホルダー | ✅ | |
+| 魔よけ | 🟡 | Unknown → charm against evil/talisman |
+
+**7/10**
+
+#### Etiquette set phrases
+
+| Phrase | Result | Note |
+|--------|--------|------|
+| ごめんください | ✅ | "When visiting" |
+| おじゃまします | 🟡 | Unknown → "I'll intrude" (entering) |
+| おじゃましました | ✅ (inferred) | When leaving |
+| ようこそ | 🟡 | Unknown → welcome (host); etymology: 良く+こそ |
+| お世話になっています | 🟡 | Wrong context guess → greeting when meeting someone connected to a benefactor |
+| こちらこそ | 🟡 | Unknown → "same here / likewise"; こそ = emphasis particle |
+| 足をくずす | ✅ | "relax legs" — sit at ease (not seiza) |
+| 楽にしてね | 🟡 | Confused with 楽しい → 楽（らく）= comfortable |
+| ごちそうさまでした | 🟡 | Unknown → thank you after meal |
+| いただきます | 🟡 | "thank you for the meal" → BEFORE meal (or receiving) |
+| 遊びに来てください | 🟡 | "please come again" → please come visit/hang out |
+| よろしくお伝えください | 🟡 | Unknown → "please give my regards to ~" |
+
+**3/12** — Set phrases all new; need pure memorization
+
+#### What went well
+- Family vocab: clear understanding of own/other rule once corrected
+- Gift vocab: most physical items recognized
+- Etymology questions engaged (こそ, ようこそ, 楽 vs 楽しい)
+- Inferred おじゃましました from おじゃまします correctly
+
+#### Errors / vocab gaps
+
+| Item | Rule/Meaning | Status |
+|---|---|---|
+| 妹 vs 妹さん | さん = other's family marker | New |
+| 両親 vs ご両親 | Own = plain; other's = ご prefix | New |
+| ご主人 (other's husband) | Memorize with 奥さん (wife pair) | New |
+| お子さん (any gender child) | Not specifically son | New |
+| 飾り vs アクセサリー | 飾り = decoration; アクセサリー = jewelry | New |
+| 人形 (にんぎょう) | 人+形 = doll | New |
+| 魔よけ | Talisman/charm against evil | New |
+| All visiting set phrases | Pure memorization (12 phrases) | New, top priority |
+
+#### Open items
+- Grammar patterns not drilled yet — V-past+N, もらう, くれる
+- Etiquette phrases need rep (only 3/12 recognized)
+- Family own/other duality — drill flashcard-style next session
+- Set phrase pairs (いただきます↔ごちそうさまでした, おじゃまします↔おじゃましました)
+
+---
+
+*Next session: L17 etiquette phrase drill + grammar pattern intro (V-past+N, もらう/くれる).*
