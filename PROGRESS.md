@@ -721,4 +721,96 @@ Scenario: Lunch chat with a coworker — they notice user looks tired; conversat
 
 ---
 
-*Next session: L17 etiquette phrase drill + grammar pattern intro (V-past+N, もらう/くれる).*
+---
+
+### 2026-05-16 — L17 Etiquette Drill + Grammar (もらう/くれる, V-past+N)
+
+#### Etiquette phrase recall — 12/12 ✅
+
+| Phrase | Result |
+|--------|--------|
+| おじゃまします | ✅ entering |
+| おじゃましました | ✅ leaving |
+| ようこそ | ✅ host welcomes |
+| ごめんください | ✅ at door |
+| いただきます | ✅ before eating |
+| ごちそうさまでした | ✅ after eating |
+| お世話になっています | ✅ meeting benefactor's family |
+| こちらこそ | ✅ same here |
+| 楽にしてね | ✅ host says |
+| 足をくずす | ✅ relax legs |
+| 遊びに来てください | ✅ come visit |
+| よろしくお伝えください | ✅ pass message |
+
+**All 12 etiquette phrases recalled clean** (from 3/12 yesterday — pure overnight memorization)
+
+#### もらう / くれる perspective drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 兄にお守りをもらいました | ✅ | |
+| 兄がお守りをくれました | ✅ | |
+| 母に絵葉書をもらいました | 🟡 | もらえました → もらいました (potential vs simple past) |
+| 母が絵葉書をくれました | ✅ | |
+| バレンタインに、友だちにチョコレートをもらいました | ✅ | |
+| バレンタインに、友達がチョコレートをくれました | ✅ | |
+| 誕生日に、姉がカバンをくれました | ✅ | |
+| 誕生日に、両親にお金をもらいました | ✅ | |
+
+**Context-based perspective drill:**
+
+| Context | Response | Result |
+|---|---|---|
+| Where's that bag from? | 姉がくれました | 🟡 が missing first → 姉**が**くれました |
+| What did you get? | 兄にお守りをもらいました | ✅ |
+| Where's that postcard from? | 母がくれました | ✅ |
+| Who gave you the doll? | 人形は、母がくれました | ✅ |
+| Got any travel gifts? | タイの友達に調味料をもらいました | 🟡 タイ国 → タイ (no 国 with country names) |
+| Who gave you the decoration? | 飾りは、兄がくれました | ✅ |
+| What's that photo book? | 写真集は、誕生日に両親がくれました | ✅ |
+| Who gave you the keychain? | 友達が韓国のお土産にキーホルダーをくれました | 🟡 友達が韓国からくれました → needed object キーホルダー + structure |
+| Where's the bag from? | 姉がくれました | ✅ |
+
+#### V-past + N structure drill
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| 母がくれた絵葉書 | ✅ | |
+| 兄がくれたお守り | ✅ (chapter title) | |
+| 友達にもらった人形 | ✅ | |
+| これは、兄がくれたお守りです | 🟡 | おママり typo → お守り (おまもり) |
+| これは、両親にもらった写真集です | ✅ | |
+| これは、タイで買った飾りです | ✅ | |
+| これは、ベトナムから持って来た調味料です | 🟡 | ベトナムで → ベトナム**から** (origin); missing noun before です |
+| これは、私が作ったお菓子です | ✅ | |
+| これは、友達がくれたキーホルダーです | 🟡 | 友達 → 友達**が**; missing です |
+| これは、母が韓国で買った人形です | ✅ | |
+| これは、姉が誕生日にくれたカバンです | ✅ | |
+
+#### What went well
+- **Etiquette phrases 12/12** — strong overnight retention
+- もらう / くれる: distinguished perspective with growing intuition
+- V-past + N: combined with もらう/くれる cleanly by end
+- Final 3 sentences all clean (full pattern: これは、[time/giver][V-past][N]です)
+- Self-corrected カバン object addition mid-context
+- Engaged with nuance question (タイの友達 ambiguity) — good metacognition
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| もらえました → もらいました | もらえる = potential (can receive); for "received" use simple past もらいました | New |
+| Missing が for くれる subject | くれる takes が for the giver (subject) | ⚠️ recurring |
+| タイ国 → タイ | Country names don't take 国 suffix | New |
+| ベトナムで持って来た → ベトナム**から** | Origin = から; location of action = で | New |
+| Missing object/noun in V-past+N pattern | Must always have a noun after V-past | New |
+
+#### Open items
+- More もらう/くれる perspective practice (when each is natural)
+- L17 grammar mostly clicking; ready for production / roleplay next session
+- Set phrases solid — ready to use in roleplay
+- Self-pronunciation check: お守り = おまもり (typo to watch)
+
+---
+
+*Next session: L17 production drill (showing belongings, talking about gifts) → roleplay: visiting someone's home.*
