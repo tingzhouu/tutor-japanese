@@ -813,4 +813,68 @@ Scenario: Lunch chat with a coworker — they notice user looks tired; conversat
 
 ---
 
-*Next session: L17 production drill (showing belongings, talking about gifts) → roleplay: visiting someone's home.*
+---
+
+### 2026-05-17 — L17 Production Drill + Home Visit Roleplay
+
+#### Production drill (showing belongings, multi-sentence)
+
+| Prompt | Result | Note |
+|--------|--------|------|
+| これは、誕生日に妹がくれた人形です | 🟡 | 妹を → 妹**が** (くれる takes が for giver) |
+| 人形は、韓国の旅行で買ったです | 🟡 | V-past + です directly invalid; need noun + です or split into separate sentence |
+| これは、誕生日に夫がくれた飾りです。夫が中国の旅行で買いました | ✅ | Both sentences clean |
+| これは、友達にもらった絵葉書です。友達が日本で買いました | 🟡 | Missing です after 絵葉書 (otherwise clean) |
+| これは、十年前の誕生日に父にもらった時計です | 🟡 | 十年前**の**誕生日 (の to modify noun) |
+
+#### Home visit roleplay
+
+Scenario: First visit to Fukuda-san's home, brought Thai postcard as gift.
+
+| Turn | Result | Note |
+|------|--------|------|
+| ごめんください | ✅ | |
+| おじゃまします | ✅ | |
+| こちらこそ、福田さんがお世話になっています | 🟡 | Added 福田さんが — reply should just be こちらこそ、お世話になっています (about you, not 福田さん) |
+| いただきます | ✅ | |
+| あのう、これ、タイの絵葉書です。どうぞ | ✅ | Natural gift-offering phrase |
+| 来週、タイで旅行しました | 🟡 | 来週 (future) → 先週 (past); タイで → タイに (destination) |
+| 足を崩してもいいですか | ✅ | Perfect use in context |
+| 福田さんは、タイに行ったことがありますか | ✅ | Extended grammar (V-た + ことがあります) reached for naturally |
+| 仕事から | 🟡 | 仕事**で** ("for work") not 仕事から |
+| 野菜を作っています | ✅ | |
+| 人参を作っています | ✅ | |
+| お料理は美味しいですね | 🟡 | 美味しかったです (past tense — meal finished) |
+| 今日はごちそうさまでした。楽しかったです | ✅ | |
+| お邪魔しました | ✅ | |
+
+#### What went well
+- **All major etiquette phrases used in context** (ごめんください, おじゃまします, いただきます, ごちそうさまでした, お邪魔しました, こちらこそ, 足をくずしてもいいですか)
+- Stayed in character with natural conversation flow
+- Reached for extended grammar (V-た+ことがあります — "have you ever done X")
+- Gift offering: あのう、これ、タイの絵葉書です。どうぞ — clean, natural sequence
+- Production drill: 2nd, 3rd, 4th attempts noticeably cleaner than 1st
+
+#### Errors this session
+
+| Error | Rule | Status |
+|---|---|---|
+| 妹を → 妹**が** (with くれる) | くれる takes が for the giver (subject) | ⚠️ recurring |
+| V-past + です directly | Need noun between V-past and です | ⚠️ recurring (3rd session) |
+| 来週 vs 先週 | 来週 = next week (future); 先週 = last week (past) | New |
+| タイで vs タイに | で = location of action; に = destination | ⚠️ recurring (drilled L09/L10) |
+| 仕事から → 仕事で | "For/by means of work" = で, not から | New |
+| 美味しいですね → 美味しかったです | Past tense for completed event | New |
+| 十年前 → 十年前**の** | の to modify noun (時 expressions) | New |
+| こちらこそ + extra subject | Keep simple: こちらこそ、お世話になっています | New |
+
+#### Open items
+- L17 patterns producing in roleplay context
+- Recurring slip: V-past + N + です structure (still occasionally drops the noun)
+- Time-of-action vs time-as-modifier (の vs に)
+- L17 thank-you email writing — not drilled yet (textbook section 4)
+- Consider: L17 consolidation drill OR move to L18 next?
+
+---
+
+*Next session: L17 thank-you email writing exercise → L18 intro if comfortable.*
